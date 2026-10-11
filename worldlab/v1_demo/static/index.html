@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>WorldLab V1 Preview｜既有實驗回放</title>
+  <link rel="stylesheet" href="app.css">
+</head>
+<body data-phase="loading">
+  <header>
+    <span class="banner" id="banner">既有實驗回放</span>
+    <h1>WorldLab V1 Preview</h1>
+    <p class="lede">這是使用凍結研究資料的研究原型，用來回放已經保存的場所選擇。它不是正在生成的新世界，也還沒有真人行為效度。</p>
+    <p>狀態：V1_PREVIEW／REPLAY_ONLY／NOT_RELEASED。Experiment 021：NOT_STARTED。</p>
+    <p id="load-status" role="status">正在載入既有回放資料。</p>
+    <button type="button" id="retry" hidden>重新載入</button>
+  </header>
+
+  <section>
+    <h2>選擇既有條件</h2>
+    <div class="controls">
+      <label>記憶如何累積
+        <select id="memory" disabled></select>
+      </label>
+      <label>分數如何轉換
+        <select id="transform" disabled></select>
+      </label>
+      <label>參考校準標籤
+        <select id="q-label" disabled></select>
+      </label>
+      <label>隨機經歷 seed
+        <select id="seed" disabled></select>
+      </label>
+      <label>左視窗的社會資訊時程
+        <select id="left-schedule" disabled></select>
+      </label>
+      <label>右視窗的社會資訊時程
+        <select id="right-schedule" disabled></select>
+      </label>
+    </div>
+    <p class="note" id="q-note"></p>
+    <p class="note">E 指的是本世界其他代理人留下的歷史資訊，不是這位旅客自己的偏好。O 只替換 social field；位置、當下人數與基礎效用仍由這個世界自己更新。EE 全程用本世界歷史，EO 從 decision t=51 改用 donor，OE 相反，OO 全程用 donor。S0 是 donor 參考回放。EE、OO 與 S0 不會在 t=51 更換來源。示意布局不表示真實距離或移動路線。</p>
+  </section>
+
+  <section>
+    <h2>同步回放</h2>
+    <div class="transport">
+      <button type="button" id="play" disabled>播放</button>
+      <button type="button" id="pause" disabled>暫停</button>
+      <button type="button" id="restart" disabled>回到起點</button>
+      <button type="button" id="back" disabled>後退一步</button>
+      <button type="button" id="forward" disabled>前進一步</button>
+      <label>播放速度
+        <select id="speed" disabled>
+          <option value="1">每拍 1 步</option>
+          <option value="5">每拍 5 步</option>
+          <option value="20">每拍 20 步</option>
+        </select>
+      </label>
+      <strong id="clock">committed t = —</strong>
+    </div>
+    <div class="jumps">
+      <p>跳到指定時間。這些按鈕不是滑桿上的比例刻度。</p>
+      <button type="button" id="jump-0" disabled>初始 t=0</button>
+      <button type="button" id="jump-50" disabled>切換前 t=50</button>
+      <button type="button" id="jump-51" disabled>時程分段 t=51</button>
+      <button type="button" id="jump-500" disabled>結束 t=500</button>
+    </div>
+    <div class="slider-row">
+      <span>時間</span>
+      <div class="slider-track">
+        <input id="time-slider" type="range" min="0" max="500" value="0" disabled>
+        <div class="ruler" aria-hidden="true">
+          <span class="tick tick-0"><span class="tick-label">0</span></span>
+          <span class="tick tick-50"><span class="tick-label">50</span></span>
+          <span class="tick tick-51"><span class="tick-label">51</span></span>
+          <span class="tick tick-500"><span class="tick-label">500</span></span>
+        </div>
+      </div>
+    </div>
+    <p id="time-caption"></p>
+    <p id="switch-note"></p>
+  </section>
+
+  <div class="stages">
+    <section class="panel" id="left-panel" aria-label="左視窗"></section>
+    <section class="panel" id="right-panel" aria-label="右視窗"></section>
+  </div>
+
+  <div class="columns">
+    <section>
+      <h2>如何閱讀</h2>
+      <ul>
+        <li>畫面是 20 位代理人、5 個場所、同一份固定 Atlas。</li>
+        <li>本頁只回放 seeds 1700、2199、2699。這三個 seed 是 Experiment 020 事先指定的驗證子集。</li>
+        <li>單條示範不能替代 1000 seeds 的整體研究結果。</li>
+        <li>當下人數會跟著時間改變。整段的訪問集中度不會跟著跳轉重算。</li>
+        <li>HHI＝1 只表示這一條軌跡的累積訪問集中在一個場所。不同世界可以集中在不同場所。</li>
+        <li>強集中事件要連續 20 步達標。起始步與確認步不同。</li>
+        <li>只有 EO 與 OE 會在 decision t=51 更換來源。EE、OO 與 S0 不會。</li>
+        <li>目前沒有真人行為驗證。</li>
+      </ul>
+    </section>
+    <section>
+      <h2>資料來源</h2>
+      <p>平台版本 V1 Preview 引用 Experiment 020，不取代 Experiment 020。研究總結見 <a href="/source/research-synthesis-v020.md">Research Synthesis v0.20</a>。這頁不另寫新的研究主張。</p>
+      <p class="source-note" id="source-note"></p>
+      <p class="hash" id="active-hash"></p>
+    </section>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

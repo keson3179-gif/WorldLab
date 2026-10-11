@@ -1,0 +1,29 @@
+{
+  "priority_sites": 28,
+  "priority_rows": 36,
+  "confirmed_manual": 5,
+  "mismatch_site_years": 317,
+  "geographic_groups": 24,
+  "substitution_groups": 20,
+  "excel_years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ]
+}

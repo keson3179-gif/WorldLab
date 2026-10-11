@@ -1,0 +1,1568 @@
+{
+  "python": "3.12.10",
+  "builder": "v1_demo/build_preview.py",
+  "builder_sha256": "09afe11e744dee51c6584530dbbd5f932a39445cdd45040df2a0968dae34a237",
+  "worlds_resimulated": false,
+  "llm_calls": 0,
+  "sources": [
+    {
+      "path": "data/worlds/world_v0_20/trajectories/1700.json",
+      "sha256": "3db83445d78f6d0de63185aa3612a804f534da005bcec78ae84ec9e9bce41b33"
+    },
+    {
+      "path": "data/worlds/world_v0_20/trajectories/2199.json",
+      "sha256": "31c8d5db51da8a225df24cc873fd6cd6eb40332e3978b7bcc68441d95d6ab003"
+    },
+    {
+      "path": "data/worlds/world_v0_20/trajectories/2699.json",
+      "sha256": "333c1cc620f8fab5a5c5a4b1242965c64f268690bdec735db10f39a738f9bce9"
+    },
+    {
+      "path": "data/worlds/world_v0_20/seeds/1700.json",
+      "sha256": "4f65adedd74508adeafd43fad1db38ffaf412659e9e04b6fdcf7850d14fa549c"
+    },
+    {
+      "path": "data/worlds/world_v0_20/seeds/2199.json",
+      "sha256": "6aacfcc06c2af8595f0a9465559207979c193a0fee9beace0bc698d179386754"
+    },
+    {
+      "path": "data/worlds/world_v0_20/seeds/2699.json",
+      "sha256": "46a6616a7a9378877bec13169d475834bb27d96aaf4a5c4ddbaea14992d810d8"
+    }
+  ],
+  "inventory": [
+    {
+      "seed": 1700,
+      "condition": "CUM_LOGMAX__q05",
+      "schedule": "EE",
+      "trajectory_sha256": "10d36136b82bd2f15103def541a707914751ea40ef6b3f4970a23ef8727ba3c3",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_LOGMAX__q05",
+      "schedule": "EO",
+      "trajectory_sha256": "cfa863141102c70b1fa2b13823b78677613345e5df50059506eeae554b0bcd97",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_LOGMAX__q05",
+      "schedule": "OE",
+      "trajectory_sha256": "cabcdb6e23d0def13f342fbaa5e173aaff8370ed58cb829fe07e85603b3587f2",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_LOGMAX__q05",
+      "schedule": "OO",
+      "trajectory_sha256": "45040f6d0dd8ebb319b67529cd1d86d6fa145832098294faf3d23791908f8c29",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_LOGMAX__q15",
+      "schedule": "EE",
+      "trajectory_sha256": "bb0df1e325371c370173289113e4689accb7478f167914240a2b66433a360a20",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_LOGMAX__q15",
+      "schedule": "EO",
+      "trajectory_sha256": "7c510622c15a4942aeb049a42cdc0bd94cc2ae2451b498a982f390fdd6d13575",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_LOGMAX__q15",
+      "schedule": "OE",
+      "trajectory_sha256": "6ae797957d055480969e1048e18ffad00a345459863b42b0924195947d680241",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_LOGMAX__q15",
+      "schedule": "OO",
+      "trajectory_sha256": "575ec6b7da1704492e48bd16aebd26dcaf59deea225a8deff5b54e0b027d0d73",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_LOGMAX__q25",
+      "schedule": "EE",
+      "trajectory_sha256": "bb0df1e325371c370173289113e4689accb7478f167914240a2b66433a360a20",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_LOGMAX__q25",
+      "schedule": "EO",
+      "trajectory_sha256": "ba6d21d1d1ea59459981ab7889aa296c9af603a6deba51a750f1c64a684876f3",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_LOGMAX__q25",
+      "schedule": "OE",
+      "trajectory_sha256": "da3fc4bd9039bae6d803b7d1c1b92cf161f24e985786379d293b9faa6a0f5ad4",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_LOGMAX__q25",
+      "schedule": "OO",
+      "trajectory_sha256": "02c673b6b3cc6b6039c4d3141c5f196750d5ab92227270bb8ac008e655e872de",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_ZRAW__q05",
+      "schedule": "EE",
+      "trajectory_sha256": "b6bd631984c68976068e272dd1238acc8e4009da3f8425f1fe38dec4987a2ce6",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_ZRAW__q05",
+      "schedule": "EO",
+      "trajectory_sha256": "f8f71ad8674631047fe43554584734d70385a0ded3498a35bb3f4ff25b268a49",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_ZRAW__q05",
+      "schedule": "OE",
+      "trajectory_sha256": "0e92980d5ab74cbeca38c253eb6652551d284fcdd895cc0685828f740dc19637",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_ZRAW__q05",
+      "schedule": "OO",
+      "trajectory_sha256": "cdd9b7fb7d50686fd9f5e5f7481e81cfcbdd606dc028615883ddf0b5e5638967",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_ZRAW__q15",
+      "schedule": "EE",
+      "trajectory_sha256": "106b7550c57f5ebae987de6a8c47ff9d5e73a055e8d99550667ee95360a944e3",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_ZRAW__q15",
+      "schedule": "EO",
+      "trajectory_sha256": "e4768c92562cd6e21ce69414ec707aaa9bda8566d93e942f48dba41d826f8db0",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_ZRAW__q15",
+      "schedule": "OE",
+      "trajectory_sha256": "815df05cae6912277d969f413ddbeae873cbac64f892d000472e4b579dffd13a",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_ZRAW__q15",
+      "schedule": "OO",
+      "trajectory_sha256": "77224111f857b27b13579bba2b994afac8139f1bb3e89cb609bcc7bdf6b200e0",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_ZRAW__q25",
+      "schedule": "EE",
+      "trajectory_sha256": "1567846676c51b5862d136186d8a7bf23e2da21603cc7213385a2d9d9995bdfc",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_ZRAW__q25",
+      "schedule": "EO",
+      "trajectory_sha256": "d855528d1c0915959f3d9f7114ed5d445583a6d68e427c4caa1dde3d011f35df",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_ZRAW__q25",
+      "schedule": "OE",
+      "trajectory_sha256": "d1d43dc0973e0f4210c0d0fe109242722f5e2387f83d6a8db963ebfaf04f5641",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "CUM_ZRAW__q25",
+      "schedule": "OO",
+      "trajectory_sha256": "cdb73d8d07a1d089c2eeac3b3e1163e5ddf046a7f4efde8f5e2af1ba3e7b6ece",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_LOGMAX__q05",
+      "schedule": "EE",
+      "trajectory_sha256": "0245e99616f06824b1487e20d2d096b1ccf59c75c99aa6fd11d73a6930c8c1a9",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_LOGMAX__q05",
+      "schedule": "EO",
+      "trajectory_sha256": "75b175baba1910ca3a4d23e6659c9ea09ea6654e278f74e686fcf106caa973f2",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_LOGMAX__q05",
+      "schedule": "OE",
+      "trajectory_sha256": "8541a298c28b1aca6e854cd212d8957abb65a0f1816f275f5b86f86e37ef5f7f",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_LOGMAX__q05",
+      "schedule": "OO",
+      "trajectory_sha256": "f58131e3ce5ce3d2bb7776b8a654a2d2faf2617d1a391aa378e1ea29d59940e7",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_LOGMAX__q15",
+      "schedule": "EE",
+      "trajectory_sha256": "9ec6c971314d38d446e9f823e24d8fa37bf9e69b503482d0bd9e4e4a3f2209e6",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_LOGMAX__q15",
+      "schedule": "EO",
+      "trajectory_sha256": "c9a844ab2631ca4cd9ac8c73c7371704d9a1d0665b8d2dd61847468e07d71ccd",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_LOGMAX__q15",
+      "schedule": "OE",
+      "trajectory_sha256": "93fdd44ff581601a884c1f03dcdeedf0c6529f753b5f2823da8de8769766145c",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_LOGMAX__q15",
+      "schedule": "OO",
+      "trajectory_sha256": "aef5f0f20ae9f62da0a9b08602504007a3be892607b20f518b599d0c3d2e1f27",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_LOGMAX__q25",
+      "schedule": "EE",
+      "trajectory_sha256": "bb0df1e325371c370173289113e4689accb7478f167914240a2b66433a360a20",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_LOGMAX__q25",
+      "schedule": "EO",
+      "trajectory_sha256": "7f05ef6ee612a0362c061d6ef6e26d5c0930e7e9b2eb066fcd679cef2c744b46",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_LOGMAX__q25",
+      "schedule": "OE",
+      "trajectory_sha256": "552a3504e016c43d6ca47430f6c2353ce595c58b99ef09b0cafd265a9a295a84",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_LOGMAX__q25",
+      "schedule": "OO",
+      "trajectory_sha256": "93d33194a9a62dbfb659aad46abb2fd45dfe881a96e77af4956139976a80825c",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_ZRAW__q05",
+      "schedule": "EE",
+      "trajectory_sha256": "5425bead7e112d3ac17ec69f470bf698a6c666efc04d832584b9fde254ffc235",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_ZRAW__q05",
+      "schedule": "EO",
+      "trajectory_sha256": "2324fe47efd35e0eb6b4d2b73fd70181c73d693c25cabc0b341babccfe2e6204",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_ZRAW__q05",
+      "schedule": "OE",
+      "trajectory_sha256": "cf661c206b066e10fd3995ba8e1b1c4779d909717b28698946fd90e0270ffce7",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_ZRAW__q05",
+      "schedule": "OO",
+      "trajectory_sha256": "8889c1bb470475c4d85fec4892916addf5f3a8ebe10b3534e27606bdb80fd88a",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_ZRAW__q15",
+      "schedule": "EE",
+      "trajectory_sha256": "992cd38b3ef2c23a47b373f4cf4315aa419771dff79c78336f9262e3a9c9a50b",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_ZRAW__q15",
+      "schedule": "EO",
+      "trajectory_sha256": "973408b061948bdb51ecc2ea0132410c858ce9c16f3262b7b20d444d60b407e6",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_ZRAW__q15",
+      "schedule": "OE",
+      "trajectory_sha256": "9451894a8a591cf5a1784e0e386d684219e80a3b20d67491b8b3ea4dd9afcb5a",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_ZRAW__q15",
+      "schedule": "OO",
+      "trajectory_sha256": "45fad86401e1e836a21f6988b5a82faf4de7d8b1bb301d0c46530f6e383f3a1e",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_ZRAW__q25",
+      "schedule": "EE",
+      "trajectory_sha256": "5b1b023eb14f984905ede7b311ada6ca85a34d9fe4d0f1cb9b8cb5c86a35025c",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_ZRAW__q25",
+      "schedule": "EO",
+      "trajectory_sha256": "497b586a66edfbb41dcd4fda069b7877e076af997897e999f9a151ab1b993253",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_ZRAW__q25",
+      "schedule": "OE",
+      "trajectory_sha256": "3278802a5cff3e4a41cf44c968f0ad60fc4192d14481616b0ddc6651eda832e0",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "RW50_ZRAW__q25",
+      "schedule": "OO",
+      "trajectory_sha256": "cc1c9beb1bffae0e58f02c31f1b57d6c99539814e974a5983f8500336b1da8d3",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_LOGMAX__q05",
+      "schedule": "EE",
+      "trajectory_sha256": "04242e03e33b5dd3b454aa42cee922505f96a7449609cbf5c96afe60d5aa1fbd",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_LOGMAX__q05",
+      "schedule": "EO",
+      "trajectory_sha256": "6fb1eb2dfd18df9fb082c1459aa87ad0f3982a9004e563dac4e315e390e68429",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_LOGMAX__q05",
+      "schedule": "OE",
+      "trajectory_sha256": "74877955993f683b10b157fca7d368a5e3cce0baef3bdccc6a76da72781a863e",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_LOGMAX__q05",
+      "schedule": "OO",
+      "trajectory_sha256": "b80f9ab821d635cb88a30a21d217bb7c48f2fc3995066cd16e6a641064f1d6df",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_LOGMAX__q15",
+      "schedule": "EE",
+      "trajectory_sha256": "567a29bbeaf1ebdb05f0f802b1cafb2c4e830875d08fb19a56dfab271fbeadb5",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_LOGMAX__q15",
+      "schedule": "EO",
+      "trajectory_sha256": "7059c530f7f45e2c21a4bbb28a42a544938fdc232f0c93efedc077385d944fca",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_LOGMAX__q15",
+      "schedule": "OE",
+      "trajectory_sha256": "9cd63e6849c97e87e37e42a37a565d684c528bcaeb9cdb2c7bbef712a37cb0b4",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_LOGMAX__q15",
+      "schedule": "OO",
+      "trajectory_sha256": "f3a04a4ee71517b2293143a0cfafd88641bbf0e40899b30411372c54f6079156",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_LOGMAX__q25",
+      "schedule": "EE",
+      "trajectory_sha256": "bb0df1e325371c370173289113e4689accb7478f167914240a2b66433a360a20",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_LOGMAX__q25",
+      "schedule": "EO",
+      "trajectory_sha256": "8a6654b8b6c6e81114b6c9d313d2d815332c39da2465180a81e82ca8c9e2d61b",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_LOGMAX__q25",
+      "schedule": "OE",
+      "trajectory_sha256": "794172fadc3163c4e7fe4e974abdd3e8d3aa644f59fd0469af5aee66760ee772",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_LOGMAX__q25",
+      "schedule": "OO",
+      "trajectory_sha256": "12ddeb66a445d04d962a677c01ee6b84f35140c3368b1c0df0fe6921789cc3aa",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_ZRAW__q05",
+      "schedule": "EE",
+      "trajectory_sha256": "0467f59da41530918ab4bc21b1297334744870e1495c18cd25770d9d2caa6be2",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_ZRAW__q05",
+      "schedule": "EO",
+      "trajectory_sha256": "368a4c947bd052e8e5f1fbb32f2e1076c7b957a94a790e2453131866750150d1",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_ZRAW__q05",
+      "schedule": "OE",
+      "trajectory_sha256": "fc2352a63a0e9a411bff6112d2b8520fa5d04a875855a170c66bba0721d0acfc",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_ZRAW__q05",
+      "schedule": "OO",
+      "trajectory_sha256": "0a081b8b5f331c455fe449d74a688b059014e845d1311e7747a72d6cdf19ac46",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_ZRAW__q15",
+      "schedule": "EE",
+      "trajectory_sha256": "bf01b804dc57632fb4defe1ce64190b1dd46ca03917a7b4b1ce4f1c3ebc1e8d2",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_ZRAW__q15",
+      "schedule": "EO",
+      "trajectory_sha256": "8812dbc482a79cd0cf1c9d1d20f964d574984f708277178ba91c9c378e33d67d",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_ZRAW__q15",
+      "schedule": "OE",
+      "trajectory_sha256": "aa24ee72142965550d1f26db0c9ec790b6d0487c52163489a30b6178f24ac4a7",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_ZRAW__q15",
+      "schedule": "OO",
+      "trajectory_sha256": "f5f0d962eb41c6f5401d38de8cef2168af83877bdd941c38ad5fe3ac49e59961",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_ZRAW__q25",
+      "schedule": "EE",
+      "trajectory_sha256": "6c0e7127935c7b329a9d610610aa68c4eb13142578b162685983a889917f1f1a",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_ZRAW__q25",
+      "schedule": "EO",
+      "trajectory_sha256": "a8c67be664a8ac8658490afbf21c5121c282004ec13eb1697c99b5b756460ef1",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_ZRAW__q25",
+      "schedule": "OE",
+      "trajectory_sha256": "008eeb6c5f171db169c99246b7e4894176311a0977c25a05e153b0fb1504f488",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "EXP99_ZRAW__q25",
+      "schedule": "OO",
+      "trajectory_sha256": "49094d9fdad16da212780ca5604c660bd67c3b80f77d10bc940370448d7232c6",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 1700,
+      "condition": "S0",
+      "schedule": "S0",
+      "trajectory_sha256": "ed6240763a0f7be78223298d869fbd5432c6fe60352653a4623a20d2760881b7",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/1700.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_LOGMAX__q05",
+      "schedule": "EE",
+      "trajectory_sha256": "3ecdfb8935ff87a3985c54c4aa4e6e02de27bab7783ac4a5af8c0af2fec6e151",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_LOGMAX__q05",
+      "schedule": "EO",
+      "trajectory_sha256": "795dbd15146d15087a6d21b04e2c4896a33d611c2e3f1fb294402e950faa060d",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_LOGMAX__q05",
+      "schedule": "OE",
+      "trajectory_sha256": "db67c8e3619fe8d390ac33d24ae7c388768eac86cbdea72b2330f541833f0786",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_LOGMAX__q05",
+      "schedule": "OO",
+      "trajectory_sha256": "f4dbd4b3298eccd7ea1119f7def2f8c4aa8f5f290c6e11bf2cec9d61a3c03176",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_LOGMAX__q15",
+      "schedule": "EE",
+      "trajectory_sha256": "4d29070cc840d9d73d465f5773acd1997f997e0f9eade433f7253eee8e92042d",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_LOGMAX__q15",
+      "schedule": "EO",
+      "trajectory_sha256": "ce8362daf0fa5b781828421c5f54d62d759d1ac490c62c48fd13452ffd236653",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_LOGMAX__q15",
+      "schedule": "OE",
+      "trajectory_sha256": "63d11ce5b0ef18900de5f239ae3042cb42254d9ae69c5cc3344bce2eb08707c0",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_LOGMAX__q15",
+      "schedule": "OO",
+      "trajectory_sha256": "a41a78f552ecc511902fad0699a762696f6c87414146343c1695ba1da7653176",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_LOGMAX__q25",
+      "schedule": "EE",
+      "trajectory_sha256": "eaa9bd1badbcad104831c5fafb06880c72ae2de5d8b0272615715f63fcb318a6",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_LOGMAX__q25",
+      "schedule": "EO",
+      "trajectory_sha256": "1350f7b6c7dced50c6bef159b45cb3f4b61d6622f18556ab56645ccf4a154d7e",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_LOGMAX__q25",
+      "schedule": "OE",
+      "trajectory_sha256": "e37b252f4c2938022a2e9e2c8a2a92a0fb4f2029b82714aa18f736955851dbc0",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_LOGMAX__q25",
+      "schedule": "OO",
+      "trajectory_sha256": "aea02d7912b9acc5596c3fd713624942b746c178ed825d529bf0d19376024429",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_ZRAW__q05",
+      "schedule": "EE",
+      "trajectory_sha256": "c780cafc03b40d22170d905e55a27c6ad7868dbba375ab276a3fe002d0988993",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_ZRAW__q05",
+      "schedule": "EO",
+      "trajectory_sha256": "fed617b4ca38607956ed6e267abe136f6be9b9cbfa7cf2b816264e89f21931ca",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_ZRAW__q05",
+      "schedule": "OE",
+      "trajectory_sha256": "ea7bf6635646ba3f4abff248647239ca8a87800352751d1bc7bd21f7270f4c5a",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_ZRAW__q05",
+      "schedule": "OO",
+      "trajectory_sha256": "7ca4b9cb37cac8f5189b1d14cc7b10b4e19a6b7484a95909986013485b1402ea",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_ZRAW__q15",
+      "schedule": "EE",
+      "trajectory_sha256": "5ebc310cddc42d35767e2161ab0c507a3257a0d798eb66ad924eb82e4aa7f34a",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_ZRAW__q15",
+      "schedule": "EO",
+      "trajectory_sha256": "ef8e48d40e45f377bf1e161d1d2fb0a909b2f3fabc371b938402889ddffa6b97",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_ZRAW__q15",
+      "schedule": "OE",
+      "trajectory_sha256": "c54cf72831a506348725c805e2d71cb07a3ae1729e67bacbc00a1c44d34f5d1c",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_ZRAW__q15",
+      "schedule": "OO",
+      "trajectory_sha256": "b22e200b3d2409fdf328f06e968087e4239379a9f1580765e5eb059e7084565a",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_ZRAW__q25",
+      "schedule": "EE",
+      "trajectory_sha256": "b217bae239d942d929975af43fac33a88a6d3a4f0a75fee62871d4ab9a213782",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_ZRAW__q25",
+      "schedule": "EO",
+      "trajectory_sha256": "88eaaedce4e5935719dda94465f5f16918de74a028baf5e1b4323cc7e34186f6",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_ZRAW__q25",
+      "schedule": "OE",
+      "trajectory_sha256": "0d61b053cf2ee8b4148129b5dee134bb5046bf4531665ba18f1254eea3adc89a",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "CUM_ZRAW__q25",
+      "schedule": "OO",
+      "trajectory_sha256": "508bf85a2e17e5fe53ee54294648d984e098b5e9516cb2285efd7c79a76aa5e5",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_LOGMAX__q05",
+      "schedule": "EE",
+      "trajectory_sha256": "ad2cedbf367800e93fe074c05fb2c8f5efe4f51556131c205221d208464aa04c",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_LOGMAX__q05",
+      "schedule": "EO",
+      "trajectory_sha256": "3c4897e05e9cfe7c2181479037078fcfcff6242a8b44627695737bec804b477d",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_LOGMAX__q05",
+      "schedule": "OE",
+      "trajectory_sha256": "c587a57b40d7670df627e342faae33067043c4e0c515fcc76e3b363353e91a22",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_LOGMAX__q05",
+      "schedule": "OO",
+      "trajectory_sha256": "d3427a792def11eddaaae074e21a8dd0b46b4cb2acede954dd33084504c0150a",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_LOGMAX__q15",
+      "schedule": "EE",
+      "trajectory_sha256": "996a4e401cb8578ca88741a3caa369269724f5e3d25b2ad5ecbf8181154b6448",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_LOGMAX__q15",
+      "schedule": "EO",
+      "trajectory_sha256": "84dd9916364e73c77e9524b6587313e41c497c74264d3284b42c321b819a5225",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_LOGMAX__q15",
+      "schedule": "OE",
+      "trajectory_sha256": "e3548355c42ff38c20e155021aaed59f6c0f4dc7e0b873046eb218c692373381",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_LOGMAX__q15",
+      "schedule": "OO",
+      "trajectory_sha256": "22e18cc4e641e8a9d65afcac89be5086e5e372df4e16b28451d2b399cebecac9",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_LOGMAX__q25",
+      "schedule": "EE",
+      "trajectory_sha256": "eb70e94bd79144c36151243321922a0488d6af4c06d699f6f2ba6f4ba23cf425",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_LOGMAX__q25",
+      "schedule": "EO",
+      "trajectory_sha256": "c59bae3a460bffc7ee3f20abd9cf3c0d7dcf3857506638766cdbdae74820c512",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_LOGMAX__q25",
+      "schedule": "OE",
+      "trajectory_sha256": "546672592c0f366307171ab1a801a6d63f7c6d858a81a8f17decac7f303ebcd4",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_LOGMAX__q25",
+      "schedule": "OO",
+      "trajectory_sha256": "5d8a4b35878671019f52c09f9a82656a578d21f05df79c9d0baa266e9c37150d",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_ZRAW__q05",
+      "schedule": "EE",
+      "trajectory_sha256": "77c8351c605214c1c9b02c51f265434bd502f6fa5705770eb141525b894dbc7a",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_ZRAW__q05",
+      "schedule": "EO",
+      "trajectory_sha256": "26b0794f225d6ecc890cb8b914fb42082f0a35027ec2383b76b305900bd7fcd1",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_ZRAW__q05",
+      "schedule": "OE",
+      "trajectory_sha256": "dd958f818399d53ecfdd003865fe6699a98eb88e90beb36748f78eae8ba18bbf",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_ZRAW__q05",
+      "schedule": "OO",
+      "trajectory_sha256": "ab43f4696bfae8b3f4037a61d6bb0bbc1011cb5eab9d021bb573cfb5d0178594",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_ZRAW__q15",
+      "schedule": "EE",
+      "trajectory_sha256": "776e60ee59cb2f01d0b8a5c7359ffe10852d795045851ef57307001235cd75ee",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_ZRAW__q15",
+      "schedule": "EO",
+      "trajectory_sha256": "b32e742ae260349ae3f3128e9cc56d75e3168f18ad046226f52f33db2297d3a4",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_ZRAW__q15",
+      "schedule": "OE",
+      "trajectory_sha256": "3c7abb81dfc6f90c855b258e19fdc0d2f182eaa8b3b10108ae2a1febf9dece76",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_ZRAW__q15",
+      "schedule": "OO",
+      "trajectory_sha256": "5c6c2b98db44ebd5e9f7fd993bacc2d9cf65740a5adbd73b1d33d999141b8cee",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_ZRAW__q25",
+      "schedule": "EE",
+      "trajectory_sha256": "efdd47a6351cb04e7964d11c542cae58878246cf19e6a5f0ac36cb1c5fcddc6b",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_ZRAW__q25",
+      "schedule": "EO",
+      "trajectory_sha256": "d77e1a8e977f150b1dd5e6647532531bed581add93cf99945d0a7b065f04192b",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_ZRAW__q25",
+      "schedule": "OE",
+      "trajectory_sha256": "359e1db2c8a2a8546b256b19a3e9ab885ffd57de413db62c3d7c6b9d5e96b0e5",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "RW50_ZRAW__q25",
+      "schedule": "OO",
+      "trajectory_sha256": "9b439dd9b7443dd589c98f7f56722652230c6efa66e3c15d264cdbafe4f7391d",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_LOGMAX__q05",
+      "schedule": "EE",
+      "trajectory_sha256": "49f4986b8832986ddf76e4628b44c7ce468484a2ea49ddb22b4e447081e5f024",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_LOGMAX__q05",
+      "schedule": "EO",
+      "trajectory_sha256": "0e1d8ed7da914782ed44ed8d01beaa421b9f396f93b95b3277373078638b4a11",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_LOGMAX__q05",
+      "schedule": "OE",
+      "trajectory_sha256": "a8f5837de1d83dcdcc2ddafc80ffe9e09bc0d8efaa6f59789939bf169248d231",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_LOGMAX__q05",
+      "schedule": "OO",
+      "trajectory_sha256": "01b2f35fa81026683db804d134519bc5a706ffb0a69a878673fde4536cc5b5dd",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_LOGMAX__q15",
+      "schedule": "EE",
+      "trajectory_sha256": "fb39676f6cc9418a6a419479d781e1ab1e5c54d9c7595ce5fe9c972816808566",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_LOGMAX__q15",
+      "schedule": "EO",
+      "trajectory_sha256": "4b7baa13fb8a3550f99e4fa226ab09e42b2b173f99a91da3b6c2fda9ac1da1f2",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_LOGMAX__q15",
+      "schedule": "OE",
+      "trajectory_sha256": "5c4ef1d3e68572828d27c25ef177b2e7af430410908b00aa056e657e54c6a3be",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_LOGMAX__q15",
+      "schedule": "OO",
+      "trajectory_sha256": "05001f6ce12e4cdae88b0254a99a91ccbc2f65189f9fc504faba1aa8192df0e5",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_LOGMAX__q25",
+      "schedule": "EE",
+      "trajectory_sha256": "eaa9bd1badbcad104831c5fafb06880c72ae2de5d8b0272615715f63fcb318a6",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_LOGMAX__q25",
+      "schedule": "EO",
+      "trajectory_sha256": "91af255f375b4de79bab79ca6dce54ee391de1182e06ea0d38bb8a4d372feea5",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_LOGMAX__q25",
+      "schedule": "OE",
+      "trajectory_sha256": "54e24b3c98be2848891001b17eeeaff4949cfc9720266f3a1e38d98bb04c6802",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_LOGMAX__q25",
+      "schedule": "OO",
+      "trajectory_sha256": "97ecd7c5ceb900dc8284c40f98307c36a96a82bccbd19d239e575c4c75c9b835",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_ZRAW__q05",
+      "schedule": "EE",
+      "trajectory_sha256": "8694a0857cc82078f376a25bbd6175dadb6c937965633a6fbc6e3d5d71ac5eeb",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_ZRAW__q05",
+      "schedule": "EO",
+      "trajectory_sha256": "8afacde5a64fb52908b687d3af4a14bac0ec31713726a671e03ec6a06eff182a",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_ZRAW__q05",
+      "schedule": "OE",
+      "trajectory_sha256": "a6d713bb7c02d0989f8bd435ab3481494c8f447ecc115659dcfedeeb19f017c8",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_ZRAW__q05",
+      "schedule": "OO",
+      "trajectory_sha256": "ac72dcc19c441f6b499d7953bb266eb61bc8100ad65f6cc769a4a1519032c295",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_ZRAW__q15",
+      "schedule": "EE",
+      "trajectory_sha256": "f1c603a93f084793a68a12e3b74ffaaa183e7f3e998c6312bb9d4c7fe37e2143",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_ZRAW__q15",
+      "schedule": "EO",
+      "trajectory_sha256": "6d18280b47b72dffbfee7380d616fd2c2c03b6c8f72a02c492b6747d05cebbf9",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_ZRAW__q15",
+      "schedule": "OE",
+      "trajectory_sha256": "546bb54049e16703ff1f9b5fe449a1718e2a3b0f9ced8450c8c11f636a685799",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_ZRAW__q15",
+      "schedule": "OO",
+      "trajectory_sha256": "8928783ce66234c03c0effa80faf73538e99b4edf936d76121529200e5049e50",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_ZRAW__q25",
+      "schedule": "EE",
+      "trajectory_sha256": "81b956a124469ea9600f6e3497d53b3789c8a9d0170569a1adcb35871fabeb77",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_ZRAW__q25",
+      "schedule": "EO",
+      "trajectory_sha256": "5604d7a356a5b373c2c2628f762ca926e8fcb067218bb057964073ea893f1b38",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_ZRAW__q25",
+      "schedule": "OE",
+      "trajectory_sha256": "2e3ae72c81708762e09501e55d8acf56e2ca87d822840f5d1dc47041e8e30fbd",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "EXP99_ZRAW__q25",
+      "schedule": "OO",
+      "trajectory_sha256": "2734b49095fc497a8c02899cb96abb8765e58895d0321585816a9bc99b16f1d7",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2199,
+      "condition": "S0",
+      "schedule": "S0",
+      "trajectory_sha256": "74c894b0743dfda99ae599af3501b5c830494e836f703bc2ba61272bf51ad382",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2199.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_LOGMAX__q05",
+      "schedule": "EE",
+      "trajectory_sha256": "ca40bfb8cd52bd013facea18533fcc2c8b8aff91789be25effe1af96f3388372",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_LOGMAX__q05",
+      "schedule": "EO",
+      "trajectory_sha256": "5d724b8df7a1272266e4af0089aa57c5aac9d9fb95f2ddd9533ef020fab2375c",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_LOGMAX__q05",
+      "schedule": "OE",
+      "trajectory_sha256": "7dd1cd3107684d70d14ca224564d8f8faf9726dd2d1386f7bce0cd911e71d626",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_LOGMAX__q05",
+      "schedule": "OO",
+      "trajectory_sha256": "e3c2d3ef45067c652bc01960768de45ce0d4e4b8f5bbbfb163e2847ec6b74fe4",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_LOGMAX__q15",
+      "schedule": "EE",
+      "trajectory_sha256": "d2b5d637661d3867860b8f8c32eba888de3fb6aa25fe91bb6d6999adc6af8f74",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_LOGMAX__q15",
+      "schedule": "EO",
+      "trajectory_sha256": "94c1647a1210e2366dea1df28a1b0efb19f81349227b8d32821d29cb52b59dcb",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_LOGMAX__q15",
+      "schedule": "OE",
+      "trajectory_sha256": "c2bcfa3a441378406a04ebe370e5e07b84eb4be6789fd5466ec1bf6f43f01384",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_LOGMAX__q15",
+      "schedule": "OO",
+      "trajectory_sha256": "a83ff2a7a54cc06f5e58193e3d3097827468cf6cc6cfd9f78f619b66836ce1ee",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_LOGMAX__q25",
+      "schedule": "EE",
+      "trajectory_sha256": "79424cba9399b838058a24972f7e72f75bbeb315bfedfdcca59a4cb55f85ad75",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_LOGMAX__q25",
+      "schedule": "EO",
+      "trajectory_sha256": "a71b556707c8248b4823032982ab7b5f3ff6a29d4e94d36f959444141e4a267d",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_LOGMAX__q25",
+      "schedule": "OE",
+      "trajectory_sha256": "1dc49d230bbedd24359cc32db42be168b1f3b71c156e2716d1be2bba8368f9b5",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_LOGMAX__q25",
+      "schedule": "OO",
+      "trajectory_sha256": "e07e76793a8079bf77f54a26a71f4fcbec6c268c70f38dd693637f6feed228da",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_ZRAW__q05",
+      "schedule": "EE",
+      "trajectory_sha256": "3ca94bb92f2d7cbc71c8124c02e58dafefec9de081e269bed31ac07a5d09bcf4",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_ZRAW__q05",
+      "schedule": "EO",
+      "trajectory_sha256": "b021b9c8c41c24f7412849c45d174944205c969e8fa0dcd0d15dd60b05d3f6ef",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_ZRAW__q05",
+      "schedule": "OE",
+      "trajectory_sha256": "2332fb4606c0d8b9396f208d51e710a736b2ecb8ecb9f93c36036f4e93d7dbe2",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_ZRAW__q05",
+      "schedule": "OO",
+      "trajectory_sha256": "0fedd166777d4abe742a376d16d877a1093862aa358d2d641f6d0d3c9e0219b1",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_ZRAW__q15",
+      "schedule": "EE",
+      "trajectory_sha256": "144fd4b0d6c22296d51297dd1fb4810873a150cf5ba98eeebd57d95d83afdc99",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_ZRAW__q15",
+      "schedule": "EO",
+      "trajectory_sha256": "2af41adf7f47a7e27fcd0c5335b0dc98cdf50312a5a145e2b6bec844ab6e9c07",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_ZRAW__q15",
+      "schedule": "OE",
+      "trajectory_sha256": "f7d75aec37fe070f3fd2eb8a6b0427fa85ce638e7fcbbe5447d6b7aa948e3e9e",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_ZRAW__q15",
+      "schedule": "OO",
+      "trajectory_sha256": "f1f9893fe6f4dae6891e920d28dd71a6a4d85bcd507e4ec0eea6eade3eb17f07",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_ZRAW__q25",
+      "schedule": "EE",
+      "trajectory_sha256": "15b991f56ad99fe2c84581945e2654f5221cffd19518b39ca28d6d09ad207660",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_ZRAW__q25",
+      "schedule": "EO",
+      "trajectory_sha256": "0fce28d21cbcb5113416bb922e7a39fd009f8ec32bd4693836f0e43126006c82",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_ZRAW__q25",
+      "schedule": "OE",
+      "trajectory_sha256": "12ba0c0f46dd5aebea603c24a2a3f344b92a004d2bcbb9891188ebbee50b427b",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "CUM_ZRAW__q25",
+      "schedule": "OO",
+      "trajectory_sha256": "dedf7c2573e6e2caab7e2f0c60c81e185143e08a6cab887ce2b08472b5e1a84c",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_LOGMAX__q05",
+      "schedule": "EE",
+      "trajectory_sha256": "da011fe8892fc2078eec15817068c1801947926c772f4c56abb572c80ccd45bd",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_LOGMAX__q05",
+      "schedule": "EO",
+      "trajectory_sha256": "0f9117f09ca02c6eefef3b88d0c9f714c2c2a782da626e14614fbe9dbc122d42",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_LOGMAX__q05",
+      "schedule": "OE",
+      "trajectory_sha256": "9b4ab529e13fd4f2278ba53a2b7fc8a6367ffba95141154410283a500c295598",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_LOGMAX__q05",
+      "schedule": "OO",
+      "trajectory_sha256": "c091ac076c3e6618a8fe33373a6b2bf0f1dd967a022bfee57eef745634db5740",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_LOGMAX__q15",
+      "schedule": "EE",
+      "trajectory_sha256": "e68849f71b488effb1dcd694430bdc2541c05a5f80c63ee631a03d0f19b352e6",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_LOGMAX__q15",
+      "schedule": "EO",
+      "trajectory_sha256": "29f0218ef1a1eb2f31ff2e8b6ad15a63f1c90aa166adec63eafec25a1d2ace96",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_LOGMAX__q15",
+      "schedule": "OE",
+      "trajectory_sha256": "9c5926f0e4b28d1adaeb8b0c472b60b9f98cf8675eae21e06ac09c4a1af69e5b",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_LOGMAX__q15",
+      "schedule": "OO",
+      "trajectory_sha256": "2f4e25b35f20cd6b05d84138eeab884c8d9261e76a5390d3f7d47ba301d9dce5",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_LOGMAX__q25",
+      "schedule": "EE",
+      "trajectory_sha256": "79424cba9399b838058a24972f7e72f75bbeb315bfedfdcca59a4cb55f85ad75",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_LOGMAX__q25",
+      "schedule": "EO",
+      "trajectory_sha256": "34abbeb7bd15939d8418ea8927129acab4bb0de5ea992b26c09ea2ed9221a3dc",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_LOGMAX__q25",
+      "schedule": "OE",
+      "trajectory_sha256": "b6536fbae86f6e926b33656a0b23b2441156814ae4f9e4fd1a2d30b203ce99b9",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_LOGMAX__q25",
+      "schedule": "OO",
+      "trajectory_sha256": "7e26950f875a6a324d10a17cc25a23be97a465f25c332a15af0b4c94d57d1662",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_ZRAW__q05",
+      "schedule": "EE",
+      "trajectory_sha256": "a86779fbcc7e50bdfb61482e97c756438a0f30714f75e2dde7f1f983129199d4",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_ZRAW__q05",
+      "schedule": "EO",
+      "trajectory_sha256": "b55e56cef9ee54b7ff85e31cf0f4c6d7d556008d3822b516612b7d87c2b09ef9",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_ZRAW__q05",
+      "schedule": "OE",
+      "trajectory_sha256": "bee4ecaec8b3f7d1d8b94a7a0a351f681464917db09cd7f4edcc42531ef26a0e",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_ZRAW__q05",
+      "schedule": "OO",
+      "trajectory_sha256": "4b6c5cb556a2e4eb8bd03984a7162267658f18990b726efc0b94bdef12760585",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_ZRAW__q15",
+      "schedule": "EE",
+      "trajectory_sha256": "7e9130b0759616fee8fbfb1a952b3b57c691b8a464c768145e6cd9f377305481",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_ZRAW__q15",
+      "schedule": "EO",
+      "trajectory_sha256": "71b265dff469553a493b0219b090d4ac99680f75292bebcd49c40677d075c3d3",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_ZRAW__q15",
+      "schedule": "OE",
+      "trajectory_sha256": "2900dc6586d37c6d7906d59eeaad22810dcd7c3cf58d13466a37eb6536780dc4",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_ZRAW__q15",
+      "schedule": "OO",
+      "trajectory_sha256": "bcfdf6c49dbb543edeec5078956cd855bb889b984c8d55ccca1c765444e3f93b",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_ZRAW__q25",
+      "schedule": "EE",
+      "trajectory_sha256": "4f1654e3e7a1a707f7ed32685ad86a88c404f022f2e8a5c04defbc43556d5f4a",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_ZRAW__q25",
+      "schedule": "EO",
+      "trajectory_sha256": "6e4341fec8542e8c42b51c1039adb5e8ab5e600198a51ecb24a6852bf5ebc4c7",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_ZRAW__q25",
+      "schedule": "OE",
+      "trajectory_sha256": "e3dcc0ae4f59117f5004cf1e3234c004a6a67d95bd11aea0cb0f4738eb0e0204",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "RW50_ZRAW__q25",
+      "schedule": "OO",
+      "trajectory_sha256": "041d8d9b0b4d446f83f40aae636c06915138eb3258ab6ebd705aebdbc22a6c31",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_LOGMAX__q05",
+      "schedule": "EE",
+      "trajectory_sha256": "b2126756c8c098e9579e7732fd9eaa1bac0e60f85ac00f48d7b3d45385ca2438",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_LOGMAX__q05",
+      "schedule": "EO",
+      "trajectory_sha256": "071c29393b8b142d27385e77eb59fadd7fc95453b7151158c36f09d6342f4f3b",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_LOGMAX__q05",
+      "schedule": "OE",
+      "trajectory_sha256": "665f13e78527f996ccab6fbe5b724148df40d48292ebd13945da0e65c626b65f",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_LOGMAX__q05",
+      "schedule": "OO",
+      "trajectory_sha256": "18e34f2029c9c3a0321bba1b4e2e49899377ebce1173aaa41bf16db07edfd0d8",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_LOGMAX__q15",
+      "schedule": "EE",
+      "trajectory_sha256": "d2b5d637661d3867860b8f8c32eba888de3fb6aa25fe91bb6d6999adc6af8f74",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_LOGMAX__q15",
+      "schedule": "EO",
+      "trajectory_sha256": "e6e97ecc1cf70b243ac97da5a7c2616455f4b275bdfc367cdfcae416fce3a28a",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_LOGMAX__q15",
+      "schedule": "OE",
+      "trajectory_sha256": "bd8a6cc796fe736ee56219b33b1c5856a6eb09f3a617649c4e3a8019593ce52a",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_LOGMAX__q15",
+      "schedule": "OO",
+      "trajectory_sha256": "8cc3257e55696cf97a89cc2cc5c0445ce612e707e445cbf3a9b79f5d639def08",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_LOGMAX__q25",
+      "schedule": "EE",
+      "trajectory_sha256": "79424cba9399b838058a24972f7e72f75bbeb315bfedfdcca59a4cb55f85ad75",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_LOGMAX__q25",
+      "schedule": "EO",
+      "trajectory_sha256": "e218be6c44675246368217c2b85968aec6446d8929a9e36db3a629e977924ee9",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_LOGMAX__q25",
+      "schedule": "OE",
+      "trajectory_sha256": "6200fc282ae3c9371aba5b54ba4db146c3383fea9408655aeabf83f597a8c079",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_LOGMAX__q25",
+      "schedule": "OO",
+      "trajectory_sha256": "cee26fcf20b0d8c59e88662be187689685fc303948dcce1af54be67522d0e484",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_ZRAW__q05",
+      "schedule": "EE",
+      "trajectory_sha256": "b49a5ec8ce0aa9bdd92f2430679e7b87c56092568922930c84535d5e903d8897",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_ZRAW__q05",
+      "schedule": "EO",
+      "trajectory_sha256": "bc541ddee2a259c39c99fc5b7c6bd0058f513d052bece42f45d149c47a3f70f2",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_ZRAW__q05",
+      "schedule": "OE",
+      "trajectory_sha256": "98912f8dd122171917197c4ea27ac02baa6429ff2106159bbd2f1eee25c36ca8",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_ZRAW__q05",
+      "schedule": "OO",
+      "trajectory_sha256": "2169c162a080cb9e707ce6e2a06a2c5310b2ddf1687e6fd335406b0701ed6259",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_ZRAW__q15",
+      "schedule": "EE",
+      "trajectory_sha256": "9fad43eba0a9fd964106b5d1fe563d2929bca933b432b6a7c92a96e3847df237",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_ZRAW__q15",
+      "schedule": "EO",
+      "trajectory_sha256": "954c03880ced90c13a56d2de914080f1683c59e4ee2a97dadb534e89d4649307",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_ZRAW__q15",
+      "schedule": "OE",
+      "trajectory_sha256": "f7c6201abf6230d1ed8513e597099aa5e3f04a10244f1990b8f0045eab949761",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_ZRAW__q15",
+      "schedule": "OO",
+      "trajectory_sha256": "511bb929f25102f7947a57ea96b0ca6c0d2495dba9cf92f8e46ab0a65f9112d6",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_ZRAW__q25",
+      "schedule": "EE",
+      "trajectory_sha256": "313e74a4aee40bed92914dd9b9f0b14f016a0e94d6dc88be7c03086844bb5619",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_ZRAW__q25",
+      "schedule": "EO",
+      "trajectory_sha256": "a1ce167d9f542f51ee678e371a8a2589f71467cb728fdc8b3fc360ca5ffd7e66",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_ZRAW__q25",
+      "schedule": "OE",
+      "trajectory_sha256": "d8b26a3ded7acb27c221a2990f4a02bd90adcb82b949a4ade3e5293b5bf96210",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "EXP99_ZRAW__q25",
+      "schedule": "OO",
+      "trajectory_sha256": "b63f86747546249f30ee52863d2dc27cd7e2e0748178471d5fb03e6c99d76240",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    },
+    {
+      "seed": 2699,
+      "condition": "S0",
+      "schedule": "S0",
+      "trajectory_sha256": "b569cbff2cdce9942a51a690e5197d77b2d19b7682c69154ba989bf6c0c81190",
+      "source_trajectory": "data/worlds/world_v0_20/trajectories/2699.json"
+    }
+  ]
+}

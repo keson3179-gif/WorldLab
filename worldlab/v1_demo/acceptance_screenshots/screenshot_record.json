@@ -1,0 +1,69 @@
+{
+  "screenshots": [
+    {
+      "name": "desktop_1440",
+      "cssViewportWidth": 1440,
+      "contentWidth": 1440,
+      "contentHeight": 2218,
+      "files": [
+        {
+          "file": "desktop_1440.png",
+          "png": {
+            "width": 1440,
+            "height": 2218
+          },
+          "covers": "y 0 to 2218"
+        }
+      ]
+    },
+    {
+      "name": "desktop_1024",
+      "cssViewportWidth": 1024,
+      "contentWidth": 1024,
+      "contentHeight": 2686,
+      "files": [
+        {
+          "file": "desktop_1024.png",
+          "png": {
+            "width": 1024,
+            "height": 2686
+          },
+          "covers": "y 0 to 2686"
+        }
+      ]
+    },
+    {
+      "name": "narrow_768",
+      "cssViewportWidth": 768,
+      "contentWidth": 768,
+      "contentHeight": 3403,
+      "files": [
+        {
+          "file": "narrow_768.png",
+          "png": {
+            "width": 768,
+            "height": 3403
+          },
+          "covers": "y 0 to 3403"
+        }
+      ]
+    },
+    {
+      "name": "load_error",
+      "cssViewportWidth": 1024,
+      "contentWidth": 1024,
+      "contentHeight": 1475,
+      "files": [
+        {
+          "file": "load_error.png",
+          "png": {
+            "width": 1024,
+            "height": 1475
+          },
+          "covers": "y 0 to 1475"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}

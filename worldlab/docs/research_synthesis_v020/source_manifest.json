@@ -1,0 +1,168 @@
+{
+  "record_type": "research_synthesis_v020_source_manifest",
+  "python": "3.12.10",
+  "matplotlib": "3.11.2",
+  "font": "Microsoft JhengHei",
+  "worlds_resimulated": false,
+  "bootstrap_recomputed": false,
+  "llm_calls": 0,
+  "historical_trajectories_reverified": false,
+  "direct_sources": [
+    {
+      "path": "data/experiments/experiment_001c_order_invariance/summary.json",
+      "sha256": "3b7753fe693f46bc54691e7771f9505db9e5dea1a2b1767d29e6558d00e9d579",
+      "verified_this_round": true
+    },
+    {
+      "path": "data/experiments/experiment_001d_label_position_schema/summary.json",
+      "sha256": "2a81af65be62912da98a6b3a70bd1391283107633d9c4e6a8dab7ced52d168ee",
+      "verified_this_round": true
+    },
+    {
+      "path": "data/worlds/world_v0_16/experiment_016_summary.json",
+      "sha256": "cef455f399cd7f0bfd8fdc81aa080fb9715b866d7c7e61880631a26a7cad9cb7",
+      "verified_this_round": true
+    },
+    {
+      "path": "data/worlds/world_v0_17/uncertainty_analysis.json",
+      "sha256": "227228d79172db8db436d78775b0991cfc9ecdc637657248c7e04070bec45d05",
+      "verified_this_round": true
+    },
+    {
+      "path": "data/worlds/world_v0_18/uncertainty_analysis.json",
+      "sha256": "1e3fcb7187c01c723e8e680319df35197ee3db61cd5745c71452aa9d11a47e60",
+      "verified_this_round": true
+    },
+    {
+      "path": "data/worlds/world_v0_19/uncertainty_analysis.json",
+      "sha256": "6bcfb649af96bc68aab1508d52aae1a88b5caa6ba770989ea90a50512df98c38",
+      "verified_this_round": true
+    },
+    {
+      "path": "data/worlds/world_v0_19/source_place_count.json",
+      "sha256": "360f94e0c2e1da6025ae1b5676e9862bbeb516036c1c490bcc2bfb6d056a69af",
+      "verified_this_round": true
+    },
+    {
+      "path": "data/worlds/world_v0_20/uncertainty_analysis.json",
+      "sha256": "cdd733542999fa813a07260c01956abef45cf91b818da43e994642f847a9106f",
+      "verified_this_round": true
+    },
+    {
+      "path": "docs/experiment_020_audit/audit_results.json",
+      "sha256": "f2594be16015af54ea424deff25d85435525d0b0e885483b596aa6d0ce63eefe",
+      "verified_this_round": true
+    },
+    {
+      "path": "docs/EXPERIMENT_020_ERRATA.md",
+      "sha256": "76ecd6e20f56efdc04494f0283501a6cf1fbacb7c38926cfffb3b28fa0a9ccc9",
+      "verified_this_round": true
+    },
+    {
+      "path": "docs/EXPERIMENT_020_REPORT.md",
+      "sha256": "7f48997ed3e3e26b42e59c33f927e2528869614e8ba6495d368d8123e6984278",
+      "verified_this_round": true
+    }
+  ],
+  "indirect_sources": [
+    {
+      "path": "docs/research_synthesis_v016/evidence_index.csv",
+      "role": "index for experiments 001-016; this round does not reverify those trajectories",
+      "verified_this_round": false
+    },
+    {
+      "path": "docs/RESEARCH_SYNTHESIS_V016.md",
+      "role": "earlier synthesis kept unchanged",
+      "verified_this_round": false
+    }
+  ],
+  "outputs": [
+    {
+      "path": "docs/RESEARCH_SYNTHESIS_V020.md",
+      "sha256": "43f5e45dd23daeb5c3cdad49d833cc9c8aefc04ccffa0136dd6253aed48d4334"
+    },
+    {
+      "path": "docs/research_synthesis_v020/build_synthesis.py",
+      "sha256": "db6788a09afeb76abf405b0d5eee9a245d2901284d9701c2b44649c8ea1f57c2"
+    },
+    {
+      "path": "docs/research_synthesis_v020/REBUILD.md",
+      "sha256": "fdb751a4d8dcb5097113687f530355ec457b070974e9147a9d7fd3e86c4f3164"
+    },
+    {
+      "path": "docs/research_synthesis_v020/plotting-requirements.txt",
+      "sha256": "2e14d67f9f735717b5dce51855653aefffb29ca0a6e5e4644472275e6492d34d"
+    },
+    {
+      "path": "docs/research_synthesis_v020/evidence_index.json",
+      "sha256": "803298e58f520ce8d57992d3af13295c89bc88a86ae415f048b40ba95cbedca4"
+    },
+    {
+      "path": "docs/research_synthesis_v020/derived_tables/h2000_016.csv",
+      "sha256": "a58e6929c28c3e1ad7a8216e3c6d4ffecebe67fbf9b437892c64c7aee5c56444"
+    },
+    {
+      "path": "docs/research_synthesis_v020/derived_tables/weight150_017.csv",
+      "sha256": "15c7b2d1809fde31db89c8e7914271886678f754bd27705c5bfa93d7e7575394"
+    },
+    {
+      "path": "docs/research_synthesis_v020/derived_tables/matched_q_hhi_018.csv",
+      "sha256": "4b2258be98a8a078b22dd664e7399f641881fe483978c52ec4388525c734f50b"
+    },
+    {
+      "path": "docs/research_synthesis_v020/derived_tables/late_q_019.csv",
+      "sha256": "89410a4620476864132b67f1f6d54611cbcb142c6b62d45385f016e45cf2fb0a"
+    },
+    {
+      "path": "docs/research_synthesis_v020/derived_tables/paths_020.csv",
+      "sha256": "3329bee3950835e5360bcc736b027633b4c344a4b8b4401c98b44546686a1bfa"
+    },
+    {
+      "path": "docs/research_synthesis_v020/derived_tables/maintenance_020.csv",
+      "sha256": "b1593713b52425c0f1ba671ae31de0d750bdb50971eeae64fbf4a2cde358b440"
+    },
+    {
+      "path": "docs/research_synthesis_v020/derived_tables/eo_exits_020.csv",
+      "sha256": "c7677c7f7434327236e6a38a6fb5cc2f3e18da965e0de6243ef7965fd9005c3e"
+    },
+    {
+      "path": "docs/research_synthesis_v020/derived_tables/ee_terminals_020.csv",
+      "sha256": "36ab9ff003db668f54dfafaa41ee4967d975d43252f095bbba4445fab28b5a72"
+    },
+    {
+      "path": "docs/research_synthesis_v020/figures/fig1_research_lines.svg",
+      "sha256": "b579aded126c3a18ced2a6c9c462f3075c9e3a772ec9990687f9da79350384e2"
+    },
+    {
+      "path": "docs/research_synthesis_v020/figures/fig1_research_lines.png",
+      "sha256": "f4ab06ce96bf4690b030ec811b4202f88e2f1b92218018a72384034b1e79e4d6"
+    },
+    {
+      "path": "docs/research_synthesis_v020/figures/fig2_h2000_tv.svg",
+      "sha256": "89813224ea8aba366f3b7552f288cdb87594fea9d924918e6767b9faf7d8857a"
+    },
+    {
+      "path": "docs/research_synthesis_v020/figures/fig2_h2000_tv.png",
+      "sha256": "4e62ad16b6919976e91c903539a1ea1bcea44c052734f5ef2082f65359a7eeda"
+    },
+    {
+      "path": "docs/research_synthesis_v020/figures/fig3_calibration_and_closed_loop.svg",
+      "sha256": "2942d85e3de45ee0f438d452b006a6b4d6ee8d1308f03b4958e632079199dd2b"
+    },
+    {
+      "path": "docs/research_synthesis_v020/figures/fig3_calibration_and_closed_loop.png",
+      "sha256": "6e8c32cc1b74dee4380e7f6d5d666eb53864a3994670f0479bb20316875bee5c"
+    },
+    {
+      "path": "docs/research_synthesis_v020/figures/fig4_source_schedules.svg",
+      "sha256": "d0285b6533912577d2eab0c26b94b2c049155c4150ee6dc0de7a4b9b1edeae14"
+    },
+    {
+      "path": "docs/research_synthesis_v020/figures/fig4_source_schedules.png",
+      "sha256": "ee5e7c006d0b9872d3bda08d41ba49a7cab0cfa3eeb582aa48190137ce1dfb92"
+    }
+  ],
+  "excluded_from_this_manifest": [
+    "docs/research_synthesis_v020/source_manifest.json"
+  ]
+}

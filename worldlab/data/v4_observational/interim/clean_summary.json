@@ -1,0 +1,47 @@
+{
+  "dry_run": false,
+  "visitor_sources": {
+    "歷年國內主要觀光遊憩據點遊客人數月別統計.csv": {
+      "encoding": "utf-8-sig",
+      "layout": "wide_month_columns",
+      "rows": 49512
+    }
+  },
+  "xlsx_unparsed": 19,
+  "calendar_files": [
+    "106年政府機關辦公日曆表.csv encoding=utf-8-sig",
+    "107政府機關辦公日曆表(數字版).csv encoding=utf-8-sig",
+    "108年中華民國政府行政機關辦公日曆表.csv encoding=utf-8-sig",
+    "109年中華民國政府行政機關辦公日曆表.csv encoding=utf-8-sig",
+    "110中華民國政府行政機關辦公日曆表.csv encoding=utf-8-sig",
+    "略過 Google 複本 110年中華民國政府行政機關辦公日曆表_Google行事曆專用.csv",
+    "111年中華民國政府行政機關辦公日曆表.csv encoding=utf-8-sig",
+    "略過 Google 複本 111年中華民國政府行政機關辦公日曆表_Google行事曆專用.csv",
+    "112年中華民國政府行政機關辦公日曆表.csv encoding=utf-8-sig",
+    "略過 Google 複本 112年中華民國政府行政機關辦公日曆表_Google行事曆專用.csv",
+    "113年中華民國政府行政機關辦公日曆表.csv encoding=utf-8-sig",
+    "略過 Google 複本 113年中華民國政府行政機關辦公日曆表_Google.csv",
+    "114年中華民國政府行政機關辦公日曆表(1141020更新).csv encoding=cp950",
+    "114年中華民國政府行政機關辦公日曆表.csv encoding=utf-8-sig",
+    "略過 Google 複本 114年中華民國政府行政機關辦公日曆表_Google.csv",
+    "略過 Google 複本 114年中華民國政府行政機關辦公日曆表_Google行事曆專用(修正版).csv",
+    "115年中華民國政府行政機關辦公日曆表.csv encoding=utf-8-sig",
+    "略過 Google 複本 115年中華民國政府行政機關辦公日曆表_Google行事曆專用.csv",
+    "略過 Google 複本 116年中華民國政府行政機關辦公日曆表_Google行事曆專用_utf8bom.csv",
+    "116年中華民國政府行政機關辦公日曆表_utf8bom.csv encoding=utf-8-sig"
+  ],
+  "calendar_conflict_months": 3,
+  "attractions": 6184,
+  "attraction_document_update": "2026-10-10T14:30:04+08:00",
+  "events": 1137,
+  "event_document_update": "2026-10-10T14:30:17+08:00",
+  "implausible_event_ends": 3,
+  "weather_rows": 18084,
+  "prior_station_links": 244,
+  "wide_visit_rows_before_collapse": 49512,
+  "visit_rows": 49512,
+  "quarantine_rows": 0,
+  "sites": 802,
+  "annual_mismatch_site_years": 317,
+  "rename_candidates": 243
+}

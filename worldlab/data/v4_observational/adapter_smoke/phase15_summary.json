@@ -1,0 +1,74 @@
+{
+  "analysis_role": "exploratory_development",
+  "p4_executed": false,
+  "llm_calls": 0,
+  "holdout_visits_used": false,
+  "document_update": "2026-10-10T14:30:04+08:00",
+  "tdx_status": "offline_credentials_absent",
+  "tdx_will_call_network": false,
+  "site_count": 9,
+  "exact_matches": 2,
+  "groups": [
+    {
+      "parent_area": "玉山國家公園",
+      "county": "南投縣",
+      "site_count": 3,
+      "exact_names": [],
+      "m0_status": "prediction_unavailable",
+      "m0_reason": "no_differentiating_historically_documented_attribute",
+      "m1_status": "prediction_unavailable",
+      "m1_reason": "base_utility_missing",
+      "fair_2025_one_step": "unavailable_incomplete_2024_identity",
+      "historical_fields": 3,
+      "stable_unconfirmed_fields": 0,
+      "current_fields": 0
+    },
+    {
+      "parent_area": "太魯閣國家公園",
+      "county": "花蓮縣",
+      "site_count": 3,
+      "exact_names": [
+        "布洛灣遊憩區"
+      ],
+      "m0_status": "prediction_unavailable",
+      "m0_reason": "no_differentiating_historically_documented_attribute",
+      "m1_status": "prediction_unavailable",
+      "m1_reason": "base_utility_missing",
+      "fair_2025_one_step": "unavailable_incomplete_2024_identity",
+      "historical_fields": 3,
+      "stable_unconfirmed_fields": 2,
+      "current_fields": 2
+    },
+    {
+      "parent_area": "雪霸國家公園",
+      "county": "苗栗縣",
+      "site_count": 3,
+      "exact_names": [
+        "雪見遊憩區"
+      ],
+      "m0_status": "prediction_unavailable",
+      "m0_reason": "no_differentiating_historically_documented_attribute",
+      "m1_status": "prediction_unavailable",
+      "m1_reason": "base_utility_missing",
+      "fair_2025_one_step": "unavailable_incomplete_2024_identity",
+      "historical_fields": 3,
+      "stable_unconfirmed_fields": 2,
+      "current_fields": 3
+    }
+  ],
+  "identifiability": {
+    "weight_scale_tradeoff": true,
+    "q_is_probability_distance": true,
+    "identical_attributes_drop_preference": true,
+    "synthetic_share_is_simplex": true,
+    "expected_share_matches_choice_probability_only_under_the_mapping_assumption": true
+  },
+  "read_paths": [
+    "data/curated/v4_forecast_panel_candidate.parquet",
+    "data/curated/v4_2024_identity_audit.csv",
+    "data/curated/v4_group_comparability.csv",
+    "data/curated/v4_canonical_site_crosswalk.csv",
+    "觀光資料標準V2.1/AttractionList.xml"
+  ],
+  "attraction_sha256": "52b04217c73814d963a46c7a0f225e7a1004c10f709b2fd24e445275e479b0cd"
+}

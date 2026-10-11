@@ -1,0 +1,174 @@
+{
+  "record_type": "research_synthesis_source_manifest",
+  "not_an_experiment_run_manifest": true,
+  "synthesis_id": "research_synthesis_v016",
+  "formal_worlds_added": 0,
+  "llm_calls": 0,
+  "derived_method": "Read frozen summary, uncertainty, identity, onset, and replication JSON. Keep v0.15 and v0.16 as separate cohorts. Plot mean D with percentile bootstrap intervals and persistent rates with Wilson intervals. Identity bars use frozen AA/AP/PA/PP counts.",
+  "script": "docs/research_synthesis_v016/build_synthesis.py",
+  "script_sha256": "28446ab4ef2a3ca70c725f402037c7af2180de06279eca91c6bd6b9f120e97f0",
+  "python": "3.12.10",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "matplotlib": "3.11.2",
+  "font": "Microsoft JhengHei",
+  "sources": [
+    {
+      "path": "data/experiments/experiment_001c_order_invariance/summary.json",
+      "sha256": "3b7753fe693f46bc54691e7771f9505db9e5dea1a2b1767d29e6558d00e9d579"
+    },
+    {
+      "path": "data/experiments/experiment_001d_label_position_schema/summary.json",
+      "sha256": "2a81af65be62912da98a6b3a70bd1391283107633d9c4e6a8dab7ced52d168ee"
+    },
+    {
+      "path": "data/experiments/experiment_001e_independent_utility/summary.json",
+      "sha256": "ea3f3a4febe3a291dde629a643c1084e4a53c4cb108fda0ed696755d0c05ce0f"
+    },
+    {
+      "path": "data/experiments/experiment_001f_trait_attribute_separability/summary.json",
+      "sha256": "95941c255eb0537f0183ba810bd0657b8a39ab446e1a7c218c30c0df55c49cb8"
+    },
+    {
+      "path": "data/worlds/dynamics_calibration_001/summary.json",
+      "sha256": "229ed89d5d7069390879d2ef88074db0b2e06112c7f9c9a20d6caf1a4469d1f8"
+    },
+    {
+      "path": "data/worlds/world_v0_10/experiment_010_summary.json",
+      "sha256": "c4ef717ad6baef3bdee68fe6d8c02cc876f187a63265533ee5bba9d506b2f59d"
+    },
+    {
+      "path": "data/worlds/world_v0_11/experiment_011_summary.json",
+      "sha256": "5765b3a8643c237c5dd0d798edf06e28909f59f97e5442ca374afcb4174df779"
+    },
+    {
+      "path": "data/worlds/world_v0_12/experiment_012_summary.json",
+      "sha256": "c2b1eceef03e47a07cc3191fa8df760ae5761e30d69bf186ce72b797cc9d6138"
+    },
+    {
+      "path": "data/worlds/world_v0_13/experiment_013_summary.json",
+      "sha256": "251b60eefec578be0d44a1e444fe552a91faba5200d5a94e3063e99805af7bd6"
+    },
+    {
+      "path": "data/worlds/world_v0_14/horizon_persistence_analysis.json",
+      "sha256": "e62f0f8fa2af1cd76138829cf1cc24becc437707b5506d3d4d3c31dedc3bafd4"
+    },
+    {
+      "path": "data/worlds/world_v0_15/experiment_015_summary.json",
+      "sha256": "1ecdd8acb569dc0d74713bc62e1d44393e55588fdc640e0f39088656f04bcb78"
+    },
+    {
+      "path": "data/worlds/world_v0_15/horizon_onset_analysis.json",
+      "sha256": "772980e749c0f75999fa8f528b89c1e05389a216f4325f8979c88dce6fa2ba74"
+    },
+    {
+      "path": "data/worlds/world_v0_15/seed_identity_analysis.json",
+      "sha256": "5dd8e1c0ddfb15981446bb3bd5b50da33d7509593bb13211e093236a05e6a5dc"
+    },
+    {
+      "path": "data/worlds/world_v0_15/uncertainty_analysis.json",
+      "sha256": "8b639a3d9b55b17a48da6a7678ae9bfcc9e1fd2a04a342e94aa6f4194c1461a3"
+    },
+    {
+      "path": "data/worlds/world_v0_16/experiment_016_summary.json",
+      "sha256": "cef455f399cd7f0bfd8fdc81aa080fb9715b866d7c7e61880631a26a7cad9cb7"
+    },
+    {
+      "path": "data/worlds/world_v0_16/replication_analysis.json",
+      "sha256": "cdd4f76128d5c7618610390566a8caa7fc7dc5a51785e7dbcba0a857f917ef32"
+    },
+    {
+      "path": "data/worlds/world_v0_16/run_manifest.json",
+      "sha256": "99ff1bea688d6a03fa0d144da3dab864f688d342f2a57ceeecb4248044aa2c55"
+    },
+    {
+      "path": "data/worlds/world_v0_16/seed_identity_analysis.json",
+      "sha256": "5c71af31ec016e7854676f6f64554f08e05b44656a12e3ae5c1af30b1229c226"
+    },
+    {
+      "path": "data/worlds/world_v0_16/uncertainty_analysis.json",
+      "sha256": "31bdf2a12bc7d73cedb57763ce2df0b6af3690327cfc69ea7fe68e72032e0df2"
+    },
+    {
+      "path": "data/worlds/world_v0_3/experiment_003_summary.json",
+      "sha256": "07918c17fa0ef2a01ae453434ab16426ae746076bf52e8b4f0ee65bcb4303cd5"
+    },
+    {
+      "path": "data/worlds/world_v0_4/experiment_004_summary.json",
+      "sha256": "3b138dc7d492451f70d544551f933771d1b85a821e34f13fe8b8f31a3044072d"
+    },
+    {
+      "path": "data/worlds/world_v0_5/experiment_005_summary.json",
+      "sha256": "d76ff4c7a8ce303b8203af78df87e48c278bcb44d75319595065b50771891041"
+    },
+    {
+      "path": "data/worlds/world_v0_6/experiment_006_summary.json",
+      "sha256": "f8b5cb55300eb093fa04d0d0866904d7c113b39aa3e9c245753599fc5705ea6e"
+    },
+    {
+      "path": "data/worlds/world_v0_7/experiment_007_summary.json",
+      "sha256": "b9c69a0adfbfb518337c993325009fbbb5f070967c4010a1e27ae9fbf3556cc7"
+    },
+    {
+      "path": "data/worlds/world_v0_8/experiment_008_summary.json",
+      "sha256": "f72f84a62aa01fa78a0787f6a3cc28e16cf807e897646bb60e9dee7223c66959"
+    },
+    {
+      "path": "data/worlds/world_v0_9/experiment_009_summary.json",
+      "sha256": "a1dba69db00c143c5c54f482320117f1612a2cabede413d6757d4243a65a7cd2"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "docs/RESEARCH_SYNTHESIS_V016.md",
+      "sha256": "3f226f378df983c928a8733ff8bf881667ca8d7369d4b1378de071423eda02e1"
+    },
+    {
+      "path": "docs/research_synthesis_v016/REBUILD.md",
+      "sha256": "dbdf9c66e62d5037a00b307d2b77c9d5f29dbfdd84413bec29b6c539a7d2c82d"
+    },
+    {
+      "path": "docs/research_synthesis_v016/derived/horizon_cells.csv",
+      "sha256": "bafd3721507e25be6c3144676ec657d0e9af445c9d367c42d3da8e02bc1eb4bc"
+    },
+    {
+      "path": "docs/research_synthesis_v016/derived/identity_transitions.csv",
+      "sha256": "5b9023d5fab388c25014cb293033c8b6f63a6ac19d4bbcbb91446ab74b06f681"
+    },
+    {
+      "path": "docs/research_synthesis_v016/derived/v016_identity_reference.json",
+      "sha256": "6ae0f52251d0ad9a5b3d403c035313e58d35fb0dd13eb7b8e778f5197d61fe12"
+    },
+    {
+      "path": "docs/research_synthesis_v016/evidence_index.csv",
+      "sha256": "9be2d298669575951ca5ff356edd29d12f38f7937f9717dabe26d16d57c9b17f"
+    },
+    {
+      "path": "docs/research_synthesis_v016/figures/fig1_h2000_mean_and_persistence.png",
+      "sha256": "6852203493963405b075a8d7c07a1e33ff36947a167bfe961cacf12b2ff78b26"
+    },
+    {
+      "path": "docs/research_synthesis_v016/figures/fig1_h2000_mean_and_persistence.svg",
+      "sha256": "3b3cc2eb1646177520a463079ad8390b254a7f3529c6d261e65926ec61011406"
+    },
+    {
+      "path": "docs/research_synthesis_v016/figures/fig2_horizon_mean_d.png",
+      "sha256": "a6a769a440c767309caacc783cfb8b17c140fe277a6981a2328e5b5cfc334165"
+    },
+    {
+      "path": "docs/research_synthesis_v016/figures/fig2_horizon_mean_d.svg",
+      "sha256": "8ddbbeabe825a6163051c2663bc5b8d56900e31cd5a1401d5210103fde9142ed"
+    },
+    {
+      "path": "docs/research_synthesis_v016/figures/fig3_exp99_h2000_identity.png",
+      "sha256": "f28963d59a884728de91fb904cd75edc6f64056bd1b3eb3be7ce3863a0f7f1af"
+    },
+    {
+      "path": "docs/research_synthesis_v016/figures/fig3_exp99_h2000_identity.svg",
+      "sha256": "2b9139b7d6ccd11c647281f62541ac54d2d2166391c2bcfe342d5c22e111c427"
+    },
+    {
+      "path": "docs/research_synthesis_v016/plotting-requirements.txt",
+      "sha256": "45024c0ea80cf8824ba0601e50c5a60d07d1f5ff7140a3a62eee45bb5de6a148"
+    }
+  ]
+}

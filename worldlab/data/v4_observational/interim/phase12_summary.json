@@ -1,0 +1,16 @@
+{
+  "analysis_role": "forensic_audit",
+  "identity_rows": 24,
+  "safe_links": 4,
+  "category_reasons": {
+    "unresolved": 18,
+    "unchanged": 4,
+    "not_found": 2
+  },
+  "parser_errors": 0,
+  "previous_row_pattern": 42,
+  "panel_rows": 2185,
+  "holdout_visits_used": false,
+  "model_fitted": false,
+  "protected_files_unchanged": true
+}

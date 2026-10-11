@@ -1,0 +1,9 @@
+cohort,seeds,n,architecture,lambda,horizon,outcome,mean_d,ci_low,ci_high,persistence_class,seed_persistent_rate,threshold,ci_crosses_threshold
+v0.16,100-199,100,RW50,0.40,H2000,paired occupancy total variation,0.002005,2e-05,0.0046749999999999995,attenuated,0.03,0.025,False
+v0.16,100-199,100,RW50,0.60,H2000,paired occupancy total variation,0.025924999999999997,0.018565,0.033174999999999996,persistent residual,0.34,0.025,True
+v0.16,100-199,100,RW50,0.80,H2000,paired occupancy total variation,0.06154,0.054150000000000004,0.0689,persistent residual,0.75,0.025,False
+v0.16,100-199,100,RW50,1.00,H2000,paired occupancy total variation,0.092915,0.087685,0.09787499999999999,persistent residual,0.96,0.025,False
+v0.16,100-199,100,EXP99,0.40,H2000,paired occupancy total variation,0.01491,0.009305,0.02108,attenuated,0.2,0.025,False
+v0.16,100-199,100,EXP99,0.60,H2000,paired occupancy total variation,0.041675,0.034624999999999996,0.04856,persistent residual,0.61,0.025,False
+v0.16,100-199,100,EXP99,0.80,H2000,paired occupancy total variation,0.061059999999999996,0.054895,0.06692000000000001,persistent residual,0.82,0.025,False
+v0.16,100-199,100,EXP99,1.00,H2000,paired occupancy total variation,0.08216,0.07776,0.08631,persistent residual,0.97,0.025,False

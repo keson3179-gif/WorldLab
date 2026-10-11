@@ -1,0 +1,206 @@
+{
+  "record_type": "experiment_017_protocol_draft",
+  "status": "DESIGN_ONLY",
+  "run_status": "NOT_RUN",
+  "not_a_run_manifest": true,
+  "not_an_executed_config": true,
+  "formal_world_executed": false,
+  "output_directory_created": false,
+  "llm_calls": 0,
+  "experiment_id": "experiment_017_memory_representation_x_score_transformation",
+  "design_document": "docs/EXPERIMENT_017_DESIGN.md",
+  "question_ids": ["A_transformation_given_memory", "B_memory_given_transformation", "C_interaction"],
+  "cannot_answer": [
+    "pure_scale_effect",
+    "pure_timescale_effect",
+    "experiment_016_h2000_onset",
+    "feedback_mediation_share",
+    "human_or_external_validity"
+  ],
+  "atlas": {
+    "utility_source": "utility_atlas_v1",
+    "sha256": "664b511d208f7989e8a671d0e2d6e6433366120bb3d5d6a67db38277b4d5a373"
+  },
+  "frozen_bridge": {
+    "agents": 20,
+    "places": ["site_01", "site_02", "site_03", "site_04", "site_05"],
+    "timesteps": 500,
+    "choice_temperature": 200.0,
+    "reconsideration_rate": 0.5,
+    "familiarity_weight": 0.0,
+    "social_weight": 150.0,
+    "s0_social_weight": 0.0,
+    "choice_seeds": "0_through_49",
+    "choice_seed_count": 50,
+    "choice_seed_first": 0,
+    "choice_seed_last": 49,
+    "update": "synchronous_two_phase",
+    "rng": "stateless_choice_seed",
+    "weight_meaning": "historical_comparability_not_equal_effective_strength",
+    "seed_meaning": "existing_cohort_not_held_out_replication"
+  },
+  "cells": [
+    {"cell_id": "CUM_LOGMAX", "memory": "CUM", "transformation": "LOGMAX", "historical_anchor": "experiment_005_CUM_and_experiment_004_S150", "execution_class": "existing"},
+    {"cell_id": "CUM_ZRAW", "memory": "CUM", "transformation": "ZRAW", "historical_anchor": null, "execution_class": "new_closed_loop"},
+    {"cell_id": "RW50_LOGMAX", "memory": "RW50", "window": 50, "transformation": "LOGMAX", "historical_anchor": null, "execution_class": "new_closed_loop"},
+    {"cell_id": "RW50_ZRAW", "memory": "RW50", "window": 50, "transformation": "ZRAW", "historical_anchor": "experiment_005_RW50", "execution_class": "existing"},
+    {"cell_id": "EXP99_LOGMAX", "memory": "EXP99", "decay": 0.99, "transformation": "LOGMAX", "historical_anchor": null, "execution_class": "new_closed_loop"},
+    {"cell_id": "EXP99_ZRAW", "memory": "EXP99", "decay": 0.99, "transformation": "ZRAW", "historical_anchor": "experiment_005_EXP99", "execution_class": "existing"},
+    {"cell_id": "S0", "memory": "not_a_social_cell", "transformation": "not_applied_when_weight_is_zero", "social_weight": 0.0, "historical_anchor": "experiment_004_S0", "execution_class": "existing_reference"}
+  ],
+  "counts": {
+    "logical_world_conditions": 350,
+    "existing_historical_conditions": 200,
+    "new_closed_loop_conditions": 150,
+    "future_historical_lineage_executions": 200,
+    "historical_lineage_subset": 8,
+    "historical_lineage_subset_counted_inside": 200,
+    "new_cell_post_run_replays": 6,
+    "layer_a_offline_seed_histories": 50,
+    "formal_worlds_executed_this_round": 0,
+    "new_worlds_label_rejected": "350 logical conditions are not 350 new worlds"
+  },
+  "transformations": {
+    "LOGMAX": "log1p then divide by max; all zero when max is 0",
+    "ZRAW": "population-sd z-score of raw r across five places, clip -2 to 2; all zero when the five values are equal",
+    "forbidden": ["log1p_before_zraw", "visit_share_before_logmax", "pseudocount", "sample_sd", "extra_one_minus_decay_on_exp99"]
+  },
+  "layer_a": {
+    "name": "offline_decision_on_shared_s0_history",
+    "source": "data/worlds/world_v0_4/world_states.jsonl",
+    "filter": "condition_id S0",
+    "primary_metric": "Q = 0.5 * sum_p |P_social(p) - P_base(p)|",
+    "probability": "five-option softmax conditional on reconsideration",
+    "aggregation": "mean within seed, then across seeds",
+    "persistence_threshold_0_025": false,
+    "computed_this_round": false
+  },
+  "layer_b": {
+    "name": "closed_loop",
+    "primary_metric": "late visit-share HHI",
+    "window": "cumulative presence over logged timesteps 101 through 500",
+    "window_code": "experiment_005._presence(series, 101, timesteps)",
+    "not_the_window": "401 through 500",
+    "not_the_summary": "mean of per-step occupancy HHI",
+    "computed_this_round": false
+  },
+  "contrasts": {
+    "delta_t": "Y(memory, ZRAW) - Y(memory, LOGMAX)",
+    "memory_given_transformation": ["RW50 - CUM", "EXP99 - CUM"],
+    "interaction": "delta_t(memory) - delta_t(CUM)",
+    "interaction_is_not": "an allocatable contribution percentage",
+    "layers_are_not_subtracted": true
+  },
+  "bootstrap": {
+    "unit": "choice_seed",
+    "n_seeds": 50,
+    "draws": 10000,
+    "index_type": "list[list[int]]",
+    "index_matrix_shape": [10000, 50],
+    "sampling": "with_replacement_within_each_row",
+    "analysis_rng_seed": 20260928,
+    "generator": "random.Random",
+    "local_generator_only": true,
+    "same_row_shared_by_all_cells_within_a_layer": true,
+    "layers_not_pooled": true,
+    "agent_timestep_not_independent": true,
+    "percentile_indexes": [249, 9749],
+    "percentile_rule": "int(0.025 * (draws - 1)) and int(0.975 * (draws - 1))",
+    "interval": "pointwise",
+    "overall_success_label_from_crossings": false,
+    "synthetic_sampling_check_executed": true,
+    "formal_research_bootstrap_executed": false
+  },
+  "lineage": {
+    "exact_match_required": ["trajectory_sha256"],
+    "float_diagnostics_need_explicit_tolerance": true,
+    "stop_before_new_cells_on_failure": true,
+    "anchors": {
+      "CUM_LOGMAX": {
+        "config": "data/worlds/world_v0_5/world_v0_5_config.json",
+        "config_sha256": "0ec8c27c9ae974fb1acf329c2dc8ba6022787ae1864693cd2c71937fed0c1f32",
+        "also_config": "data/worlds/world_v0_4/world_v0_4_config.json",
+        "also_config_sha256": "341f9ed79068e87930e4c4f9553bcef4a512ecd8716c14d92cfd5a2335e353f1",
+        "manifest_keys": ["CUM:{seed}", "S150:{seed}"],
+        "seed_0": "7c7e4d9c40836a202f06ff9bdf2e15b7e5c1957537cab5b1886bb4a77d1c1e96",
+        "seed_49": "c15f6df1599a29b827c1cadaee7f50f27fc1bcf1e4a6a801ad140ab99eb75259"
+      },
+      "RW50_ZRAW": {
+        "config_sha256": "0ec8c27c9ae974fb1acf329c2dc8ba6022787ae1864693cd2c71937fed0c1f32",
+        "manifest_key": "RW50:{seed}",
+        "seed_0": "2307fe77c9e80f8f3b66ddd4d7e20a46b54146ad382e4e76660e4e6a2da36b25",
+        "seed_49": "845e7ccda3533c14f9affecb97035a7ec414e3686662e7e048f8ce195fca2cfd"
+      },
+      "EXP99_ZRAW": {
+        "config_sha256": "0ec8c27c9ae974fb1acf329c2dc8ba6022787ae1864693cd2c71937fed0c1f32",
+        "manifest_key": "EXP99:{seed}",
+        "seed_0": "6fe99a3fe69ac495f7fbb65fc5b89bdf2657dab984205607071890db1cc3f2fe",
+        "seed_49": "ddfbad38a89a2940685807de0f301c8a1b095049030a688c6df73fc6f3cf9eac"
+      },
+      "S0": {
+        "config_sha256": "341f9ed79068e87930e4c4f9553bcef4a512ecd8716c14d92cfd5a2335e353f1",
+        "manifest_key": "S0:{seed}",
+        "seed_0": "610cb9dfff650d135bf2520cac4247e7b2707073fae6e0fa52f094a040175955",
+        "seed_49": "d3943a126e34a9c5adfdeab25fb5360b57b91ebe661148c08adc8cbfc1436297"
+      }
+    },
+    "historical_lineage": {
+      "count": 200,
+      "cells": ["CUM_LOGMAX", "RW50_ZRAW", "EXP99_ZRAW", "S0"],
+      "seeds_per_cell": 50,
+      "seeds": "0_through_49",
+      "executor": "future_experiment_017_runner",
+      "horizon": "t=0 through t=500",
+      "match": "exact_canonical_trajectory_hash",
+      "old_manifest_comparison_is_not_this_gate": true,
+      "block_new_cells_and_layer_analysis_until_all_pass": true,
+      "on_failure": "stop and record the failing condition; do not relax the hash rule or edit historical sources",
+      "executed_this_round": false
+    },
+    "historical_lineage_subset": {
+      "subset_of": "historical_lineage",
+      "cells": ["CUM_LOGMAX", "RW50_ZRAW", "EXP99_ZRAW", "S0"],
+      "seeds": [0, 49],
+      "count": 8,
+      "additional_count": 0,
+      "sufficient_by_itself": false
+    },
+    "new_cell_post_run_replay": {
+      "count": 6,
+      "additional_verification_executions": 6,
+      "items": [
+        {"cell_id": "CUM_ZRAW", "seed": 0},
+        {"cell_id": "CUM_ZRAW", "seed": 49},
+        {"cell_id": "RW50_LOGMAX", "seed": 0},
+        {"cell_id": "RW50_LOGMAX", "seed": 49},
+        {"cell_id": "EXP99_LOGMAX", "seed": 0},
+        {"cell_id": "EXP99_LOGMAX", "seed": 49}
+      ],
+      "restart_from": "original_initial_state",
+      "comparison_target": "canonical trajectory hash saved by the main execution and recorded in the future manifest",
+      "forbidden": [
+        "use_another_cells_historical_hash",
+        "reuse_main_execution_result_object",
+        "overwrite_main_hash_with_replay_hash",
+        "reread_the_same_file_twice"
+      ],
+      "all_six_exact_match_required_for_verification_complete": true,
+      "executed_this_round": false
+    },
+    "s0_dynamic_equivalence": {
+      "required": true,
+      "included_in_historical_lineage_count": true,
+      "extra_execution_count": 0,
+      "rule": "The 50 S0 trajectories inside the 200 must exact-match Experiment 004 S0. social_weight 0 keeps the social term at zero, so the six score cells do not add further social-off worlds."
+    },
+    "execution_order": [
+      "source_integrity_check",
+      "freeze_formal_config",
+      "historical_lineage_and_equivalence_gates",
+      "require_all_pass",
+      "layer_a_and_layer_b",
+      "new_cell_post_run_replay",
+      "final_verification_and_manifest"
+    ]
+  }
+}

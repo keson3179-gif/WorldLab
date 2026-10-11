@@ -1,0 +1,26 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.py[cod]
+*.tmp
+.coverage
+htmlcov/
+.env
+
+# Generated arrays, visit panels, and reserved months.
+*.jsonl
+*.parquet
+*.npz
+*.zip
+data/**/calibration_cache/
+data/**/staging/
+data/**/processed/
+
+# Exploratory scores and annual visit totals.
+data/curated/v4_baseline_scores_exploratory.csv
+data/curated/v4_exploratory_visit_shares_conditional.csv
+data/curated/v4_measurement_method_verified.csv
+data/v4_observational/phase16_intensity/month_scores.csv
+

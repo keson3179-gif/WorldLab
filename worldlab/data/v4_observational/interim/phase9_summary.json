@@ -1,0 +1,19 @@
+{
+  "mismatch_rows": 317,
+  "root_causes": {
+    "csv_published_equals_jan_to_oct_november_december_differ": 146,
+    "csv_published_equals_jan_to_oct_months_match_excel": 92,
+    "csv_published_equals_jan_to_oct_excel_unmatched": 79
+  },
+  "unresolved": 225,
+  "continuity_rows": 360,
+  "continuity_status": {
+    "versioned_same_name_parent_blank": 188,
+    "not_found_same_name": 112,
+    "category_changed_needs_manual_review": 60
+  },
+  "staging_2025": 4716,
+  "staging_2026": 2926,
+  "protected_files_unchanged": true,
+  "official_revision_claimed": 0
+}

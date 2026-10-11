@@ -1,0 +1,14 @@
+cohort,seeds,n,cell,outcome,mean,ci_low,ci_high
+017 cohort B,"position in the fixed seed list, not the choice-seed number",500,CUM_LOGMAX,full-horizon mean Q at social weight 150,0.004824789171135996,0.004763013228242745,0.0048846847086078185
+017 cohort B,"position in the fixed seed list, not the choice-seed number",500,CUM_ZRAW,full-horizon mean Q at social weight 150,0.27403079610316294,0.27226600947179813,0.27572737438155925
+017 cohort B,"position in the fixed seed list, not the choice-seed number",500,RW50_LOGMAX,full-horizon mean Q at social weight 150,0.006685141095999573,0.006635433517241569,0.006732563118953454
+017 cohort B,"position in the fixed seed list, not the choice-seed number",500,RW50_ZRAW,full-horizon mean Q at social weight 150,0.27805393409206924,0.27724847713441414,0.2788709185236377
+017 cohort B,"position in the fixed seed list, not the choice-seed number",500,EXP99_LOGMAX,full-horizon mean Q at social weight 150,0.00553934413676135,0.005483723477187039,0.005592635754150035
+017 cohort B,"position in the fixed seed list, not the choice-seed number",500,EXP99_ZRAW,full-horizon mean Q at social weight 150,0.27547982921665676,0.2741803035668323,0.2767465502253835
+017 cohort B,"position in the fixed seed list, not the choice-seed number",500,CUM_LOGMAX,"late visit-share HHI, committed t=101-500",0.2017085099375,0.201665929625,0.201750344375
+017 cohort B,"position in the fixed seed list, not the choice-seed number",500,CUM_ZRAW,"late visit-share HHI, committed t=101-500",0.2504308993125,0.249878382,0.2509621565
+017 cohort B,"position in the fixed seed list, not the choice-seed number",500,RW50_LOGMAX,"late visit-share HHI, committed t=101-500",0.201795441625,0.20175051856249998,0.20184148643750002
+017 cohort B,"position in the fixed seed list, not the choice-seed number",500,RW50_ZRAW,"late visit-share HHI, committed t=101-500",0.250084319625,0.24950353318750002,0.250668308
+017 cohort B,"position in the fixed seed list, not the choice-seed number",500,EXP99_LOGMAX,"late visit-share HHI, committed t=101-500",0.201758337125,0.2017151171875,0.201802060375
+017 cohort B,"position in the fixed seed list, not the choice-seed number",500,EXP99_ZRAW,"late visit-share HHI, committed t=101-500",0.2510592809375,0.25055242075,0.2515576325625
+017 cohort B,"position in the fixed seed list, not the choice-seed number",500,S0,"late visit-share HHI, committed t=101-500",0.201512709625,0.20147405475,0.2015511364375

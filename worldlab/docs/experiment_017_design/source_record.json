@@ -1,0 +1,102 @@
+{
+  "record_type": "experiment_017_design_source_record",
+  "status": "DESIGN_ONLY",
+  "run_status": "NOT_RUN",
+  "not_an_experiment_run_manifest": true,
+  "content_hashed": [
+    {
+      "path": "world/experiment_004.py",
+      "bytes": 49565,
+      "sha256": "ff5b8d2d0f4bf7a3e9721c036031cfd37b720f5ff1ea7bbe77fc1a52beafac65"
+    },
+    {
+      "path": "world/experiment_005.py",
+      "bytes": 37732,
+      "sha256": "aac5a4fcbe36620965f5579dcaf68fdfad8299192c7d64d65eab6a1291995cff"
+    },
+    {
+      "path": "world/geography.py",
+      "bytes": 3519,
+      "sha256": "c2c9bc13f637fa640f690b9eb147d184592e75f6a283a076af4d3ffc5a417604"
+    },
+    {
+      "path": "world/experiment_002.py",
+      "bytes": 28213,
+      "sha256": "598f714f8ab528f5d8edc2ccef14e63c1da8168337ebf5f424a2a9905c3d8b10"
+    },
+    {
+      "path": "world/dynamics_calibration.py",
+      "bytes": 17949,
+      "sha256": "02aa666ce9fac9169cc40c6540f5e0d04d2a4249d6dbb988c2538decb4c22dd1"
+    },
+    {
+      "path": "world/utility_atlas.py",
+      "bytes": 14566,
+      "sha256": "377b82e71534bdad5b062e8ceb4a729df00c7fa414bb5698a039cae15ab9610a"
+    },
+    {
+      "path": "data/worlds/world_v0_4/world_v0_4_config.json",
+      "bytes": 3391,
+      "sha256": "b4c23e0bd2d3c19ae0fcff3d81d85b2754294b1ef64bb8adc7b0edb57e103eda"
+    },
+    {
+      "path": "data/worlds/world_v0_4/experiment_004_summary.json",
+      "bytes": 39762,
+      "sha256": "3b138dc7d492451f70d544551f933771d1b85a821e34f13fe8b8f31a3044072d"
+    },
+    {
+      "path": "data/worlds/world_v0_4/run_manifest.json",
+      "bytes": 18070,
+      "sha256": "e19c6354ac9cd72ea46889f2761ae7b839af92061b9cae442cd8e1ee1a9c56a8"
+    },
+    {
+      "path": "data/worlds/world_v0_5/world_v0_5_config.json",
+      "bytes": 2750,
+      "sha256": "b2b2fcfc27e2c39a954b426ee944ebbd62146507fe88c737b7259848ee935067"
+    },
+    {
+      "path": "data/worlds/world_v0_5/experiment_005_summary.json",
+      "bytes": 30246,
+      "sha256": "d76ff4c7a8ce303b8203af78df87e48c278bcb44d75319595065b50771891041"
+    },
+    {
+      "path": "data/worlds/world_v0_5/run_manifest.json",
+      "bytes": 22342,
+      "sha256": "23fcd69024fb37690362d43540aac646f683a6098b609680e80db1e801734a27"
+    }
+  ],
+  "availability_only": [
+    {
+      "path": "data/worlds/world_v0_4/world_states.jsonl",
+      "bytes": 66666495,
+      "content_read": false,
+      "content_hashed_this_round": false
+    },
+    {
+      "path": "data/worlds/world_v0_4/social_signal_reference_s0.jsonl",
+      "bytes": 73815020,
+      "content_read": false,
+      "content_hashed_this_round": false
+    },
+    {
+      "path": "data/worlds/world_v0_4/agent_actions.jsonl",
+      "bytes": 2309294594,
+      "content_read": false,
+      "content_hashed_this_round": false
+    },
+    {
+      "path": "data/worlds/world_v0_5/world_states.jsonl",
+      "bytes": 80145596,
+      "content_read": false,
+      "content_hashed_this_round": false
+    },
+    {
+      "path": "data/worlds/world_v0_5/agent_actions.jsonl",
+      "bytes": 2849377178,
+      "content_read": false,
+      "content_hashed_this_round": false
+    }
+  ],
+  "not_scanned": "Large JSONL contents were not read. Layer A remains uncomputed.",
+  "llm_calls": 0
+}

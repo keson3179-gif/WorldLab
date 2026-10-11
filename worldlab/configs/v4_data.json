@@ -1,0 +1,6 @@
+{
+  "raw_root": "../政府公開資料",
+  "output_root": "data/v4_observational",
+  "reports_root": "reports",
+  "manual_crosswalk": "configs/v4_site_crosswalk_manual.csv"
+}

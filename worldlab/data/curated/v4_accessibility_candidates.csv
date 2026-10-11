@@ -1,0 +1,17 @@
+﻿group_id,site_uid,official_name,candidate_name,candidate_county,match_grade,latitude,longitude,candidate_latitude,candidate_longitude,distance_km,distance_kind,temporal_class,verification_status,tdx_status,note
+geo_南投縣96cf52_玉山國家公園de6818,stat_190d81a539fe1f7d,塔塔加遊憩區,,南投縣,,,,,,,missing,no_historical_validity,missing,offline_credentials_absent,沒有同名同縣市的景點資料庫列，不估算距離。
+geo_南投縣96cf52_玉山國家公園de6818,stat_e2879657d03d0dbb,排雲山莊,,南投縣,,,,,,,missing,no_historical_validity,missing,offline_credentials_absent,沒有同名同縣市的景點資料庫列，不估算距離。
+geo_南投縣96cf52_玉山國家公園de6818,stat_e036794ef7cdd5b1,玉山管理處遊客服務中心,,南投縣,,,,,,,missing,no_historical_validity,missing,offline_credentials_absent,沒有同名同縣市的景點資料庫列，不估算距離。
+geo_花蓮縣83f6bd_太魯閣國家公園ab5e59,stat_18ac6ba4a6d4a535,太魯閣國家公園遊客中心,,花蓮縣,,,,,,,missing,no_historical_validity,missing,offline_credentials_absent,沒有同名同縣市的景點資料庫列，不估算距離。
+geo_花蓮縣83f6bd_太魯閣國家公園ab5e59,stat_18ac6ba4a6d4a535,太魯閣國家公園遊客中心,太魯閣牌樓,花蓮縣,fuzzy_candidate,,,24.15564,121.62161,,not_computed_for_fuzzy_candidate,no_historical_validity,unverified,offline_credentials_absent,名稱不同，座標只留在候選欄，沒有寫入場所卡。
+geo_花蓮縣83f6bd_太魯閣國家公園ab5e59,stat_18ac6ba4a6d4a535,太魯閣國家公園遊客中心,太魯閣大橋,花蓮縣,fuzzy_candidate,,,24.14383,121.64408,,not_computed_for_fuzzy_candidate,no_historical_validity,unverified,offline_credentials_absent,名稱不同，座標只留在候選欄，沒有寫入場所卡。
+geo_花蓮縣83f6bd_太魯閣國家公園ab5e59,stat_18ac6ba4a6d4a535,太魯閣國家公園遊客中心,太魯閣國家公園,花蓮縣,fuzzy_candidate,,,24.19392,121.49067,,not_computed_for_fuzzy_candidate,no_historical_validity,unverified,offline_credentials_absent,名稱不同，座標只留在候選欄，沒有寫入場所卡。
+geo_花蓮縣83f6bd_太魯閣國家公園ab5e59,stat_18ac6ba4a6d4a535,太魯閣國家公園遊客中心,太魯閣臺地,花蓮縣,fuzzy_candidate,,,24.15831,121.62121,,not_computed_for_fuzzy_candidate,no_historical_validity,unverified,offline_credentials_absent,名稱不同，座標只留在候選欄，沒有寫入場所卡。
+geo_花蓮縣83f6bd_太魯閣國家公園ab5e59,stat_a5e4b7eaadd241b5,布洛灣遊憩區,布洛灣遊憩區,花蓮縣,exact_name_county,24.17068,121.57261,24.17068,121.57261,,straight_line_unavailable_until_two_sites_in_the_group_match,stable_unconfirmed,source_reported,offline_credentials_absent,直線距離尚未計算。同群沒有第二個同名同縣市座標。這不是旅行時間。
+geo_花蓮縣83f6bd_太魯閣國家公園ab5e59,stat_a5e4b7eaadd241b5,布洛灣遊憩區,布洛灣吊橋,花蓮縣,fuzzy_candidate,,,24.17302,121.56996,,not_computed_for_fuzzy_candidate,no_historical_validity,unverified,offline_credentials_absent,名稱不同，座標只留在候選欄，沒有寫入場所卡。
+geo_花蓮縣83f6bd_太魯閣國家公園ab5e59,stat_947431277b4d5415,臺八線沿線景觀區,,花蓮縣,,,,,,,missing,no_historical_validity,missing,offline_credentials_absent,沒有同名同縣市的景點資料庫列，不估算距離。
+geo_苗栗縣bbd4ba_雪霸國家公園9e486b,stat_bd13623d8523c1eb,汶水遊客中心,,苗栗縣,,,,,,,missing,no_historical_validity,missing,offline_credentials_absent,沒有同名同縣市的景點資料庫列，不估算距離。
+geo_苗栗縣bbd4ba_雪霸國家公園9e486b,stat_bd13623d8523c1eb,汶水遊客中心,汶水老街,苗栗縣,fuzzy_candidate,,,24.45632,120.87640,,not_computed_for_fuzzy_candidate,no_historical_validity,unverified,offline_credentials_absent,名稱不同，座標只留在候選欄，沒有寫入場所卡。
+geo_苗栗縣bbd4ba_雪霸國家公園9e486b,stat_8a6f1d4ced604997,觀霧遊客中心,,苗栗縣,,,,,,,missing,no_historical_validity,missing,offline_credentials_absent,沒有同名同縣市的景點資料庫列，不估算距離。
+geo_苗栗縣bbd4ba_雪霸國家公園9e486b,stat_8a6f1d4ced604997,觀霧遊客中心,觀霧國家森林遊樂區,苗栗縣,fuzzy_candidate,,,24.50606517172,121.11374599729,,not_computed_for_fuzzy_candidate,no_historical_validity,unverified,offline_credentials_absent,名稱不同，座標只留在候選欄，沒有寫入場所卡。
+geo_苗栗縣bbd4ba_雪霸國家公園9e486b,stat_d2904e941d218851,雪見遊憩區,雪見遊憩區,苗栗縣,exact_name_county,24.42473,121.01340,24.42473,121.01340,,straight_line_unavailable_until_two_sites_in_the_group_match,stable_unconfirmed,source_reported,offline_credentials_absent,直線距離尚未計算。同群沒有第二個同名同縣市座標。這不是旅行時間。

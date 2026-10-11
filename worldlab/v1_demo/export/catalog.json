@@ -1,0 +1,137 @@
+{
+  "status": "V1_PREVIEW",
+  "mode": "REPLAY_ONLY",
+  "release": "NOT_RELEASED",
+  "experiment_021": "NOT_STARTED",
+  "banner": "既有實驗回放",
+  "experiment": "experiment_020_social_field_source_switching",
+  "seeds": [
+    1700,
+    2199,
+    2699
+  ],
+  "memories": [
+    {
+      "id": "CUM",
+      "label": "CUM：累積全部歷史"
+    },
+    {
+      "id": "RW50",
+      "label": "RW50：最近 50 步"
+    },
+    {
+      "id": "EXP99",
+      "label": "EXP99：較舊歷史變輕"
+    }
+  ],
+  "transforms": [
+    {
+      "id": "LOGMAX",
+      "label": "LOGMAX：分數較緩和"
+    },
+    {
+      "id": "ZRAW",
+      "label": "ZRAW：分數起伏較大"
+    }
+  ],
+  "q_labels": [
+    {
+      "id": "q05",
+      "label": "q05"
+    },
+    {
+      "id": "q15",
+      "label": "q15"
+    },
+    {
+      "id": "q25",
+      "label": "q25"
+    }
+  ],
+  "q_note": "這是參考情境的校準標籤，不保證本世界實際 Q 相同。",
+  "schedules": [
+    {
+      "id": "EE",
+      "label": "EE：全程本世界歷史"
+    },
+    {
+      "id": "EO",
+      "label": "EO：t=51 起改用 donor"
+    },
+    {
+      "id": "OE",
+      "label": "OE：t=51 起改回本世界"
+    },
+    {
+      "id": "OO",
+      "label": "OO：全程 donor"
+    },
+    {
+      "id": "S0",
+      "label": "S0：donor 參考回放"
+    }
+  ],
+  "places": [
+    {
+      "id": "site_01",
+      "label": "場所 1",
+      "capacity": 8,
+      "visual_attractiveness": 0.82,
+      "novelty": 0.24,
+      "layout": "schematic"
+    },
+    {
+      "id": "site_02",
+      "label": "場所 2",
+      "capacity": 10,
+      "visual_attractiveness": 0.67,
+      "novelty": 0.51,
+      "layout": "schematic"
+    },
+    {
+      "id": "site_03",
+      "label": "場所 3",
+      "capacity": 12,
+      "visual_attractiveness": 0.48,
+      "novelty": 0.78,
+      "layout": "schematic"
+    },
+    {
+      "id": "site_04",
+      "label": "場所 4",
+      "capacity": 16,
+      "visual_attractiveness": 0.33,
+      "novelty": 0.63,
+      "layout": "schematic"
+    },
+    {
+      "id": "site_05",
+      "label": "場所 5",
+      "capacity": 20,
+      "visual_attractiveness": 0.16,
+      "novelty": 0.12,
+      "layout": "schematic"
+    }
+  ],
+  "time_marks": {
+    "0": "t=0：初始位置",
+    "50": "t=50：切換前最後一個 committed state",
+    "51": "decision t=51 產生 committed state t=51。只有 EO 與 OE 會在這裡更換來源。"
+  },
+  "default_selection": {
+    "memory": "CUM",
+    "transform": "LOGMAX",
+    "q": "q25",
+    "seed": 1700,
+    "left": "EE",
+    "right": "EO"
+  },
+  "phrases": {
+    "not_applicable": "不適用／沒有合格樣本",
+    "no_exit_by_horizon": "到 t=500 尚未跌破 18 人門檻",
+    "no_release_by_horizon": "到 t=500 尚未解除集中",
+    "event_not_formed": "未形成"
+  },
+  "llm_calls": 0,
+  "worlds_resimulated": false
+}

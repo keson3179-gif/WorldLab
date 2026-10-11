@@ -1,0 +1,21 @@
+{
+  "counts": {
+    "AA": 31,
+    "AP": 49,
+    "PA": 8,
+    "PP": 12
+  },
+  "jaccard": 0.17391304347826086,
+  "relation": "replaced",
+  "n": 100,
+  "k_a": 20,
+  "k_b": 61,
+  "observed_overlap": 12,
+  "expected_overlap": 12.2,
+  "hypergeometric_central_95": [
+    8,
+    16
+  ],
+  "replacement_reproduced": true,
+  "reference_note": "The hypergeometric interval is a central 95 percent reference for the overlap of two seed sets when labels are exchangeable and the set sizes are fixed. It is not a confidence interval for an effect, it does not identify a persistence mechanism, and a different Jaccard alone does not prove a difference in identity stability."
+}

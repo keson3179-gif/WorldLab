@@ -1,0 +1,220 @@
+{
+  "analysis_role": "exploratory_development",
+  "p4_executed": false,
+  "llm_calls": 0,
+  "holdout_visits_used": false,
+  "model_selected_on_scores": false,
+  "mapping": "one_decision_step_per_target_month_is_a_mapping_assumption",
+  "read_paths": [
+    "data/curated/v4_forecast_panel_candidate.parquet",
+    "data/curated/v4_2024_identity_audit.csv",
+    "data/curated/v4_group_comparability.csv"
+  ],
+  "panel_columns": [
+    "group_id",
+    "site_uid",
+    "year_month",
+    "share",
+    "dataset_role"
+  ],
+  "reusable_interfaces": [
+    "world.choice.softmax_choice",
+    "world.choice.choice_seed",
+    "world.choice.agent_reconsiders",
+    "world.experiment_002.REFERENCE_CHOICE_TEMPERATURE",
+    "world.experiment_002.REFERENCE_RECONSIDERATION_RATE",
+    "world.experiment_004.popularity_scores",
+    "world.experiment_004.SocialState",
+    "world.experiment_004.commit_social",
+    "world.experiment_005.centered_scores",
+    "world.experiment_005.RollingMemory",
+    "world.experiment_005.DecayMemory",
+    "world.experiment_017.score_memory",
+    "world.experiment_018.q_components",
+    "world.experiment_020.source_at",
+    "world.geography.PLACE_IDS",
+    "worldlab_data.phase13.predict_shares",
+    "worldlab_data.phase13.information_cutoff"
+  ],
+  "engine": {
+    "choice_temperature": 200.0,
+    "reconsideration_rate": 0.5,
+    "score_clip": 2.0,
+    "agent_count_in_engine": 20,
+    "baseline_models": [
+      "persistence",
+      "same_month_last_year",
+      "seasonal_month_mean",
+      "trailing_3_mean",
+      "trailing_12_mean",
+      "fixed_equal_weight",
+      "uniform_reference"
+    ],
+    "required_replicates_for_component_se_0_01": 125
+  },
+  "required_replicates": 125,
+  "smoke": {
+    "probability": [
+      0.3347790886532243,
+      0.3331093709827115,
+      0.3321115403640642
+    ],
+    "homogeneous_expected_share": [
+      0.3347790886532243,
+      0.3331093709827115,
+      0.3321115403640642
+    ],
+    "stay_adjusted_share": [
+      0.6673895443266121,
+      0.16655468549135574,
+      0.1660557701820321
+    ],
+    "one_world_tv": 0.09999999999999999,
+    "mean_max_abs_error": 0.006000000000000005,
+    "replicates": 125,
+    "seed_replayed": true,
+    "scale_tradeoff": true,
+    "free_running_steps": 2,
+    "free_running_second_source_months": [
+      "t1"
+    ],
+    "zero_demand_reason": "all_zero_group_total",
+    "synthetic_alias_blocked": true,
+    "input": "synthetic_probabilities"
+  },
+  "groups": [
+    {
+      "parent_area": "玉山國家公園",
+      "county": "南投縣",
+      "site_count": 3,
+      "evaluable_months": 96,
+      "development_month": "2014-01",
+      "development_role": "exploratory_development",
+      "scenario_a_cutoff": "2013-12",
+      "scenario_b_cutoff": "2013-10",
+      "scenario_a_last_source": "2013-12",
+      "scenario_b_last_source": "2013-10",
+      "abm_status": "prediction_unavailable",
+      "abm_skip_reason": "real_site_attributes_missing",
+      "baseline_status": {
+        "persistence": "predicted",
+        "same_month_last_year": "predicted",
+        "seasonal_month_mean": "predicted",
+        "trailing_3_mean": "predicted",
+        "trailing_12_mean": "predicted",
+        "fixed_equal_weight": "predicted",
+        "uniform_reference": "predicted"
+      },
+      "utility_status": "unavailable",
+      "missing_attributes": [
+        "visual_attractiveness",
+        "novelty",
+        "capacity",
+        "pairwise_distance",
+        "respondent_traits"
+      ],
+      "safe_to_link": [
+        false,
+        false,
+        false
+      ],
+      "fair_2025_one_step": "unavailable_incomplete_2024_identity",
+      "reported_history_unchanged": true
+    },
+    {
+      "parent_area": "太魯閣國家公園",
+      "county": "花蓮縣",
+      "site_count": 3,
+      "evaluable_months": 120,
+      "development_month": "2014-01",
+      "development_role": "exploratory_development",
+      "scenario_a_cutoff": "2013-12",
+      "scenario_b_cutoff": "2013-10",
+      "scenario_a_last_source": "2013-12",
+      "scenario_b_last_source": "2013-10",
+      "abm_status": "prediction_unavailable",
+      "abm_skip_reason": "real_site_attributes_missing",
+      "baseline_status": {
+        "persistence": "predicted",
+        "same_month_last_year": "predicted",
+        "seasonal_month_mean": "predicted",
+        "trailing_3_mean": "predicted",
+        "trailing_12_mean": "predicted",
+        "fixed_equal_weight": "predicted",
+        "uniform_reference": "predicted"
+      },
+      "utility_status": "unavailable",
+      "missing_attributes": [
+        "visual_attractiveness",
+        "novelty",
+        "capacity",
+        "pairwise_distance",
+        "respondent_traits"
+      ],
+      "safe_to_link": [
+        false,
+        false,
+        false
+      ],
+      "fair_2025_one_step": "unavailable_incomplete_2024_identity",
+      "reported_history_unchanged": true
+    },
+    {
+      "parent_area": "雪霸國家公園",
+      "county": "苗栗縣",
+      "site_count": 3,
+      "evaluable_months": 120,
+      "development_month": "2014-01",
+      "development_role": "exploratory_development",
+      "scenario_a_cutoff": "2013-12",
+      "scenario_b_cutoff": "2013-10",
+      "scenario_a_last_source": "2013-12",
+      "scenario_b_last_source": "2013-10",
+      "abm_status": "prediction_unavailable",
+      "abm_skip_reason": "real_site_attributes_missing",
+      "baseline_status": {
+        "persistence": "predicted",
+        "same_month_last_year": "predicted",
+        "seasonal_month_mean": "predicted",
+        "trailing_3_mean": "predicted",
+        "trailing_12_mean": "predicted",
+        "fixed_equal_weight": "predicted",
+        "uniform_reference": "predicted"
+      },
+      "utility_status": "unavailable",
+      "missing_attributes": [
+        "visual_attractiveness",
+        "novelty",
+        "capacity",
+        "pairwise_distance",
+        "respondent_traits"
+      ],
+      "safe_to_link": [
+        true,
+        true,
+        false
+      ],
+      "fair_2025_one_step": "unavailable_incomplete_2024_identity",
+      "reported_history_unchanged": true
+    }
+  ],
+  "llm_schema": {
+    "place_code": "neutral_code",
+    "card_version": null,
+    "attributes_sent": [],
+    "excluded_fields": [
+      "visit_counts",
+      "shares",
+      "hhi",
+      "validation_period_popularity",
+      "descriptions_published_after_the_observation_month"
+    ],
+    "model_version": null,
+    "prompt_sha256": null,
+    "parse_rule": null,
+    "response_retained": false,
+    "generation_status": "not_run",
+    "knowledge_contamination_check": "not_run"
+  },
+  "protected_files_unchanged": true
+}

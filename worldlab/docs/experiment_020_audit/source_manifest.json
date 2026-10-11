@@ -1,0 +1,73 @@
+{
+  "record_type": "experiment_020_audit_source_manifest",
+  "original_research_sources": {
+    "run_manifest": {
+      "path": "data/worlds/world_v0_20/run_manifest.json",
+      "sha256": "07ec5153e231921ba32deeaaba172eea48b8a152f82a3a3245eed894e03a40e9"
+    },
+    "uncertainty_analysis": {
+      "path": "data/worlds/world_v0_20/uncertainty_analysis.json",
+      "sha256": "cdd733542999fa813a07260c01956abef45cf91b818da43e994642f847a9106f"
+    },
+    "completion_status": {
+      "path": "data/worlds/world_v0_20/completion_status.json",
+      "sha256": "4140dddb127f9775d6634abadb8ca70a23bfccb0e2c338b0ccc656519dcbc1cc"
+    },
+    "progress_jsonl": {
+      "path": "data/worlds/world_v0_20/progress.jsonl",
+      "sha256_full": "50a467909d67083db05599947c04d88bf2697aa4a6f21e1aa7d6186612983599",
+      "manifest_expected_sha256": "4274375e426f810ee39a3265cd6212a43cfe3f5f9dffcb6f8c44921a648ab643"
+    },
+    "archived_report": {
+      "path": "data/worlds/world_v0_20/EXPERIMENT_020_REPORT.md",
+      "sha256": "0569ad81309c1327c9730aea0405833268e1b6c9867a4d2152c22b3a20cb2589"
+    },
+    "runner": {
+      "path": "world/experiment_020.py",
+      "sha256": "023d4492f463165fa618f31a53812f76fca9bd95b6eb3e12775202e74cf92a3f"
+    },
+    "seed_metrics": {
+      "directory": "data/worlds/world_v0_20/seeds",
+      "count": 1000,
+      "hash_index": "data/worlds/world_v0_20/run_manifest.json entries verified in this audit"
+    },
+    "other_listed_archive_files": {
+      "hash_index": "the same run manifest",
+      "verified_except": "data/worlds/world_v0_20/progress.jsonl"
+    }
+  },
+  "derivative_audit_outputs": {
+    "audit_program": {
+      "path": "docs/experiment_020_audit/audit_experiment_020.py",
+      "sha256": "f541243a838d1e4e70a9cf2762ff3f886b5913c42db38c97905edf4400bdf371"
+    },
+    "tests": {
+      "path": "tests/test_experiment_020_audit.py",
+      "sha256": "5f8153a650f6586113bb826b91e999237f6ed0cd555967a8aaf00c54c28a6792"
+    },
+    "errata": {
+      "path": "docs/EXPERIMENT_020_ERRATA.md",
+      "sha256": "76ecd6e20f56efdc04494f0283501a6cf1fbacb7c38926cfffb3b28fa0a9ccc9"
+    },
+    "corrected_docs_report": {
+      "path": "docs/EXPERIMENT_020_REPORT.md",
+      "sha256": "7f48997ed3e3e26b42e59c33f927e2528869614e8ba6495d368d8123e6984278"
+    },
+    "audit_results": {
+      "path": "docs/experiment_020_audit/audit_results.json",
+      "sha256": "f2594be16015af54ea424deff25d85435525d0b0e885483b596aa6d0ce63eefe"
+    },
+    "readme": {
+      "path": "README.md",
+      "sha256": "4777edbe114d5ef8943017b2d59937a358a6186bb6dec21269b44be3afed0c82"
+    },
+    "experiments_index": {
+      "path": "docs/EXPERIMENTS.md",
+      "sha256": "63226b9fbce21c81a2ff8c06c9fe3b985cb20361e8e9409feb0fecb91068894a"
+    }
+  },
+  "excluded_from_this_manifest": [
+    "docs/experiment_020_audit/source_manifest.json"
+  ],
+  "llm_calls": 0
+}

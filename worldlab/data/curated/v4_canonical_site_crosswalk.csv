@@ -1,0 +1,805 @@
+﻿raw_site_id,site_uid,site_version_id,official_name,county,category,parent_area,match_status,evidence,first_year,last_year,review_note
+stat_003f29edc21dd090,stat_1aaf4d174a8373eb,stat_003f29edc21dd090,烏山頭水庫風景區,臺南市,國家級風景特定區,西拉雅國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_e47e3dfb12cf340b,stat_1aaf4d174a8373eb,stat_e47e3dfb12cf340b,烏山頭水庫風景區,臺南市,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_00708fd6705ca4a9,stat_a974ffa57c3fe5b1,stat_00708fd6705ca4a9,八里左岸公園,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_008b3673fa37e3fc,stat_441ecf079726eb17,stat_008b3673fa37e3fc,香格里拉樂園,苗栗縣,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_5b39270cdbbbbf5f,stat_13fbbe7a302ef4a9,stat_5b39270cdbbbbf5f,大鵬灣遊憩區,屏東縣,國家級風景特定區,大鵬灣國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_00fb7d8a1a8fb93d,stat_13fbbe7a302ef4a9,stat_00fb7d8a1a8fb93d,大鵬灣遊憩區,屏東縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2024,
+stat_013f4d3b809f5489,stat_9d947d4a8e9fd11b,stat_013f4d3b809f5489,竹山天梯風景區,南投縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_01a1467646ec832c,stat_41e66e8d7b05e2ac,stat_01a1467646ec832c,小叮噹科學遊樂區,新竹縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_1d3c03ac19bd920b,stat_58da67512a1e7242,stat_1d3c03ac19bd920b,南安遊客中心,花蓮縣,國家公園,玉山國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_01ba4ffb7c1c50fa,stat_58da67512a1e7242,stat_01ba4ffb7c1c50fa,南安遊客中心,花蓮縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_0213ebfdbdc686e9,stat_a3b0992873043ea1,stat_0213ebfdbdc686e9,田尾公路花園,彰化縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_0253ab93aa28d5ff,stat_8b901ec4a5ddc4fe,stat_0253ab93aa28d5ff,花蓮縣石雕博物館,花蓮縣,休閒農業區及休閒農場,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_025e257859744413,stat_5e256cb5ff43a1fc,stat_025e257859744413,埔心牧場,桃園市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_026b5666420ddc17,stat_d2171d5e704dc1c6,stat_026b5666420ddc17,八卦山風景區(彰化地區),彰化縣,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_026d5d2faf74320f,stat_1835ae077db3e38d,stat_026d5d2faf74320f,石門水庫風景區,桃園市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_029e9854b8448bdc,stat_907b59b7d937cd60,stat_029e9854b8448bdc,內洞國家森林遊樂區,新北市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_02ceb631b0ff6878,stat_f740b6bf6fde97dd,stat_02ceb631b0ff6878,嘉義市立博物館,嘉義市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_034c223be166ecaf,stat_b69762b46f52a8bd,stat_034c223be166ecaf,合歡山國家森林遊樂區,花蓮縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_04065fa8071c8cc1,stat_18c60302f73f43cf,stat_04065fa8071c8cc1,玉山管理處遊客服務中心,南投縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_04d0ee0c2a7e79ef,stat_69914b3d2ab3b500,stat_04d0ee0c2a7e79ef,臺八線沿線景觀區,花蓮縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_05717fc801e8262a,stat_4d8e266fd6fc9c70,stat_05717fc801e8262a,獅頭山風景區,新竹縣,國家級風景特定區,參山國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_06277f050d09f7fe,stat_005e17f99b3f055c,stat_06277f050d09f7fe,烏樹林休閒園區,臺南市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_f824fc58303f45e9,stat_71e4a610fe6fac93,stat_f824fc58303f45e9,曾文水庫,臺南市,國家級風景特定區,西拉雅國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_06944f6a675e2f2d,stat_71e4a610fe6fac93,stat_06944f6a675e2f2d,曾文水庫,臺南市,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_070fb40880dd073c,stat_2487892a99d934bc,stat_070fb40880dd073c,赤嵌樓,臺南市,觀光地區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,
+stat_074ac9077b53709e,stat_8e9a7f978eca2057,stat_074ac9077b53709e,台北故事館,臺北市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_07982b9772a21836,stat_43b5727af72ef747,stat_07982b9772a21836,台東海洋夢想館,臺東縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_07af4a37a6022ef2,stat_30f7ef39237efff2,stat_07af4a37a6022ef2,大湖草莓文化館,苗栗縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_08e2384a9fcc1dfc,stat_26d8bdf4ac9a6eec,stat_08e2384a9fcc1dfc,福壽山農場,臺中市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_09bd010d0ec24637,stat_3604a75c91ea64a1,stat_09bd010d0ec24637,九族文化村,南投縣,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_09d4672a9bf189b2,stat_1b22d7cec994561b,stat_09d4672a9bf189b2,東勢林場遊樂區,臺中市,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d0b1e28cab4b49d8,stat_059b0042e66b6a4a,stat_d0b1e28cab4b49d8,日月潭環潭區,南投縣,國家級風景特定區,日月潭國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_09d67c79699aa285,stat_059b0042e66b6a4a,stat_09d67c79699aa285,日月潭環潭區,南投縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2024,
+stat_89fecbaf5bd4e8f2,stat_c463e77de5ecfc7e,stat_89fecbaf5bd4e8f2,雙鯉溼地自然中心,金門縣,國家公園,金門國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_09f4dae1fe917b74,stat_c463e77de5ecfc7e,stat_09f4dae1fe917b74,雙鯉溼地自然中心,金門縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_0a375e98c35f180e,stat_4929c752893b72ef,stat_0a375e98c35f180e,七美遊憩區,澎湖縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_0a3c1881c22a53b1,stat_eac0cf62dfa8d81b,stat_0a3c1881c22a53b1,溪頭自然教育園區,南投縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_0a887a0e8ce2fb0f,stat_82938f10afa3f6b9,stat_0a887a0e8ce2fb0f,貓鼻頭公園,屏東縣,國家公園,墾丁國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_0e53ae910493a2d6,stat_82938f10afa3f6b9,stat_0e53ae910493a2d6,貓鼻頭公園,屏東縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2024,
+stat_0adaac20aacef973,stat_6e0fa507fcca2b62,stat_0adaac20aacef973,三仙臺,臺東縣,國家級風景特定區,東部海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_339919f023f3db7c,stat_2020371157724e6a,stat_339919f023f3db7c,陽明書屋,臺北市,國家公園,陽明山國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_0b3ec9fdbd7ba16f,stat_2020371157724e6a,stat_0b3ec9fdbd7ba16f,陽明書屋,臺北市,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_0b552fe7b27bbed4,stat_0da9eb27ead939a4,stat_0b552fe7b27bbed4,梧棲觀光漁港,臺中市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_0bc007a5212db4db,stat_12913fec99bce71a,stat_0bc007a5212db4db,莒光樓,金門縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_0c5a18ea82ea7807,stat_f385eb442f8d2bbf,stat_0c5a18ea82ea7807,杉林溪森林生態渡假園區,南投縣,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_0d27577f9bb1654c,stat_a6d916af802d3785,stat_0d27577f9bb1654c,士林官邸公園,臺北市,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_0e12c13a7c6b4891,stat_477e99a1b05a6c0f,stat_0e12c13a7c6b4891,衛武營國家藝術文化中心,高雄市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2023,2024,
+stat_0e272bf0a17ed352,stat_6b2c3dc34ca68375,stat_0e272bf0a17ed352,北寮奎壁山地質公園,澎湖縣,國家級風景特定區,澎湖國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2018,2021,
+stat_dc3350b42d28a821,stat_6b2c3dc34ca68375,stat_dc3350b42d28a821,北寮奎壁山地質公園,澎湖縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2024,
+stat_0e2e974ad10e8be4,stat_641ac8ace43f46d8,stat_0e2e974ad10e8be4,麗寶樂園渡假村,臺中市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_0e3dfe3fb8de0acd,stat_22c5b512a4d387c1,stat_0e3dfe3fb8de0acd,花蓮海洋公園,花蓮縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_0f6578a697eaccbd,stat_3770f837bb5678e8,stat_0f6578a697eaccbd,內洞國家森林遊樂區,新北市,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_0f8c77e8b74c809b,stat_d475be5fe237d05f,stat_0f8c77e8b74c809b,白沙灣,新北市,國家級風景特定區,北海岸及觀音山國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_b94f630a7f129261,stat_d475be5fe237d05f,stat_b94f630a7f129261,白沙灣,新北市,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2024,
+stat_8a583d4d8bf3a5e2,stat_e5ea739fd171a1f7,stat_8a583d4d8bf3a5e2,立川漁場,花蓮縣,國家級風景特定區,花東縱谷國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2020,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_0f9c6bf0494a9a71,stat_e5ea739fd171a1f7,stat_0f9c6bf0494a9a71,立川漁場,花蓮縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_11f2b10f39cd7440,stat_175e49c119079fed,stat_11f2b10f39cd7440,涼山遊憩區,屏東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_12a1e4641c432d7d,stat_610b7acd7367ff38,stat_12a1e4641c432d7d,八仙洞遊憩區,臺東縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_436388c1396e8e7a,stat_750937cf2633e248,stat_436388c1396e8e7a,社頂自然公園,屏東縣,國家公園,墾丁國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_1300ef2e467e932c,stat_750937cf2633e248,stat_1300ef2e467e932c,社頂自然公園,屏東縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_1323ed45cc32c70f,stat_fb0f1108a3f50f10,stat_1323ed45cc32c70f,草漯沙丘地質公園,桃園市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2023,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_13f5747e1acab931,stat_5363b9ef22fcebf1,stat_13f5747e1acab931,藍晒圖文創圈區,臺南市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2023,2024,
+stat_99ff466d0e0e847f,stat_7f9a6fc5b08db676,stat_99ff466d0e0e847f,佳樂水,屏東縣,國家公園,墾丁國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_13fac86f080b69bc,stat_7f9a6fc5b08db676,stat_13fac86f080b69bc,佳樂水,屏東縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_148e677d6e196039,stat_95a75b2d1f7f0f5c,stat_148e677d6e196039,野柳地質公園,新北市,國家級風景特定區,北海岸及觀音山國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_7fd2fd3241aec2b9,stat_95a75b2d1f7f0f5c,stat_7fd2fd3241aec2b9,野柳地質公園,新北市,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_9a00fd8f81c3bec8,stat_bd13623d8523c1eb,stat_9a00fd8f81c3bec8,汶水遊客中心,苗栗縣,國家公園,雪霸國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_151adda13d6e5a20,stat_bd13623d8523c1eb,stat_151adda13d6e5a20,汶水遊客中心,苗栗縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_157c9a0e09fc2807,stat_64939bd9d6a6438f,stat_157c9a0e09fc2807,麗寶樂園渡假村,臺中市,觀光地區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_157e802de7ae322f,stat_374827e4d98ccd57,stat_157e802de7ae322f,白沙屯拱天宮,苗栗縣,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_158b0dbe23c22e9c,stat_e5e30d5c3355d2a3,stat_158b0dbe23c22e9c,客家圓樓,苗栗縣,觀光地區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_15be2c21e9998d61,stat_b25023bb3a6be677,stat_15be2c21e9998d61,遠雄海洋公園,花蓮縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2020,2023,
+stat_d4dd1acd43f0acaf,stat_a5e4b7eaadd241b5,stat_d4dd1acd43f0acaf,布洛灣遊憩區,花蓮縣,國家公園,太魯閣國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_163059d3f499ed34,stat_a5e4b7eaadd241b5,stat_163059d3f499ed34,布洛灣遊憩區,花蓮縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_166bb8430ffdc2f5,stat_0e79dd5e33c56061,stat_166bb8430ffdc2f5,汶水遊客中心,苗栗縣,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_16c649aab0389900,stat_32c6cb1cb5846f9b,stat_16c649aab0389900,國立海洋生物博物館,屏東縣,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_17360bdd05f345de,stat_2b6a379bcbef4ad1,stat_17360bdd05f345de,東部海岸富岡地質公園及加路蘭休憩區,臺東縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_181e0ded2bd4cb7e,stat_7af3745c788f1eb6,stat_181e0ded2bd4cb7e,前清淡水關稅務司官邸 (小白宮),新北市,觀光地區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_182875a261d432a8,stat_3428a647941e5d7e,stat_182875a261d432a8,八仙山國家森林遊樂區,臺中市,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_681ea5fa4c40e359,stat_3fef1a600422d2e7,stat_681ea5fa4c40e359,擎天崗,臺北市,國家公園,陽明山國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2018,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_182ba4095b1d4370,stat_3fef1a600422d2e7,stat_182ba4095b1d4370,擎天崗,臺北市,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_9bdbdf026963a6e2,stat_4fa9e90c3a93c59d,stat_9bdbdf026963a6e2,關子嶺溫泉區,臺南市,國家級風景特定區,西拉雅國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_187b1f5a65e68475,stat_4fa9e90c3a93c59d,stat_187b1f5a65e68475,關子嶺溫泉區,臺南市,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_18b5ec3c6e94d789,stat_2554fefded3ba4b8,stat_18b5ec3c6e94d789,台北101,臺北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_1a5cc512eb76882c,stat_b979ea6a147853ec,stat_1a5cc512eb76882c,台南山上花園水道博物館,臺南市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_1af29ac2c794f207,stat_669eb4ad52868bce,stat_1af29ac2c794f207,1895乙未保台紀念公園,桃園市,國家公園,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_1b2ceb825e36e84e,stat_ddbf75c5e608b1ea,stat_1b2ceb825e36e84e,北港武德宮(北港武德宮管理委員會),雲林縣,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2023,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_1b3071345e701aed,stat_98b694c9ad97db7c,stat_1b3071345e701aed,莒光遊客中心,連江縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_1b546c845271887f,stat_abf4c0be30409b0b,stat_1b546c845271887f,宏匯廣場,新北市,國家級風景特定區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_1b733df8454438d4,stat_d09106d234c427b3,stat_1b733df8454438d4,小墾丁渡假村,屏東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_1bc1baf849903bdc,stat_03aef48aa7729e4b,stat_1bc1baf849903bdc,溪州公園,彰化縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_1bd9d4cb62729cf3,stat_5a01b64b473a76c7,stat_1bd9d4cb62729cf3,清水地熱公園,宜蘭縣,觀光地區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2021,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a452855691758b0e,stat_90c8bc8be1a0a850,stat_a452855691758b0e,虎頭埤風景區,臺南市,國家級風景特定區,西拉雅國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_1bdd129489cb6725,stat_90c8bc8be1a0a850,stat_1bdd129489cb6725,虎頭埤風景區,臺南市,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_1c02ac69fe813697,stat_156f86d30008407c,stat_1c02ac69fe813697,駁二藝術特區,高雄市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_1c5189c1a32f8a95,stat_171d58af7a559be6,stat_1c5189c1a32f8a95,前清淡水關稅務司官邸 (小白宮),新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_1c9c3bb1253778db,stat_e69d9819de4ea26a,stat_1c9c3bb1253778db,花蓮糖廠及周邊地區,花蓮縣,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_1cd2e7ef0ade73d2,stat_83740be8024a4b42,stat_1cd2e7ef0ade73d2,愛河(五福四路至博愛一路),高雄市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_1cdca12310832739,stat_589dd223ebc11b54,stat_1cdca12310832739,慶修院,花蓮縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_1d6135d061c4205a,stat_f17b8b18f6758797,stat_1d6135d061c4205a,明池森林遊樂區,宜蘭縣,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_1e3fb62ef74f8751,stat_ddc4793bbe93e07e,stat_1e3fb62ef74f8751,龍鳳谷遊憩區,臺北市,國家公園,陽明山國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ba5d794d3a5fee05,stat_ddc4793bbe93e07e,stat_ba5d794d3a5fee05,龍鳳谷遊憩區,臺北市,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_1e40f75400ea52f0,stat_39d99fb3f87ddede,stat_1e40f75400ea52f0,鵝鑾鼻公園,屏東縣,國家公園,墾丁國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_554d40cd9f370028,stat_39d99fb3f87ddede,stat_554d40cd9f370028,鵝鑾鼻公園,屏東縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2024,
+stat_1edba084d2e3d515,stat_aeacdfbe51284a12,stat_1edba084d2e3d515,蘇澳冷泉,宜蘭縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_1ef530ced068da56,stat_928b9fe559641fec,stat_1ef530ced068da56,八仙洞,臺東縣,國家級風景特定區,東部海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_1f718006678ada46,stat_fffc469201446faf,stat_1f718006678ada46,大坑登山步道,臺中市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_1fb200f69878fc3d,stat_3258d3649a27aac2,stat_1fb200f69878fc3d,臺灣原住民文化園區,屏東縣,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_1fe666969dc8bb97,stat_af7e3d925de4fdbc,stat_1fe666969dc8bb97,鼻頭龍洞遊憩區,新北市,國家級風景特定區,東北角暨宜蘭海岸國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2020,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_bc58869a96ce9d93,stat_af7e3d925de4fdbc,stat_bc58869a96ce9d93,鼻頭龍洞遊憩區,新北市,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_201ab5030c203dd9,stat_234de850ab014721,stat_201ab5030c203dd9,紅毛港文化園區,高雄市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2014,2022,
+stat_20983cc8642e72bc,stat_008e9c92ecbf34ed,stat_20983cc8642e72bc,臺北自來水園區,臺北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_209baae8fcee2e8e,stat_b98e9008e2d2d8a9,stat_209baae8fcee2e8e,國立臺灣史前文化博物館,臺東縣,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_20b021b50cd21df7,stat_29d67b41df091637,stat_20b021b50cd21df7,龍門露營區,新北市,國家級風景特定區,東北角暨宜蘭海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_21e3f1c06b7e5cc1,stat_93c044fed28d69f9,stat_21e3f1c06b7e5cc1,法鼓山世界佛教教育園區,新北市,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_21f7e270da52a6b6,stat_8bc03f1ac5c6fbd5,stat_21f7e270da52a6b6,武荖坑風景區,宜蘭縣,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_222f1e50a9c57a4f,stat_da7098afb4808fc6,stat_222f1e50a9c57a4f,陽明海洋文化藝術館,基隆市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_223e3d1707e76609,stat_d76943c9c0728863,stat_223e3d1707e76609,綠島遊憩區,臺東縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_2299bcbb16fd1185,stat_e12f5b328ee42cf5,stat_2299bcbb16fd1185,谷關遊憩區,臺中市,國家級風景特定區,參山國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_35acd533636f5107,stat_e12f5b328ee42cf5,stat_35acd533636f5107,谷關遊憩區,臺中市,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_22b04b9e5a3c1607,stat_5cbe68f4ddc677f8,stat_22b04b9e5a3c1607,龍洞灣公園,新北市,國家級風景特定區,東北角暨宜蘭海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_22f78d9a8d72faa7,stat_a4587d7af6eb8b85,stat_22f78d9a8d72faa7,台北101,臺北市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_231e2df9f6cbe8ff,stat_63269eddde2fff9a,stat_231e2df9f6cbe8ff,延平郡王祠,臺南市,觀光地區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2020,
+stat_2335acd54d2e0125,stat_00b9ac6d7e6537b1,stat_2335acd54d2e0125,小烏來風景特定區,桃園市,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_2342285bcb413556,stat_4f09086a3a4eab7b,stat_2342285bcb413556,九族文化村,南投縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_23461ec53a8d44b3,stat_f9d6e4097aff4f7b,stat_23461ec53a8d44b3,獅頭山風景區(新竹地區),新竹縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_23725822c3ce0e7c,stat_b6687817ebe3084e,stat_23725822c3ce0e7c,金針山休閒農業區,臺東縣,休閒農業區及休閒農場,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_23e7fc6ae0b51c78,stat_874fead9ab872a3f,stat_23e7fc6ae0b51c78,三仙台遊憩區及周邊地區,臺東縣,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_24139e786046e0cf,stat_4877efe7eda0bc7c,stat_24139e786046e0cf,竹圍漁港,桃園市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_243c1f38d927a815,stat_0bd8641752d923b6,stat_243c1f38d927a815,臺中公園,臺中市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_24c182d04fe9fa4f,stat_f49fa27bc4e870cf,stat_24c182d04fe9fa4f,龍鑾潭自然中心,屏東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_24d6d5a0564dc8c6,stat_8a6f1d4ced604997,stat_24d6d5a0564dc8c6,觀霧遊客中心,苗栗縣,國家公園,雪霸國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_2e526b3dc39a4dba,stat_8a6f1d4ced604997,stat_2e526b3dc39a4dba,觀霧遊客中心,苗栗縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2024,
+stat_2563833ff16821bc,stat_c546487777e5747b,stat_2563833ff16821bc,金獅湖風景區,高雄市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2023,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_256a467806809208,stat_22d95915b056820c,stat_256a467806809208,舞鶴台地,花蓮縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_2581eccaf4f9cb6e,stat_3516c4a5e7bb6fdb,stat_2581eccaf4f9cb6e,8大森林樂園,屏東縣,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_25ac0d7a326d8f95,stat_2ab703029e9c6423,stat_25ac0d7a326d8f95,淡水漁人碼頭,新北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_25e9255edee094e3,stat_856e26bea7def187,stat_25e9255edee094e3,草嶺,雲林縣,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_26485897dbfb5a9c,stat_d00d8dc86c74d075,stat_26485897dbfb5a9c,龍潭湖,宜蘭縣,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_26a5e545dc958761,stat_70e0de1faf4d1873,stat_26a5e545dc958761,小人國主題樂園,桃園市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_275f947069d76d7b,stat_e4cfaf92cb3ca4a5,stat_275f947069d76d7b,八卦山風景區(南投地區),南投縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_279dd2b67ff8acd1,stat_b4b5cc23e451aa08,stat_279dd2b67ff8acd1,原生應用植物園,臺東縣,國家級風景特定區,花東縱谷國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2020,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_61d91d1afdf0978e,stat_b4b5cc23e451aa08,stat_61d91d1afdf0978e,原生應用植物園,臺東縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_3e5e753a1e22a935,stat_0b2b33abddcd8b32,stat_3e5e753a1e22a935,金水學校,金門縣,國家公園,金門國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_27e4413ed1830a46,stat_0b2b33abddcd8b32,stat_27e4413ed1830a46,金水學校,金門縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_28347a130bf2d402,stat_a81e2b15780f2e27,stat_28347a130bf2d402,陽明山遊客中心,臺北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_284342ca1ec9b6e8,stat_ff154b7ed7e6b7df,stat_284342ca1ec9b6e8,布袋遊憩區,嘉義縣,國家級風景特定區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2022,2024,
+stat_287e1c40956074c4,stat_21e4da9ae2bb0755,stat_287e1c40956074c4,東眼山國家森林遊樂區,桃園市,森林遊樂區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_28af6c448f2112d7,stat_58d7506d69e05ff4,stat_28af6c448f2112d7,石門水庫風景區,桃園市,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_291f13658fbd8876,stat_f82ca4fbdc49bbe1,stat_291f13658fbd8876,"遠雄海洋公園
+Farglory Ocean Park",花蓮縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_298755cc0340e5bb,stat_cbd16952577f977b,stat_298755cc0340e5bb,北海遊客中心,澎湖縣,國家級風景特定區,澎湖國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_e44b43604a69f8dd,stat_cbd16952577f977b,stat_e44b43604a69f8dd,北海遊客中心,澎湖縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,
+stat_29c2002b453d7dc5,stat_f2a7a37ca830c2d8,stat_29c2002b453d7dc5,花蓮縣石雕博物館,花蓮縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_2af7eb3c2764f42f,stat_16463da620b92253,stat_2af7eb3c2764f42f,頑皮世界,臺南市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_2bc7fcaa1ba7c23d,stat_eaf9d0750c955efa,stat_2bc7fcaa1ba7c23d,五妃廟,臺南市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2020,
+stat_2c2686a2f72fa2f7,stat_df47eed70619ed4b,stat_2c2686a2f72fa2f7,東引遊客中心,連江縣,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_7f38acda0c43c107,stat_371f0c5bc10b28b7,stat_7f38acda0c43c107,龍鑾潭自然中心,屏東縣,國家公園,墾丁國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_2cbc83e9d6a7ba24,stat_371f0c5bc10b28b7,stat_2cbc83e9d6a7ba24,龍鑾潭自然中心,屏東縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_2d0cbab41072d72d,stat_6ada75dca4d78067,stat_2d0cbab41072d72d,新北市立十三行博物館,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_2d5220792ccfb0fa,stat_50c76cdbd72797a6,stat_2d5220792ccfb0fa,觀音山,新北市,國家級風景特定區,北海岸及觀音山國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_f6e61135211c772a,stat_50c76cdbd72797a6,stat_f6e61135211c772a,觀音山,新北市,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_2d595a06996ca21d,stat_747007e1d4418795,stat_2d595a06996ca21d,西湖渡假村,苗栗縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_2d6c03ef10663acc,stat_b359b561a686b970,stat_2d6c03ef10663acc,台北探索館,臺北市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_2d9fd09cdf09be65,stat_5febd361877c6fcb,stat_2d9fd09cdf09be65,國立海洋科技博物館,基隆市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2016,2024,
+stat_2dbdb9528f07af4e,stat_fbf970a4a632de41,stat_2dbdb9528f07af4e,鯉魚潭風景區,花蓮縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_2dd8368244664224,stat_f0625316ce80b912,stat_2dd8368244664224,蘭潭,嘉義市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_2ddfc2741599b723,stat_2a0e671ab3ead1b4,stat_2ddfc2741599b723,新北市黃金博物園區,新北市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_2dfde8e95644b976,stat_2fde02efb21125a9,stat_2dfde8e95644b976,七美遊憩區,澎湖縣,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_2e0f34ef2c684f09,stat_40eb61fe669f6244,stat_2e0f34ef2c684f09,六福村主題遊樂園,新竹縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_2e6312a7e1d88125,stat_3f3f35f72166885f,stat_2e6312a7e1d88125,東豐自行車綠廊及后豐鐵馬道(含后里馬場),臺中市,森林遊樂區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_2ea627227f0363cb,stat_8476b00a0e5859f0,stat_2ea627227f0363cb,台北植物園,臺北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2016,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_2f8b0078445c6dbc,stat_c987b4315a28e1c3,stat_2f8b0078445c6dbc,翟山坑道,金門縣,國家公園,金門國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b78098bad9e03b62,stat_c987b4315a28e1c3,stat_b78098bad9e03b62,翟山坑道,金門縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_3019ee5427443fdc,stat_e886f7d63f68bb3f,stat_3019ee5427443fdc,宜蘭濱海遊憩區,宜蘭縣,國家級風景特定區,東北角暨宜蘭海岸國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2020,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a9f6266fbf14cd8a,stat_e886f7d63f68bb3f,stat_a9f6266fbf14cd8a,宜蘭濱海遊憩區,宜蘭縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_303d4bee66914dbd,stat_5379b627aacc0875,stat_303d4bee66914dbd,國立中正紀念堂,臺北市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_3045c313f3162992,stat_be0a8d40a96eb887,stat_3045c313f3162992,孔廟園區,臺南市,國家級風景特定區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_307584acfd16ac2a,stat_ed1f4def587a488a,stat_307584acfd16ac2a,北投溫泉博物館,臺北市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_6ceb928932527b79,stat_d2904e941d218851,stat_6ceb928932527b79,雪見遊憩區,苗栗縣,國家公園,雪霸國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_310d38493ca4ef7c,stat_d2904e941d218851,stat_310d38493ca4ef7c,雪見遊憩區,苗栗縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2024,
+stat_3128b8889b83548f,stat_43fffbf287e32b7c,stat_3128b8889b83548f,八德埤塘自然生態公園,桃園市,國家公園,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_317b1ae5ec3a4a5a,stat_39fb7044eaff6410,stat_317b1ae5ec3a4a5a,東埔溫泉,南投縣,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_8ec19cceec04239d,stat_5d47518af2524ee6,stat_8ec19cceec04239d,情人湖及湖海灣,基隆市,國家級風景特定區,北海岸及觀音山國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_31b7799741905b63,stat_5d47518af2524ee6,stat_31b7799741905b63,情人湖及湖海灣,基隆市,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_31c3fb889ed58880,stat_9da196af770c18e5,stat_31c3fb889ed58880,鶯歌老街,新北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_31e1c26b9ebc5d53,stat_b351168f02ed056f,stat_31e1c26b9ebc5d53,富源國家森林遊樂區,花蓮縣,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_31eb9641886f4ff9,stat_79fe0cd7ab64130f,stat_31eb9641886f4ff9,萬和宮,臺中市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_32074d93c9838aaa,stat_0626a3b79bf8d87c,stat_32074d93c9838aaa,鐵砧山,臺中市,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_331f6d5ce98637f9,stat_9d8ba727430b5afa,stat_331f6d5ce98637f9,烏來風景特定區,新北市,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_33546911221464de,stat_0ca989bfd62dc88f,stat_33546911221464de,田尾公路花園,彰化縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_336d652bacb8565c,stat_5318965bf19aa6c8,stat_336d652bacb8565c,客家圓樓,苗栗縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2018,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_33888b9aea4f9db6,stat_e6738581724ecd18,stat_33888b9aea4f9db6,五峰旗風景區,宜蘭縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_3412f35a6ebeab22,stat_36c6868138136b00,stat_3412f35a6ebeab22,北埔老街,新竹縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_347defc55659cefe,stat_23484539f06db368,stat_347defc55659cefe,國立臺灣科學教育館,臺北市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_35720e0ca55035ad,stat_76ed44fe44e18955,stat_35720e0ca55035ad,淡水金色水岸,新北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_71fdbe3229d420d6,stat_bfc5cd489794cd8b,stat_71fdbe3229d420d6,中山林遊客中心,金門縣,國家公園,金門國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_3585a6c1c7bafaa0,stat_bfc5cd489794cd8b,stat_3585a6c1c7bafaa0,中山林遊客中心,金門縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_3653ae8e9a6ffbd5,stat_46567038275fc5c1,stat_3653ae8e9a6ffbd5,赤科山,花蓮縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_36abaddb7924504e,stat_c52a9126f74a457c,stat_36abaddb7924504e,南紡購物中心,臺南市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2023,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_37d77b78757be273,stat_e5474346ad2a2cd5,stat_37d77b78757be273,法鼓山世界佛教教育園區,新北市,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_37da33945abb8980,stat_80f47666b6efab4e,stat_37da33945abb8980,東部海岸富岡地質公園及加路蘭休憩區,臺東縣,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_380fb8ea1f316acc,stat_7674ff3d859d14f9,stat_380fb8ea1f316acc,情人湖及湖海灣,基隆市,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_38ab4708b6e7c0d7,stat_d1c5ac0995684ed3,stat_38ab4708b6e7c0d7,翡翠灣濱海遊憩區,新北市,國家級風景特定區,北海岸及觀音山國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_42d2e57b8b1254bb,stat_d1c5ac0995684ed3,stat_42d2e57b8b1254bb,翡翠灣濱海遊憩區,新北市,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_38e7fbee3fbb0cfc,stat_8c058089e7efeead,stat_38e7fbee3fbb0cfc,草嶺古道系統(含遠望坑親水公園),新北市,國家級風景特定區,東北角暨宜蘭海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_39d96f0870caa0fc,stat_ed8e27359289875f,stat_39d96f0870caa0fc,行政院農業委員會特有生物研究保育中心,南投縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_3a0c847a42c394ba,stat_6cb18a8ca8bb520d,stat_3a0c847a42c394ba,梨山遊憩區,臺中市,國家級風景特定區,參山國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_8f60bd8d9d8d0eb2,stat_6cb18a8ca8bb520d,stat_8f60bd8d9d8d0eb2,梨山遊憩區,臺中市,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,
+stat_3a60723f2d3a9046,stat_79a7e73bf3beb529,stat_3a60723f2d3a9046,臺灣玻璃館,彰化縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_3a738a20bfd0b5d5,stat_06c1575aae0e5901,stat_3a738a20bfd0b5d5,關渡自然公園,臺北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_3be1046102f45967,stat_578c4c44384ef3f2,stat_3be1046102f45967,草悟道,臺中市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_3beaf0d9c328711e,stat_cd18905b739387c9,stat_3beaf0d9c328711e,泰雅渡假村,南投縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_3c2e9b673c4d64ab,stat_1eab5feb7658986c,stat_3c2e9b673c4d64ab,虎頭埤風景區,臺南市,休閒農業區及休閒農場,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_3d92cec8f7691fb1,stat_7df49773afe06668,stat_3d92cec8f7691fb1,禮納里部落,屏東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_3dd20007f7c48808,stat_4b2870c1d7a3ee88,stat_3dd20007f7c48808,龍洞南口海洋公園,新北市,國家級風景特定區,東北角暨宜蘭海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_3de2c612bb3c526a,stat_e778d8de9455bbef,stat_3de2c612bb3c526a,都歷處本部,臺東縣,國家級風景特定區,東部海岸國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_6cf9388d8f9bdb16,stat_e778d8de9455bbef,stat_6cf9388d8f9bdb16,都歷處本部,臺東縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_3ea578497f20df3c,stat_6b7e95ba587d23dd,stat_3ea578497f20df3c,猴硐煤礦博物園區,新北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_3ed3f6a6f4ca3084,stat_e041a8ad7a318c5c,stat_3ed3f6a6f4ca3084,八二三砲戰紀念館,金門縣,國家公園,金門國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_7e9a9dc397849162,stat_e041a8ad7a318c5c,stat_7e9a9dc397849162,八二三砲戰紀念館,金門縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2024,
+stat_3fd0022c7b4258a4,stat_09f135eaffc6f357,stat_3fd0022c7b4258a4,看海美術館旅服中心,屏東縣,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_415d255309058438,stat_2f42d0c5ba6f1a48,stat_415d255309058438,八仙山國家森林遊樂區,臺中市,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_417a4df71efbf0b3,stat_3011832c1655bfda,stat_417a4df71efbf0b3,霧臺遊憩區,屏東縣,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_418ba7433993a38c,stat_42e4cb0ee8491624,stat_418ba7433993a38c,世運主場館,高雄市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2022,
+stat_41f400cfdd935e05,stat_351b3ba18671850b,stat_41f400cfdd935e05,車城福安宮,屏東縣,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_422ceff408d540c0,stat_cb2d30d8e584a65a,stat_422ceff408d540c0,大板根森林溫泉酒店,新北市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_4259bfe19a2d6b23,stat_4164d18144d9695b,stat_4259bfe19a2d6b23,綠世界休閒農場,新竹縣,休閒農業區及休閒農場,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_42858ee38d8156b3,stat_7351c7f46ffa6402,stat_42858ee38d8156b3,林口三井Outlet,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2018,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b978afda439d628e,stat_7f79e88e4fc0ae45,stat_b978afda439d628e,井仔腳瓦盤鹽田,臺南市,國家級風景特定區,雲嘉南濱海國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_42939df3a6accc82,stat_7f79e88e4fc0ae45,stat_42939df3a6accc82,井仔腳瓦盤鹽田,臺南市,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,
+stat_433e11f4a60f673a,stat_aa68da204e103ea5,stat_433e11f4a60f673a,尚順育樂世界,苗栗縣,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_e0ead8d4f119fbbe,stat_77a7cb533e41ba6d,stat_e0ead8d4f119fbbe,北竿遊客中心,連江縣,國家級風景特定區,馬祖國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_43422104b912cf39,stat_77a7cb533e41ba6d,stat_43422104b912cf39,北竿遊客中心,連江縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2024,
+stat_942a14e937ddb99c,stat_120cbe0a88c62a3b,stat_942a14e937ddb99c,大里外澳遊憩區,宜蘭縣,國家級風景特定區,東北角暨宜蘭海岸國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2020,2021,
+stat_43596bbd0e1a3f31,stat_120cbe0a88c62a3b,stat_43596bbd0e1a3f31,大里外澳遊憩區,宜蘭縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2024,
+stat_4374967084dc3d81,stat_645bfa2d8a69f3f3,stat_4374967084dc3d81,新北市立黃金博物館,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_439bdfa3abced48b,stat_aa802e4df012f707,stat_439bdfa3abced48b,臺北市孔廟,臺北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,
+stat_43be7ab57dc2d473,stat_4df29dce18d0ae77,stat_43be7ab57dc2d473,五峰旗風景區,宜蘭縣,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_44364c9c98654af2,stat_dbb8cdc0ed5f8854,stat_44364c9c98654af2,福隆蔚藍海岸,新北市,國家級風景特定區,東北角暨宜蘭海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_443e3f0b7a383e82,stat_6546aa94b4b6cfa3,stat_443e3f0b7a383e82,霧社,南投縣,直轄市及縣(市)級風景特定區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2017,
+stat_44df4dd6a6f25c58,stat_2724a4a206073889,stat_44df4dd6a6f25c58,佛光山,高雄市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_44e63a0559d8a952,stat_6eb06b03e6e0250e,stat_44e63a0559d8a952,新北市立黃金博物館,新北市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_453a3cdede28307b,stat_f2b4a903a0f3a5f8,stat_453a3cdede28307b,野柳海洋世界,新北市,國家級風景特定區,北海岸及觀音山國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_f8445e96cc1d78c0,stat_f2b4a903a0f3a5f8,stat_f8445e96cc1d78c0,野柳海洋世界,新北市,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_45a9eb98f4eeffd9,stat_05a55f35db3082bb,stat_45a9eb98f4eeffd9,南海遊客中心及周邊地區,澎湖縣,觀光地區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_460084ee67d57332,stat_a550aeb2dbcc4ff2,stat_460084ee67d57332,武荖坑風景區,宜蘭縣,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_463276e159b160eb,stat_14fbe6b1defe13ea,stat_463276e159b160eb,赤科山,花蓮縣,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_f87846b3b10f0dab,stat_3ccf8dbf5cbe4c86,stat_f87846b3b10f0dab,澎湖遊客中心,澎湖縣,國家級風景特定區,澎湖國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_4672139739835099,stat_3ccf8dbf5cbe4c86,stat_4672139739835099,澎湖遊客中心,澎湖縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,
+stat_478264d7a303dc14,stat_913711fac3bc20ea,stat_478264d7a303dc14,王功漁港(含海空步道),彰化縣,國家級風景特定區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_47ad121741c34de1,stat_4014b6aa60397616,stat_47ad121741c34de1,鹽寮海濱公園,新北市,國家級風景特定區,東北角暨宜蘭海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_483177728b95e1ee,stat_055fd93f595a68c3,stat_483177728b95e1ee,建功嶼,金門縣,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_4854724eb01d54a3,stat_f86262b44c39d6c1,stat_4854724eb01d54a3,阿里山國家森林遊樂區,嘉義縣,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_4869251d2f9f3033,stat_3cce93f21a230251,stat_4869251d2f9f3033,瑞豐商圈,高雄市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2023,2024,
+stat_493c867b30bcc515,stat_9207f450118d41de,stat_493c867b30bcc515,莒光遊客中心,連江縣,國家級風景特定區,馬祖國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_c8cbf1063b44fb3d,stat_9207f450118d41de,stat_c8cbf1063b44fb3d,莒光遊客中心,連江縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_498c4256112464f8,stat_7c9f286d8c48f11b,stat_498c4256112464f8,八卦山風景區,彰化縣,國家級風景特定區,參山國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_d15cf50fd1e3d20c,stat_01e1ef692820abae,stat_d15cf50fd1e3d20c,古寧頭戰史館,金門縣,國家公園,金門國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_4ad13dd3954c7350,stat_01e1ef692820abae,stat_4ad13dd3954c7350,古寧頭戰史館,金門縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_4b2b69e5b8ca30b5,stat_3f6b27188d91211b,stat_4b2b69e5b8ca30b5,臺北市立美術館,臺北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_4bd5050640de7a29,stat_50f9bcf7921ad807,stat_4bd5050640de7a29,松山文創園區,臺北市,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_4bf3e928ceea74ec,stat_2f785929e5f2d3b5,stat_4bf3e928ceea74ec,棲蘭森林遊樂區,宜蘭縣,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_4c5d26260f9448aa,stat_d81392d07caaef0c,stat_4c5d26260f9448aa,小人國主題樂園,桃園市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_4d320aadeb983533,stat_98905eb68188a6e8,stat_4d320aadeb983533,東大門國際觀光夜市,花蓮縣,森林遊樂區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_4db8a442e4acb0b8,stat_828d614a4a2a8e83,stat_4db8a442e4acb0b8,澎湖遊客中心及周邊地區,澎湖縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_4e017cd094188f34,stat_c4114c4eb92eb670,stat_4e017cd094188f34,七股鹽山,臺南市,國家級風景特定區,雲嘉南濱海國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_4f4768aa09081513,stat_0b6ec984952d820e,stat_4f4768aa09081513,臺灣原住民文化園區,屏東縣,國家級風景特定區,茂林國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_e7f2ccbd57b41d2c,stat_0b6ec984952d820e,stat_e7f2ccbd57b41d2c,臺灣原住民文化園區,屏東縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_4f4e836836d0b527,stat_ece073fff504ee2c,stat_4f4e836836d0b527,白沙屯拱天宮,苗栗縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a78a26a8c2a60789,stat_e1dc5ad362514c65,stat_a78a26a8c2a60789,新光兆豐休閒農場,花蓮縣,國家級風景特定區,花東縱谷國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_4f92400c294eb9e0,stat_e1dc5ad362514c65,stat_4f92400c294eb9e0,新光兆豐休閒農場,花蓮縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,
+stat_4f9c47b50d246dc3,stat_9a6be17be5c2eed3,stat_4f9c47b50d246dc3,野柳地質公園,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_4fece993abf3df33,stat_2be02929d1c042bf,stat_4fece993abf3df33,關山親水公園,臺東縣,國家級風景特定區,花東縱谷國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_6c8d7281123256c1,stat_2be02929d1c042bf,stat_6c8d7281123256c1,關山親水公園,臺東縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,
+stat_5047fad8f68b8673,stat_29861dfc3676d296,stat_5047fad8f68b8673,十分瀑布,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_504f792b2590d585,stat_abbf81e067805dc9,stat_504f792b2590d585,北門鹽業遊憩區,臺南市,國家級風景特定區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2022,2024,
+stat_5056bf81685dfc6c,stat_06440b5b642fe35e,stat_5056bf81685dfc6c,北埔老街,新竹縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_515a2ff8f52c6cb7,stat_42c51ead592666e1,stat_515a2ff8f52c6cb7,蚵仔寮漁港,高雄市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2023,2024,
+stat_528f6de13c7a1b86,stat_f63e107753d68e73,stat_528f6de13c7a1b86,綠世界休閒農場,新竹縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_53d0543f280dc300,stat_e1a02587e6f4a8dd,stat_53d0543f280dc300,白石湖吊橋,臺北市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_543217d1b903c507,stat_4d9d62bc854f2437,stat_543217d1b903c507,龍泉觀光啤酒廠,屏東縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2022,2022,
+stat_543d37ad095f4fbd,stat_d6c44a1047d4d244,stat_543d37ad095f4fbd,小野柳(加路蘭),臺東縣,國家級風景特定區,東部海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_54663967a5eb2314,stat_150676e5c3bbe640,stat_54663967a5eb2314,走馬瀨農場,臺南市,休閒農業區及休閒農場,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_54bdce1174059a92,stat_abfbc5b33e892de5,stat_54bdce1174059a92,太魯閣國家公園遊客中心,花蓮縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_5500bf64c5107c08,stat_ae11148f1d27f713,stat_5500bf64c5107c08,竹山天梯風景區,南投縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_55035155289f0cd6,stat_cd531eeb20e69526,stat_55035155289f0cd6,龜山島海域遊憩區,宜蘭縣,國家級風景特定區,東北角暨宜蘭海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_55a4b4deca7bba71,stat_b39424e10c424dec,stat_55a4b4deca7bba71,中臺禪寺,南投縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_55c49666e86f3a57,stat_c6d3a87e001827c7,stat_55c49666e86f3a57,鹽寮福隆遊憩區,新北市,國家級風景特定區,東北角暨宜蘭海岸國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2020,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_c41aa0ed0f1c78ca,stat_c6d3a87e001827c7,stat_c41aa0ed0f1c78ca,鹽寮福隆遊憩區,新北市,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_55e228d80c4b53a3,stat_fcd7b976d2f5220d,stat_55e228d80c4b53a3,瑞芳風景特定區,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_5625a31613fad583,stat_6f12957e331bfde2,stat_5625a31613fad583,內灣老街,新竹縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_5684b75d5bb54aab,stat_428e680034a5c8f5,stat_5684b75d5bb54aab,天空之橋,南投縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2014,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_56d6550532173c7d,stat_451087209b40ffee,stat_56d6550532173c7d,鹽寮福隆遊憩區,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_57a4f915cf1330a1,stat_f4b4cf52c5f45d4c,stat_57a4f915cf1330a1,大甲鎮瀾宮,臺中市,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_583273e4990258be,stat_9e4b356ad68dcc7e,stat_583273e4990258be,十分旅遊服務中心,新北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_58948f2e2045b1cd,stat_7b4a4766ae4c3ed1,stat_58948f2e2045b1cd,草嶺,雲林縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_58cb9597a94096c8,stat_ccf0df2e0d62a318,stat_58cb9597a94096c8,台東森林公園,臺東縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_58f0294ef377c346,stat_d7a2a3bc7557a35b,stat_58f0294ef377c346,冷水坑,臺北市,國家公園,陽明山國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2018,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_6f51bbc38d925092,stat_d7a2a3bc7557a35b,stat_6f51bbc38d925092,冷水坑,臺北市,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_58fd9824eb7d1381,stat_d80c4e06937b4f67,stat_58fd9824eb7d1381,小油坑遊憩區,臺北市,國家公園,陽明山國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_8dc1b0c14536e9d8,stat_d80c4e06937b4f67,stat_8dc1b0c14536e9d8,小油坑遊憩區,臺北市,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_5921f6a741b44b29,stat_866b9a7bf7524ab3,stat_5921f6a741b44b29,大路觀主題樂園,屏東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_597ab8bb3e5f3674,stat_52752118e9471fa9,stat_597ab8bb3e5f3674,山川琉璃吊橋,屏東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_5a8e31dbc7d05d9f,stat_dc7a1ea2af4072c8,stat_5a8e31dbc7d05d9f,國立臺灣歷史博物館,臺南市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2014,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_5aa6baad517ae44a,stat_952503b881a90dc6,stat_5aa6baad517ae44a,武陵農場,臺中市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,
+stat_5b18d560d46cd2cf,stat_12d8a2a6e5aeca57,stat_5b18d560d46cd2cf,花蓮觀光糖廠,花蓮縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_5b4df02b1a333ed7,stat_02d021ce10bade80,stat_5b4df02b1a333ed7,茂林遊憩區,高雄市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_5b742385cd91df07,stat_46a1858ac1ab1f89,stat_5b742385cd91df07,台電南部展示館,屏東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_5b9f0517997d9aa5,stat_381f52842a0ce3a2,stat_5b9f0517997d9aa5,台北當代藝術館,臺北市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_5ca0c8a69cc37895,stat_624fe37c73b029f6,stat_5ca0c8a69cc37895,西嶼西臺遊客中心及周邊地區,澎湖縣,國家公園,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_5d6719dc0ad7394d,stat_08f37b669a8e7855,stat_5d6719dc0ad7394d,綠世界生態農場,新竹縣,休閒農業區及休閒農場,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_5dae3ee3385d4975,stat_4cc47b68ee32c4b0,stat_5dae3ee3385d4975,麻豆代天府,臺南市,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_5db581a0c0c13d05,stat_61864d72d0058160,stat_5db581a0c0c13d05,水往上流遊憩區,臺東縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2016,2021,
+stat_5dd1d32be3686ff6,stat_514d99ddccfd4c48,stat_5dd1d32be3686ff6,惠蓀林場,南投縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_5deefcae80aaa605,stat_fab31f3095bd81f2,stat_5deefcae80aaa605,台東森林公園,臺東縣,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2018,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_5e30c5001aa6d402,stat_2c19b359384e9c4c,stat_5e30c5001aa6d402,梅山遊客中心,高雄市,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_5e71f026dd9a1346,stat_a0a6f6434cf791ee,stat_5e71f026dd9a1346,碧潭風景特定區,新北市,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_5f9b3d9056084c01,stat_63895bcab3499c10,stat_5f9b3d9056084c01,清水祖師廟,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_5feb9c549e1ffd19,stat_841f0d638da1c8c8,stat_5feb9c549e1ffd19,小門遊憩區,澎湖縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_5ff91dc91b55378a,stat_6e4e696ca2635441,stat_5ff91dc91b55378a,台北植物園,臺北市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_6039d431037dc55c,stat_c2b463ec6d5e4f04,stat_6039d431037dc55c,雙流國家森林遊樂區,屏東縣,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_604249a68a75d94b,stat_119ae64b68c2167a,stat_604249a68a75d94b,花蓮遊客中心園區,花蓮縣,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_60627a224c102e5a,stat_590a680e7be4a314,stat_60627a224c102e5a,西湖渡假村,苗栗縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_610bdb3f3385e7a5,stat_da0fc4114725a407,stat_610bdb3f3385e7a5,小油坑遊憩區,臺北市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_613e31bd6f4540af,stat_6399e37e955ca3bd,stat_613e31bd6f4540af,老街溪沿岸步道,桃園市,國家級風景特定區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_619216120118ef46,stat_ccf2f906fee4a13a,stat_619216120118ef46,大板根森林溫泉酒店,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_61a3701756b7bbcc,stat_4381ccb29d5f8223,stat_61a3701756b7bbcc,明池森林遊樂區,宜蘭縣,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_c66864b9a123f67d,stat_54c2829008862867,stat_c66864b9a123f67d,小琉球遊憩區,屏東縣,國家級風景特定區,大鵬灣國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_61c7a76810458109,stat_54c2829008862867,stat_61c7a76810458109,小琉球遊憩區,屏東縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2024,
+stat_6267dd3076909be8,stat_57a6c8b873534c96,stat_6267dd3076909be8,馬沙溝濱海遊憩區,臺南市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_627f92dcfe046f67,stat_3e51c13730c5288f,stat_627f92dcfe046f67,臺灣客家文化館,苗栗縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_62afe44abde801fc,stat_fe5f329007c223a4,stat_62afe44abde801fc,木雕博物館,苗栗縣,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_fecc040590e1245f,stat_837e299ea3b3f59e,stat_fecc040590e1245f,禮納里部落,屏東縣,國家級風景特定區,茂林國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2018,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_630b75dacf090000,stat_837e299ea3b3f59e,stat_630b75dacf090000,禮納里部落,屏東縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_6319247a705e314e,stat_6cffe7c1252740da,stat_6319247a705e314e,小烏來風景特定區,桃園市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_6319aafbada33776,stat_ad264a563fcdbc99,stat_6319aafbada33776,蘭嶼,臺東縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_6376615836e562b4,stat_522717e957841ef1,stat_6376615836e562b4,望安資訊站,澎湖縣,國家級風景特定區,澎湖國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2020,2021,
+stat_648ea1c7b7a8a3a9,stat_871edac860390cce,stat_648ea1c7b7a8a3a9,香格里拉樂園,苗栗縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_64921e298c646cc9,stat_6f7e71cc6a05553d,stat_64921e298c646cc9,北投溫泉博物館,臺北市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_653462ae72d92202,stat_05c02f3f7899eefe,stat_653462ae72d92202,8大森林博覽樂園,屏東縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_ed9a40cc668a8fd3,stat_d1efa4e473127577,stat_ed9a40cc668a8fd3,茂林遊憩區,高雄市,國家級風景特定區,茂林國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_656dfe1e33c19618,stat_d1efa4e473127577,stat_656dfe1e33c19618,茂林遊憩區,高雄市,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_66a3823d006aaa5a,stat_bb47fa4954931a41,stat_66a3823d006aaa5a,瑞芳風景特定區,新北市,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_67020ed8d17b1ca5,stat_8013d5f7cc18154f,stat_67020ed8d17b1ca5,國立國父紀念館,臺北市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2020,2024,
+stat_6704bff1c77c193e,stat_db7bbcdb6cae1742,stat_6704bff1c77c193e,六堆客家文化園區,屏東縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_67354549a813d996,stat_936d986c4974a941,stat_67354549a813d996,冬山河生態綠舟,宜蘭縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_6780039671e116fa,stat_b4d2ca0beadf99b7,stat_6780039671e116fa,砂島貝殼砂展示館,屏東縣,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_67be6ddf9d44ea29,stat_1953b931acd6b086,stat_67be6ddf9d44ea29,高美濕地,臺中市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_688631afd8e43d88,stat_448d93714070642f,stat_688631afd8e43d88,國立臺灣藝術教育館,臺北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_688a64f1d43a2bef,stat_577debd548ce73f9,stat_688a64f1d43a2bef,臺北市立天文科學教育館,臺北市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2020,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_69fc57e88c7b64eb,stat_a352be4f970217bb,stat_69fc57e88c7b64eb,望安遊憩區,澎湖縣,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_6a56af029aca3e2f,stat_cb8208597566dcdf,stat_6a56af029aca3e2f,國立歷史博物館,臺北市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_6a8d121d7a586842,stat_4666350621093ae1,stat_6a8d121d7a586842,美麗華摩天輪,臺北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_6b96881d17a74603,stat_691a1588ec7d0607,stat_6b96881d17a74603,萬瑞森林樂園,新竹縣,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_6c38b7434b6349f7,stat_27adc20b024d4834,stat_6c38b7434b6349f7,拉拉山風景區,桃園市,直轄市及縣(市)級風景特定區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2023,2024,
+stat_6c5bca2f0a489e19,stat_c2b5d01ac0e4d181,stat_6c5bca2f0a489e19,觸口遊客中心,嘉義縣,國家級風景特定區,阿里山國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2017,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_93cc631e69053711,stat_c2b5d01ac0e4d181,stat_93cc631e69053711,觸口遊客中心,嘉義縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_6c7e3871b93f9242,stat_9418d5769dc721a2,stat_6c7e3871b93f9242,台北當代藝術館,臺北市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_6df4f8bec67d5982,stat_7f7b85eb2d73118a,stat_6df4f8bec67d5982,鹿港天后宮,彰化縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_6e0e1a06dc9dee2a,stat_a4e584ffad63e46d,stat_6e0e1a06dc9dee2a,獅頭山風景區(苗栗地區),苗栗縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_6e18d22e2e09ce23,stat_abdec9b032743952,stat_6e18d22e2e09ce23,水湳洞遊客中心,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2014,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_6e389b3930243af6,stat_d62909ff132f5ca7,stat_6e389b3930243af6,鐵砧山,臺中市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_6ecad440a5cfe135,stat_f7e68d9356ebd663,stat_6ecad440a5cfe135,蔣經國先生紀念館,金門縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_6ef2ee2abd1802a8,stat_5798f1d408660b1a,stat_6ef2ee2abd1802a8,蘭陽博物園區,宜蘭縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_6f4bc599563cda73,stat_b51f4901d5af8e65,stat_6f4bc599563cda73,布農部落,臺東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_6f84e59b675c6fa9,stat_a70dae9c0c468f97,stat_6f84e59b675c6fa9,南元休閒農場,臺南市,休閒農業區及休閒農場,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_6f9d9e0f3f2d0013,stat_4665af77c6f19241,stat_6f9d9e0f3f2d0013,國立傳統藝術中心,宜蘭縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_6fa3d914253cb72e,stat_e89cc1828e78efc3,stat_6fa3d914253cb72e,清境農場,南投縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_6fa61318ef410228,stat_09b1c8f6735bad83,stat_6fa61318ef410228,知本國家森林遊樂區,臺東縣,森林遊樂區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_6fe848558fdbb683,stat_2efab06d19a0d8bd,stat_6fe848558fdbb683,士林官邸公園,臺北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_700aada711cc10d5,stat_ddd71c71a7d01362,stat_700aada711cc10d5,武陵遊客中心,臺中市,國家公園,雪霸國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_f5f4472cf435d61a,stat_ddd71c71a7d01362,stat_f5f4472cf435d61a,武陵遊客中心,臺中市,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,
+stat_7095c7f569294d74,stat_ad8b629430317ef9,stat_7095c7f569294d74,客家大院,苗栗縣,觀光地區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a32938d0174bed5d,stat_8bef37334eeeafde,stat_a32938d0174bed5d,馬沙溝濱海遊憩區,臺南市,國家級風景特定區,雲嘉南濱海國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2014,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_71bc186d2ca75490,stat_8bef37334eeeafde,stat_71bc186d2ca75490,馬沙溝濱海遊憩區,臺南市,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_71c4b9fc4421cef6,stat_ceac479c08fae7ae,stat_71c4b9fc4421cef6,花蓮遊客中心園區,花蓮縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_8dfe47cdee70c9d2,stat_b9933bc6e04480f3,stat_8dfe47cdee70c9d2,金山遊憩區,新北市,國家級風景特定區,北海岸及觀音山國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_734ac7aaec0bd0ef,stat_b9933bc6e04480f3,stat_734ac7aaec0bd0ef,金山遊憩區,新北市,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_7366e91975d2896f,stat_00395871b073e05f,stat_7366e91975d2896f,打狗英國領事館文化園區,高雄市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2022,
+stat_73c9f1c162b0d132,stat_0308fecc6583e36d,stat_73c9f1c162b0d132,三義水美木雕街,苗栗縣,觀光地區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_7403938c1d85c75d,stat_a992be0e9f465a6c,stat_7403938c1d85c75d,北門遊客中心,臺南市,國家級風景特定區,雲嘉南濱海國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_74560eaafd6e92b0,stat_609846ece695220a,stat_74560eaafd6e92b0,鹿野高臺及周邊地區,臺東縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_756def0e7bb99837,stat_eaac95aca0526a98,stat_756def0e7bb99837,東埔溫泉,南投縣,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_767bb6a2ad50f4fd,stat_abee4601e777adfa,stat_767bb6a2ad50f4fd,八仙洞遊憩區,臺東縣,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_768cab168f5c1182,stat_1f7b4904c618b82a,stat_768cab168f5c1182,鼻頭角步道,新北市,國家級風景特定區,東北角暨宜蘭海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_bf95bd6dbecdd1f4,stat_c4eb9e507cad832f,stat_bf95bd6dbecdd1f4,九宮(四維)坑道,金門縣,國家公園,金門國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_76a76f355fe724e7,stat_c4eb9e507cad832f,stat_76a76f355fe724e7,九宮(四維)坑道,金門縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2024,
+stat_76aa7fee28339d13,stat_92abbfa1ce1f7221,stat_76aa7fee28339d13,三峽歷史文物館,新北市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_76f2c7c16f44bc60,stat_511a5fa9c2748748,stat_76f2c7c16f44bc60,翡翠灣濱海遊憩區,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_770e8f638d2ac46c,stat_7c8bc7c60b173a4f,stat_770e8f638d2ac46c,北關海潮公園,宜蘭縣,國家級風景特定區,東北角暨宜蘭海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_777a9bc8bb9f9689,stat_ea487acc31140c74,stat_777a9bc8bb9f9689,山川琉璃吊橋,屏東縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_cd8a75246b947739,stat_8e5bdf0b6216f1ee,stat_cd8a75246b947739,南海遊客中心,澎湖縣,國家級風景特定區,澎湖國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_77c20a770839b32a,stat_8e5bdf0b6216f1ee,stat_77c20a770839b32a,南海遊客中心,澎湖縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,
+stat_781f8f48a3e0145c,stat_a521c3bd347a6fc2,stat_781f8f48a3e0145c,池南國家森林遊樂區,花蓮縣,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_78a6f8cfacee0e61,stat_e0079c5a450eeefc,stat_78a6f8cfacee0e61,國民革命忠烈祠,臺北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_7956fd7b571779db,stat_142f15949efc7c11,stat_7956fd7b571779db,壽山動物園,高雄市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_7996e24755b18c1f,stat_0a1cbec065fd04f0,stat_7996e24755b18c1f,大溪月眉休閒農業區,桃園市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_c733706cc5dd7600,stat_3b0468970bf1ac2a,stat_c733706cc5dd7600,南灣遊憩區,屏東縣,國家公園,墾丁國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_79a6865720c68210,stat_3b0468970bf1ac2a,stat_79a6865720c68210,南灣遊憩區,屏東縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_79b583b60062967f,stat_3b9117d46c261394,stat_79b583b60062967f,小門地質展示中心,澎湖縣,國家級風景特定區,澎湖國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_79c5e41663dc5774,stat_7daf48ed8ffcae50,stat_79c5e41663dc5774,臺南市美術館,臺南市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_79e70354250d9f32,stat_36358d6a3eb043cf,stat_79e70354250d9f32,清境高空觀景步道,南投縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2018,2024,
+stat_7a005ba598559c3f,stat_78e1f37339d6b220,stat_7a005ba598559c3f,大溪老城區,桃園市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2018,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_7a2e68049d5e5435,stat_8563b9d719257273,stat_7a2e68049d5e5435,梧棲觀光漁港,臺中市,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_7a46ffe2412a1324,stat_1028b73278e1bfa4,stat_7a46ffe2412a1324,冬山河親水公園,宜蘭縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_7a7a0c6c57afe78c,stat_3ba10b22ee8b1ff6,stat_7a7a0c6c57afe78c,嘉義城隍廟,嘉義市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_7a9c70ea76e54881,stat_3c66490584e1b2c7,stat_7a9c70ea76e54881,臺塑六輕阿媽公園,雲林縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2022,
+stat_7aeba49f0835da49,stat_f9164b2d88866c72,stat_7aeba49f0835da49,國立臺灣美術館,臺中市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_7b488275fcf06a36,stat_900dbbae689c5456,stat_7b488275fcf06a36,初鹿牧場,臺東縣,休閒農業區及休閒農場,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,
+stat_7b73fd9bf9800e2b,stat_a429208d11472ea4,stat_7b73fd9bf9800e2b,草悟道,臺中市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_7b805f4368e72380,stat_ff3e86ac0700a87f,stat_7b805f4368e72380,陽明公園,臺北市,國家公園,陽明山國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_e298ad9c1d4c8f87,stat_ff3e86ac0700a87f,stat_e298ad9c1d4c8f87,陽明公園,臺北市,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_7bb47d060ca87ca7,stat_003b16644d5ed6df,stat_7bb47d060ca87ca7,中山林遊客中心,金門縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_7bb5d2e01f177965,stat_2a26975c79e4dd7c,stat_7bb5d2e01f177965,望安遊憩區,澎湖縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_7c071ceb0cfb9ecd,stat_8a1041d2137672e3,stat_7c071ceb0cfb9ecd,奧萬大國家森林遊樂區,南投縣,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_7d934580eb07f09e,stat_0a1fd6fe6a273e4f,stat_7d934580eb07f09e,凱達格蘭文化館,臺北市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_7dd9ea19c14fff9e,stat_6873470fc58718c0,stat_7dd9ea19c14fff9e,國立科學工藝博物館,高雄市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_7e537f57a681b5e9,stat_5b1c151dbdbfd29b,stat_7e537f57a681b5e9,綠島,臺東縣,國家級風景特定區,東部海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_7e6b065a8e467290,stat_ff78798b94aa3b25,stat_7e6b065a8e467290,天空之橋,南投縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_7ea46b9b2c6d4d8b,stat_b6321533f4b701ca,stat_7ea46b9b2c6d4d8b,美濃客家文物館,高雄市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2022,
+stat_7f7ec9aa3bfc4b31,stat_63c760c52a818fe5,stat_7f7ec9aa3bfc4b31,松山文創園區,臺北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2018,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_7fac11444e33d187,stat_dbadcbfa93128762,stat_7fac11444e33d187,大農大富平地森林園區,花蓮縣,國家公園,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_802370ebffe837c2,stat_6466aa8c3b88e4ca,stat_802370ebffe837c2,臺南孔子廟,臺南市,觀光地區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,
+stat_8042acf154c48637,stat_d2769da13ab1f82b,stat_8042acf154c48637,勝利星村創意生活園區,屏東縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2022,2024,
+stat_80af0dfad2a6bd3c,stat_8da502d769204df3,stat_80af0dfad2a6bd3c,后里馬場,臺中市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,
+stat_80c4b60ae9b7984d,stat_a486fee2fb411a90,stat_80c4b60ae9b7984d,龍潭湖,宜蘭縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ff22ba47ce3acbe3,stat_947431277b4d5415,stat_ff22ba47ce3acbe3,臺八線沿線景觀區,花蓮縣,國家公園,太魯閣國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_80e2ec9b6b3dcba5,stat_947431277b4d5415,stat_80e2ec9b6b3dcba5,臺八線沿線景觀區,花蓮縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_810e4525da331055,stat_7e02546038127f77,stat_810e4525da331055,林後四林平地森林園區,屏東縣,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_820c2265a6585d8a,stat_2ebec560761aa933,stat_820c2265a6585d8a,觸口遊客中心,嘉義縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_82350a655a75b6f1,stat_ea5090cff2145c54,stat_82350a655a75b6f1,南灣遊憩區,屏東縣,觀光地區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_82dc12f8518ca093,stat_ef9dc88aebc7770f,stat_82dc12f8518ca093,尚順育樂世界,苗栗縣,觀光地區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_82f453e904cc7fd1,stat_0f6b391b8febb574,stat_82f453e904cc7fd1,永安漁港,桃園市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2018,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_8300f4813f434766,stat_93390861ef806db4,stat_8300f4813f434766,圓山別莊,臺北市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2020,2022,
+stat_83d66fcbccef95d6,stat_46323854b5ba90ee,stat_83d66fcbccef95d6,池上大坡池及周邊地區,臺東縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_8492c6cc42f399a5,stat_d496634a15c61d19,stat_8492c6cc42f399a5,得月樓,金門縣,國家公園,金門國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2018,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_e03524537185e854,stat_d496634a15c61d19,stat_e03524537185e854,得月樓,金門縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_84ddc74ea55b3b41,stat_574eb275b7c3ec9b,stat_84ddc74ea55b3b41,臺北孔廟,臺北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_851e0aa654e97fcd,stat_1c191e4c60f7d0b1,stat_851e0aa654e97fcd,萬瑞森林樂園,新竹縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_853efb07b788714c,stat_06088fb7ac431bbb,stat_853efb07b788714c,池上大坡池及周邊地區,臺東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_86830f8c36c109ea,stat_8afacb8b38d92eaf,stat_86830f8c36c109ea,客家大院,苗栗縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_868814091932be6d,stat_ba18a8df339ebc23,stat_868814091932be6d,國立故宮博物院南部院區,嘉義縣,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2021,2024,
+stat_86ade1e81e3817ad,stat_847ae664ff427d8e,stat_86ade1e81e3817ad,蓮池潭,高雄市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_86c3e36cb0ea9289,stat_bb7291397f324331,stat_86c3e36cb0ea9289,鯉魚潭風景區,花蓮縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_86e113718c574c18,stat_8f74be5e61c29294,stat_86e113718c574c18,舊山線鐵道自行車,苗栗縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_87765d6d6ddd4b0f,stat_5e9d1bb2b4fd9705,stat_87765d6d6ddd4b0f,文化路夜市,嘉義市,國家級風景特定區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_88d55c7c8ed1237c,stat_4749e470c9e50f18,stat_88d55c7c8ed1237c,新北市客家文化園區,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_8906986ff56049f4,stat_6898f1cb1fc81cf2,stat_8906986ff56049f4,小墾丁渡假村,屏東縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_899a94dc51a2ced7,stat_b445135fcbc81293,stat_899a94dc51a2ced7,都蘭遊憩區及周邊地區,臺東縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_89b9475f6eeabc75,stat_f4177f1053c9b913,stat_89b9475f6eeabc75,紙教堂見學園區,南投縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2014,2021,
+stat_8a4d084b0eeb9f8d,stat_e7f8beea26bdc23b,stat_8a4d084b0eeb9f8d,舊山線鐵道自行車,苗栗縣,觀光地區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2021,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_8aaf121f9a0ddb56,stat_a2d6f30afdf0e27b,stat_8aaf121f9a0ddb56,達娜伊谷,嘉義縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_8bd95e6fb583ac09,stat_eb439f1122cf3daa,stat_8bd95e6fb583ac09,西嶼西臺,澎湖縣,國家級風景特定區,澎湖國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_e58626d955183023,stat_eb439f1122cf3daa,stat_e58626d955183023,西嶼西臺,澎湖縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,
+stat_8c307a33781524fe,stat_5e3af2440a108aae,stat_8c307a33781524fe,東豐自行車綠廊及后豐鐵馬道,臺中市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,
+stat_8c8a9e012bb563e2,stat_bd597ca26457a13c,stat_8c8a9e012bb563e2,埔心牧場,桃園市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_8ca5f1cead9d74ff,stat_b2d07331c743f0f3,stat_8ca5f1cead9d74ff,合歡山國家森林遊樂區,南投縣,森林遊樂區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_8d56022164c62ef4,stat_45298da7499b06a3,stat_8d56022164c62ef4,彰化孔子廟,彰化縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_8d97c4a5c26220c9,stat_7ee68335bab94050,stat_8d97c4a5c26220c9,梨山風景區(梨山地區),臺中市,宗教場所,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_8da7d631159c15cd,stat_b8a53561e3173bab,stat_8da7d631159c15cd,池上大坡池地區,臺東縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2020,2021,
+stat_8de93aedc8c6d960,stat_86ec7b5f98c10be1,stat_8de93aedc8c6d960,八卦山風景區(南投地區),南投縣,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_daeb023341d04afb,stat_4ff6487083db65df,stat_daeb023341d04afb,南竿遊客中心,連江縣,國家級風景特定區,馬祖國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_8e8b5feadf34e9bf,stat_4ff6487083db65df,stat_8e8b5feadf34e9bf,南竿遊客中心,連江縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_8fcc2f34c6b69b82,stat_1f9350356134e82d,stat_8fcc2f34c6b69b82,臺北市立動物園,臺北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2020,2023,
+stat_9028e46695e0a652,stat_09d4edbfdb987d25,stat_9028e46695e0a652,朱銘美術館,新北市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_90a4a520f3841b3a,stat_3c874e8102e5db02,stat_90a4a520f3841b3a,臺南市美術館,臺南市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_90e275e500546133,stat_18ac6ba4a6d4a535,stat_90e275e500546133,太魯閣國家公園遊客中心,花蓮縣,國家公園,太魯閣國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b9ceb76e86fd5227,stat_18ac6ba4a6d4a535,stat_b9ceb76e86fd5227,太魯閣國家公園遊客中心,花蓮縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_90ed0671f9a039e4,stat_e439c6f9c5d3c35b,stat_90ed0671f9a039e4,黃金海岸,臺南市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2023,2024,
+stat_919abd4db893b365,stat_10498deec25c84e3,stat_919abd4db893b365,都蘭遊憩區及周邊地區,臺東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_919e18eb26877f9b,stat_094edb6ad97fbea8,stat_919e18eb26877f9b,永安漁港,桃園市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_91c3dd97035d59ae,stat_bc701a5e03252a68,stat_91c3dd97035d59ae,十分遊客中心,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_e12bfb2babd6020f,stat_98cfbdffdfc93fb6,stat_e12bfb2babd6020f,達娜伊谷,嘉義縣,國家級風景特定區,阿里山國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_925a7381dd8089a8,stat_98cfbdffdfc93fb6,stat_925a7381dd8089a8,達娜伊谷,嘉義縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_9332017075f97890,stat_e108250447359501,stat_9332017075f97890,南方澳遊客中心,宜蘭縣,國家級風景特定區,東北角暨宜蘭海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_93356966e15f04be,stat_0f51c224b9b3faa5,stat_93356966e15f04be,鹿野高臺,臺東縣,國家級風景特定區,花東縱谷國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_93b36cb9e3bb9b0b,stat_b0d5510e4cd2c821,stat_93b36cb9e3bb9b0b,一中商圈,臺中市,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_93dd4da9c727994c,stat_459619012304ee3d,stat_93dd4da9c727994c,臺灣客家文化館,苗栗縣,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2018,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_94058bafc45c0b38,stat_19ad308f13d21c1b,stat_94058bafc45c0b38,北埔遊憩區,新竹縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_949a4f969c708744,stat_9a16c0f516233d76,stat_949a4f969c708744,旗津風景區,高雄市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_95446dd71c025e9b,stat_87dfc744620e8d89,stat_95446dd71c025e9b,旗後山園區,高雄市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_9586370b1bc3b5d8,stat_d4cf4eb004b85b92,stat_9586370b1bc3b5d8,桃園市客家文化館,桃園市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2018,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_959d5108cb24feb3,stat_992d25beb3268df5,stat_959d5108cb24feb3,合歡山國家森林遊樂區,花蓮縣,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ab57f7a7fac41888,stat_aff0ee89512ef4ec,stat_ab57f7a7fac41888,東引遊客中心,連江縣,國家級風景特定區,馬祖國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_959df557946c706a,stat_aff0ee89512ef4ec,stat_959df557946c706a,東引遊客中心,連江縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_95f35344e32e2007,stat_ff2a15d689c460a0,stat_95f35344e32e2007,七星潭風景區,花蓮縣,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_960cb30133803d0f,stat_e036794ef7cdd5b1,stat_960cb30133803d0f,玉山管理處遊客服務中心,南投縣,國家公園,玉山國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b1df6ef7430a52ab,stat_e036794ef7cdd5b1,stat_b1df6ef7430a52ab,玉山管理處遊客服務中心,南投縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_96f92f9301989361,stat_93d4290f7ac0c079,stat_96f92f9301989361,臺中驛鐵道文化園區及綠空廊道,臺中市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_97595c94cc412d72,stat_138afb8897a477e3,stat_97595c94cc412d72,原生應用植物園,臺東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_979aa9bf1c66c6eb,stat_9ec1b762eeea561c,stat_979aa9bf1c66c6eb,高雄市文化中心,高雄市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_982646dc9f503c98,stat_bc7a5df041029577,stat_982646dc9f503c98,小叮噹科學主題樂園,新竹縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_993b10b2382c6515,stat_e3c407c3fe4ae21e,stat_993b10b2382c6515,賽嘉遊憩區,屏東縣,國家級風景特定區,茂林國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2017,
+stat_f8bf9dd58c3abff8,stat_83dbdb2078a4a581,stat_f8bf9dd58c3abff8,寶來、不老溫泉區,高雄市,國家級風景特定區,茂林國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_99c6d87969be91b0,stat_83dbdb2078a4a581,stat_99c6d87969be91b0,寶來、不老溫泉區,高雄市,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_99f89389128d4673,stat_190d81a539fe1f7d,stat_99f89389128d4673,塔塔加遊憩區,南投縣,國家公園,玉山國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_e3ba5b5469bce4ef,stat_190d81a539fe1f7d,stat_e3ba5b5469bce4ef,塔塔加遊憩區,南投縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_9aac841caa073d1e,stat_2a0f3db616d16791,stat_9aac841caa073d1e,大板根森林溫泉渡假村,新北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_9b37a75a91b8c279,stat_8f578b0f908db3fe,stat_9b37a75a91b8c279,八里左岸公園,新北市,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_9be6a88132a2f25d,stat_52f034c78a24cf62,stat_9be6a88132a2f25d,杉林溪森林生態渡假園區,南投縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_9cdb43c9f7396294,stat_96d02b9decb44efa,stat_9cdb43c9f7396294,檜意森活村,嘉義市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_9d4f6c7e41e42c67,stat_ccd1a78b3b9a7b49,stat_9d4f6c7e41e42c67,桃米紙教堂,南投縣,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_9e3652003bb5981b,stat_96b8532e44c5be17,stat_9e3652003bb5981b,國立臺灣藝術教育館,臺北市,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_9e3778ab41fcbad4,stat_a1bf1c23c34efb91,stat_9e3778ab41fcbad4,南園人文客棧,新竹縣,休閒農業區及休閒農場,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_9e4bec9483ea919a,stat_7248de30ea9ec66c,stat_9e4bec9483ea919a,墾丁國家森林遊樂區,屏東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_9e68c9fa7c305423,stat_baf18cef155680c8,stat_9e68c9fa7c305423,太平山國家森林遊樂區,宜蘭縣,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_9e913fa59d40cf19,stat_3e048961ce0f78df,stat_9e913fa59d40cf19,淡水紅毛城,新北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_9e93f30f8aa67d00,stat_8daa91f66c57c260,stat_9e93f30f8aa67d00,台北市立兒童新樂園,臺北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2016,2024,
+stat_9efa25f828de7b38,stat_4eeceb63f04d585d,stat_9efa25f828de7b38,新北市坪林茶業博物館,新北市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_9f1b96f8f97fd037,stat_3ac508f87e645fe7,stat_9f1b96f8f97fd037,8大森林樂園,屏東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2020,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_9fa832b8884f3671,stat_c295f6fccec544e4,stat_9fa832b8884f3671,涼山遊憩區,屏東縣,國家級風景特定區,茂林國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_f74e751ebf336c40,stat_c295f6fccec544e4,stat_f74e751ebf336c40,涼山遊憩區,屏東縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_9ff8a36871ab2bf5,stat_df68220713b375a3,stat_9ff8a36871ab2bf5,桃園市客家文化館,桃園市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a024de208bcfdffa,stat_aa3cc303eaa6e656,stat_a024de208bcfdffa,鹿港老街及周邊地區,彰化縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_a0da517ab192f005,stat_058183c74909680b,stat_a0da517ab192f005,大天后宮,臺南市,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a0dc141afa0b48f5,stat_40efec57cd7acf78,stat_a0dc141afa0b48f5,民俗文化村,金門縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_fb1a5c0d60e6444b,stat_ccfd936472193902,stat_fb1a5c0d60e6444b,墾丁國家公園管理處遊客中心,屏東縣,國家公園,墾丁國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a18c6fb3150bb826,stat_ccfd936472193902,stat_a18c6fb3150bb826,墾丁國家公園管理處遊客中心,屏東縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a21dff570b039fa2,stat_b6ddf129983d9f24,stat_a21dff570b039fa2,寶來、不老溫泉區,高雄市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a232f68ae917fbe6,stat_c725f6dba7df5fd2,stat_a232f68ae917fbe6,半屏山園區,高雄市,國家級風景特定區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_a27865ad203f1983,stat_18c436cfd1a5d79f,stat_a27865ad203f1983,梨山風景區(谷關地區),臺中市,宗教場所,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_a2a8f3f47c8617a3,stat_4c740f508c920d0a,stat_a2a8f3f47c8617a3,屏菸1936文化基地,屏東縣,觀光地區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_a2af1cd169fc7021,stat_5921c3656f687ee0,stat_a2af1cd169fc7021,梅山遊客中心,高雄市,國家公園,玉山國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_e1c6c709b25bbda3,stat_5921c3656f687ee0,stat_e1c6c709b25bbda3,梅山遊客中心,高雄市,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a2fb4628dd80999e,stat_cbb8168fd3d32954,stat_a2fb4628dd80999e,大溪老城區,桃園市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a3646fc0a0ad7e11,stat_f76be153db487ee6,stat_a3646fc0a0ad7e11,臺中國家歌劇院,臺中市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2018,2024,
+stat_a36d67166744cb48,stat_0955a6bf0ca5af6a,stat_a36d67166744cb48,卑南遺址公園,臺東縣,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a3b35375bac11077,stat_dddb1b4a55ebf128,stat_a3b35375bac11077,南安遊客中心,花蓮縣,觀光地區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a41996c2eefe1c36,stat_9699f028db196972,stat_a41996c2eefe1c36,布農部落,臺東縣,國家級風景特定區,花東縱谷國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2020,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ef6759f7bbc684e1,stat_9699f028db196972,stat_ef6759f7bbc684e1,布農部落,臺東縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a43e86cb2df42f53,stat_033c57f10b917fa7,stat_a43e86cb2df42f53,赤嵌園區,臺南市,直轄市及縣(市)級風景特定區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_a4b60527750975f2,stat_ff9d7375900643f1,stat_a4b60527750975f2,梅山太平雲梯,嘉義縣,國家級風景特定區,阿里山國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2020,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_fddec68a0425499b,stat_ff9d7375900643f1,stat_fddec68a0425499b,梅山太平雲梯,嘉義縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a55b1bac334a4e6b,stat_8094789480514bbd,stat_a55b1bac334a4e6b,鹿港龍山寺,彰化縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a55e06c1a9be49ea,stat_95c2b5965ebfed63,stat_a55e06c1a9be49ea,桃米社區,南投縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,
+stat_a57e2607adb56807,stat_b35cd1e21cda9c67,stat_a57e2607adb56807,壽山園區,高雄市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_a59fda1f37ea0d69,stat_cd921edc0865fa9f,stat_a59fda1f37ea0d69,市立美術館,臺北市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_a65a2c663e11171d,stat_4002a2014f2b9fec,stat_a65a2c663e11171d,國立歷史博物館,臺北市,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a66d7990fdfabe62,stat_9ac24c47effdfe14,stat_a66d7990fdfabe62,潮好玩幸福村,屏東縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2023,2024,
+stat_a6809abb37b0e1a4,stat_427b69a7271f9bbe,stat_a6809abb37b0e1a4,扇形車庫,彰化縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2018,2021,
+stat_a6ab833c666c940d,stat_915e8a0a7435aa85,stat_a6ab833c666c940d,大天后宮,臺南市,觀光地區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a6bb5efc798451db,stat_9235e263e4346a3c,stat_a6bb5efc798451db,金山遊憩區,新北市,休閒農業區及休閒農場,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a6c88209f6b55f9f,stat_65a3b96823a57d5a,stat_a6c88209f6b55f9f,水湳洞遊客中心,新北市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a70aa4060a3afbb9,stat_531f715b0e225347,stat_a70aa4060a3afbb9,墾丁國家森林遊樂區,屏東縣,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a72767f3d60b9344,stat_07c95714980e3e4c,stat_a72767f3d60b9344,國立故宮博物院,臺北市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_a74e758ed557ab45,stat_b4ef8f1c11a085f1,stat_a74e758ed557ab45,豐濱鄉親不知子海上古道及周邊地區,花蓮縣,觀光地區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a782db6bcce7ef05,stat_9d4f8329ecd39b48,stat_a782db6bcce7ef05,扇形車庫及周邊地區,彰化縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a7f4aadd17a8729f,stat_7701449800a99ee8,stat_a7f4aadd17a8729f,大雪山國家森林遊樂區,臺中市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a830acc5496472ef,stat_ed38039d39560979,stat_a830acc5496472ef,看海美術館旅服中心,屏東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2023,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a8ecd1bbcf1f3064,stat_88167255d1f947e4,stat_a8ecd1bbcf1f3064,古坑綠色隧道,雲林縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a9443a76870c9514,stat_a1421aab304d9085,stat_a9443a76870c9514,綠蠵龜觀光保育中心,澎湖縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a97893dcc40567cc,stat_8fa8f92da6fa60c6,stat_a97893dcc40567cc,陽明書屋,臺北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a97c33a5dd4857a7,stat_5f88d89760466836,stat_a97c33a5dd4857a7,車埕,南投縣,國家級風景特定區,日月潭國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_c05a1d32593706d2,stat_5f88d89760466836,stat_c05a1d32593706d2,車埕,南投縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a988f80bf87291fc,stat_3ce79b05684fff80,stat_a988f80bf87291fc,奇美博物館,臺南市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2018,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a994754db1e2963a,stat_a73f090084b01646,stat_a994754db1e2963a,林後四林平地森林園區,屏東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a9b2539ba29bb3e2,stat_ffa9b38579f36c84,stat_a9b2539ba29bb3e2,新化老街,臺南市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2023,2024,
+stat_a9d1e13290efeec9,stat_3da4be716df32072,stat_a9d1e13290efeec9,柳營尖山埤渡假村,臺南市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_a9fa335ec16ddd33,stat_49d3f8c067412733,stat_a9fa335ec16ddd33,潭雅神綠園道,臺中市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2021,2024,
+stat_a9fb60b6253f2da1,stat_c5e18754cafb6350,stat_a9fb60b6253f2da1,和平島公園,基隆市,國家級風景特定區,北海岸及觀音山國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_e0168c5256c0d4f1,stat_c5e18754cafb6350,stat_e0168c5256c0d4f1,和平島公園,基隆市,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,
+stat_aac604cec4a80e30,stat_187152701a07aa13,stat_aac604cec4a80e30,車埕,南投縣,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_aad3dc3d3f43f721,stat_2475cb92ebd2c0f5,stat_aad3dc3d3f43f721,台南山上花園水道博物館,臺南市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ab14006610b54f10,stat_38cbad7436035cb8,stat_ab14006610b54f10,舊草嶺隧道,新北市,國家級風景特定區,東北角暨宜蘭海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_ab3c6fa77862de50,stat_8ea8159020ddb366,stat_ab3c6fa77862de50,大湖草莓文化館,苗栗縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_abbc37c36d538a87,stat_7fe6af68feb5288d,stat_abbc37c36d538a87,卑南初鹿地區,臺東縣,直轄市及縣(市)級風景特定區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_abf2f5481efd4232,stat_ffc9efdbfac8d210,stat_abf2f5481efd4232,綠蠵龜觀光保育中心,澎湖縣,國家級風景特定區,澎湖國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_dae11ecba62b6aba,stat_ffc9efdbfac8d210,stat_dae11ecba62b6aba,綠蠵龜觀光保育中心,澎湖縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ac1bbcdc113ec298,stat_b918f82caffb06c2,stat_ac1bbcdc113ec298,南鯤鯓代天府,臺南市,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ac31d2123a8eee8c,stat_69bb3078f0ac5244,stat_ac31d2123a8eee8c,臺灣鹽博物館,臺南市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_ad233dbc32624ead,stat_c9d375e34bebb73d,stat_ad233dbc32624ead,花蓮觀光糖廠,花蓮縣,國家級風景特定區,花東縱谷國家風景區,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2020,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ad5f07f25e2319b7,stat_f4217b71ac385180,stat_ad5f07f25e2319b7,木雕博物館,苗栗縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ad68323bef41ca9e,stat_3bb51dbfcf7caf85,stat_ad68323bef41ca9e,擎天崗,臺北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ad8e4a20f0e14510,stat_d68e16c5bcb101e5,stat_ad8e4a20f0e14510,湖井頭戰史館,金門縣,國家公園,金門國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b057a5f539b8d5e1,stat_d68e16c5bcb101e5,stat_b057a5f539b8d5e1,湖井頭戰史館,金門縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ae272ba17cbb90d3,stat_03a6c96c76eeb9e1,stat_ae272ba17cbb90d3,柳營尖山埤渡假村,臺南市,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_aebbf3b2a05069f4,stat_cb3d61a3e393abc5,stat_aebbf3b2a05069f4,和平島地質公園,基隆市,國家公園,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_aecc7ded86cc6cdc,stat_4513a7a416fcf2bf,stat_aecc7ded86cc6cdc,市立動物園,臺北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_af1861990c966966,stat_f101fdb5d27e6cce,stat_af1861990c966966,觀音蓮花園休閒農業區,桃園市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_af5e087d92c8b560,stat_d50f59dc145b434c,stat_af5e087d92c8b560,古坑綠色隧道,雲林縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2018,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_af68923c3b090848,stat_11fd19f029188f24,stat_af68923c3b090848,華山1914文化創意產業園區,臺北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2016,2024,
+stat_af7add429627d05a,stat_eaae83caa9febb84,stat_af7add429627d05a,澎湖生活博物館,澎湖縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2014,2024,
+stat_af99378ce7eef431,stat_2d72eac0d3e65858,stat_af99378ce7eef431,十分瀑布,新北市,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_afa6b1cf5bf7600f,stat_9e138a4a3de9a700,stat_afa6b1cf5bf7600f,卑南遺址公園,臺東縣,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_afefe56134b90f22,stat_6a4b52c845d6bdb6,stat_afefe56134b90f22,臺北探索館,臺北市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b0112703dac8ae2e,stat_dd2a3899f86f8e95,stat_b0112703dac8ae2e,龍鳳漁港,苗栗縣,觀光地區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b091b76ce5e6e72e,stat_2575e2eaf528692f,stat_b091b76ce5e6e72e,武陵農場(含雪霸武陵遊客中心),臺中市,森林遊樂區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_b101a804dd25a1fb,stat_1acd7d18c2238a0e,stat_b101a804dd25a1fb,龍山寺,臺北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2017,
+stat_b107d4e1697dd22e,stat_d01113d638319751,stat_b107d4e1697dd22e,林本源園邸(林家花園),新北市,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b1845434504a353b,stat_b8297cc4fcefd3a3,stat_b1845434504a353b,舞鶴台地,花蓮縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2023,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b1cad823c9b75d06,stat_fc71327b26283be5,stat_b1cad823c9b75d06,莒光樓,金門縣,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b253144db644971c,stat_073d844261c45bd3,stat_b253144db644971c,砂島貝殼砂展示館,屏東縣,國家公園,墾丁國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_c044060c85a91c11,stat_073d844261c45bd3,stat_c044060c85a91c11,砂島貝殼砂展示館,屏東縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b27c1c64dc456c5b,stat_32b288c80c36d2b1,stat_b27c1c64dc456c5b,竹圍漁港,桃園市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2016,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b2802c243bc20868,stat_95a4a6d829fb61d6,stat_b2802c243bc20868,三地門遊憩區,屏東縣,國家級風景特定區,茂林國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2018,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_e8a6658e293edc71,stat_95a4a6d829fb61d6,stat_e8a6658e293edc71,三地門遊憩區,屏東縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b2f741554409928a,stat_cad1cb085143c686,stat_b2f741554409928a,中臺禪寺,南投縣,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b37dcf750eeb150d,stat_7a37c8e94915388f,stat_b37dcf750eeb150d,碧潭風景特定區,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b3b02622c7dc7f63,stat_a108b12c079c3a6e,stat_b3b02622c7dc7f63,翟山坑道,金門縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b3b9c1f85ee1eecc,stat_0380dc3546c923c3,stat_b3b9c1f85ee1eecc,內灣風景區,新竹縣,直轄市及縣(市)級風景特定區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_b3f187f995019f5e,stat_41968783e55f0152,stat_b3f187f995019f5e,新北市立十三行博物館,新北市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b5721efba133713d,stat_6f9275341aceea0a,stat_b5721efba133713d,小門遊憩區,澎湖縣,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b594ae0d4566b98c,stat_123d05088a146ceb,stat_b594ae0d4566b98c,小叮噹科學主題樂園,新竹縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b61d2fb8ce4709cd,stat_62bd605481babd52,stat_b61d2fb8ce4709cd,蔣經國先生紀念館,金門縣,國家公園,金門國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ffcbb8071e75ed74,stat_62bd605481babd52,stat_ffcbb8071e75ed74,蔣經國先生紀念館,金門縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b683817c49135a66,stat_3d0751c0e75f460d,stat_b683817c49135a66,得月樓,金門縣,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b6ba579f85673a62,stat_9a405a409c70bb60,stat_b6ba579f85673a62,觀音山,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b6cdfbc9c88aaff0,stat_9e65fdf2f07388c7,stat_b6cdfbc9c88aaff0,坪林茶業博物館,新北市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_b6fde23c79e2e2b6,stat_c970eb9242e94c31,stat_b6fde23c79e2e2b6,烏來風景特定區,新北市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b705ab169c6fc74d,stat_a9ed3ae0569481ca,stat_b705ab169c6fc74d,陽明高雄海洋探索館,高雄市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_b8140786048549b6,stat_781132abe4d54eb5,stat_b8140786048549b6,台北101景觀台,臺北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_b938f929fab2bfe9,stat_13607eef5ecef0f4,stat_b938f929fab2bfe9,水產試驗所東部海洋生物研究中心(水族生態研究館),臺東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b93f60d810b287d0,stat_2ac93e74e3731bce,stat_b93f60d810b287d0,大溪月眉休閒農業區,桃園市,休閒農業區及休閒農場,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2023,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b96575ac07c84f99,stat_0e028707c1277c1b,stat_b96575ac07c84f99,新竹公園,新竹市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2023,2024,
+stat_b9bb2ecf65a2d1e9,stat_586f6bbb9cdc063d,stat_b9bb2ecf65a2d1e9,太平山國家森林遊樂區,宜蘭縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_b9f30c2dcca185b9,stat_2df369e275aa2a5a,stat_b9f30c2dcca185b9,旗山老街,高雄市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2023,2024,
+stat_ba9b9855549a764f,stat_eb0a05450f98df20,stat_ba9b9855549a764f,林本源園邸( 林家花園),新北市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ba9de55dcf08dff1,stat_eb30a487571813bb,stat_ba9de55dcf08dff1,石梯坪,花蓮縣,國家級風景特定區,東部海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_ba9f863ed1dff18f,stat_5bf31cd4fefde33e,stat_ba9f863ed1dff18f,國立自然科學博物館鳳凰谷鳥園生態園區,南投縣,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_bad79751c595c152,stat_073fef9262c180a0,stat_bad79751c595c152,國立臺灣歷史博物館,臺南市,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_baedd979aadfb08a,stat_c2a554bb0aa8a483,stat_baedd979aadfb08a,霧臺遊憩區,屏東縣,國家級風景特定區,茂林國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_bed1c9a85980cfc4,stat_c2a554bb0aa8a483,stat_bed1c9a85980cfc4,霧臺遊憩區,屏東縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_bb14590999e5d39a,stat_e97d0c726126de3c,stat_bb14590999e5d39a,義大世界,高雄市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2023,2024,
+stat_bb60b3924ecbb497,stat_a86edfc99b18044e,stat_bb60b3924ecbb497,劍湖山世界,雲林縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_bbf950243b811ff7,stat_57f0f1d7cb40dc6f,stat_bbf950243b811ff7,民俗文化村,金門縣,國家公園,金門國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_c19abb9724b7b669,stat_57f0f1d7cb40dc6f,stat_c19abb9724b7b669,民俗文化村,金門縣,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_bcb02309c8da96a4,stat_8a2a39ee3dd0da3f,stat_bcb02309c8da96a4,屏東酒廠(內埔),屏東縣,觀光地區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_bcb5494696669fe9,stat_b8ad6af9c145e9da,stat_bcb5494696669fe9,石梯坪遊憩區,花蓮縣,國家級風景特定區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2022,2024,
+stat_bcbf532d7b35e591,stat_26bf0d8f9783841b,stat_bcbf532d7b35e591,都歷處本部,臺東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_bceb9843ba543867,stat_62b28f7eaec3d8df,stat_bceb9843ba543867,冷水坑,臺北市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_bd71c5f28cca1a2e,stat_40e59226d4d9e8a9,stat_bd71c5f28cca1a2e,麗寶樂園,臺中市,觀光地區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_bd8c5e39a5b6f3f0,stat_d97512c857c81abc,stat_bd8c5e39a5b6f3f0,國父紀念館,臺北市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_bd8fdc99938a8491,stat_59cde21c437f9c9c,stat_bd8fdc99938a8491,三義水美木雕街,苗栗縣,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_be04d8af2100d571,stat_25924e1ab887350e,stat_be04d8af2100d571,社頂自然公園,屏東縣,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_be08aa83a0002bc3,stat_3ef6c6f9a5ede9db,stat_be08aa83a0002bc3,谷關遊憩區,臺中市,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_be0b15aeae6ebfac,stat_5c96e32c72d65f11,stat_be0b15aeae6ebfac,臺北市立天文科學教育館,臺北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_be41fe5e1b050f1f,stat_3315f0df405e5df5,stat_be41fe5e1b050f1f,大坑登山步道,臺中市,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_be48e847e6faec1a,stat_13a6086410f18f99,stat_be48e847e6faec1a,七星潭風景區,花蓮縣,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_be87888c2890e156,stat_c46b55f1acd48f2c,stat_be87888c2890e156,奇美博物館,臺南市,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_be8b436c5f6e35ab,stat_3810ea466011731b,stat_be8b436c5f6e35ab,基隆嶼,基隆市,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_c63f1d1afdbf1afd,stat_34f05f20f48c6f7b,stat_c63f1d1afdbf1afd,大屯遊憩區,臺北市,國家公園,陽明山國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_beec167f65c55db0,stat_34f05f20f48c6f7b,stat_beec167f65c55db0,大屯遊憩區,臺北市,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2024,
+stat_bfa32df82d4733d3,stat_55660c56be9cca03,stat_bfa32df82d4733d3,三峽老街,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_c1529bcf3522200b,stat_efcfc16ad6c181ce,stat_c1529bcf3522200b,排雲山莊,嘉義縣,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_c1826393d50f39d9,stat_4ff79edb04f8ef77,stat_c1826393d50f39d9,墾丁海水浴場,屏東縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_c233a2b0bebe3a88,stat_f59da404e9919903,stat_c233a2b0bebe3a88,美麗華摩天輪,臺北市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_c2e91972564f8c88,stat_d7c899b1dabc0b0c,stat_c2e91972564f8c88,台電南部展示館,屏東縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_c4297ca9c34a3221,stat_adbeffd59ceb55f0,stat_c4297ca9c34a3221,金獅湖風景區,高雄市,休閒農業區及休閒農場,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_c4b59931e3ca0b95,stat_102358b0959d322b,stat_c4b59931e3ca0b95,新北市立鶯歌陶瓷博物館,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_c5c7f2dd75e51ef5,stat_ca0e4bc0d459e50a,stat_c5c7f2dd75e51ef5,奧萬大國家森林遊樂區,南投縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_c66ce8be9575f824,stat_8c03c410c39b5000,stat_c66ce8be9575f824,大雪山國家森林遊樂區,臺中市,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_c6f1684162750f4c,stat_be9a90a0d8dc90d1,stat_c6f1684162750f4c,走馬瀨農場,臺南市,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_c751c96bffa8def9,stat_c8f284da30940f93,stat_c751c96bffa8def9,慈湖,桃園市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_c7afc7ce7cc39f49,stat_4002611a1c387064,stat_c7afc7ce7cc39f49,飛牛牧場,苗栗縣,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_c7caa9435d7f2fac,stat_fbc2e37890683c43,stat_c7caa9435d7f2fac,林口三井Outlet,新北市,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_c8429ee56d584a7d,stat_259e8bc50f370ae0,stat_c8429ee56d584a7d,滿月圓國家森林遊樂區,新北市,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_c9317b5d1bfe6fc7,stat_10b8dacd2824b68d,stat_c9317b5d1bfe6fc7,金水學校,金門縣,休閒農業區及休閒農場,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_c9dbf419fe94fb8f,stat_f37e70457b00f25e,stat_c9dbf419fe94fb8f,尖山埤江南渡假村,臺南市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_ca0eda8a2aa61caf,stat_0c9953bbaf775af7,stat_ca0eda8a2aa61caf,南紡購物中心,臺南市,觀光地區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ca9a40254b33299c,stat_4343f28f3113471e,stat_ca9a40254b33299c,七股鹽業遊憩區,臺南市,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_caa1b74eb8e8995c,stat_e2879657d03d0dbb,stat_caa1b74eb8e8995c,排雲山莊,南投縣,國家公園,玉山國家公園,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_cab43e0f770810f7,stat_2655074deb90dff7,stat_cab43e0f770810f7,萬和宮,臺中市,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d00e8a08c3da4e46,stat_baede0b9946888ae,stat_d00e8a08c3da4e46,中埔遊客中心,嘉義縣,國家級風景特定區,西拉雅國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2018,2021,
+stat_cb506bd990d45cd3,stat_baede0b9946888ae,stat_cb506bd990d45cd3,中埔遊客中心,嘉義縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2024,
+stat_cc242912fc3d1a25,stat_2a9daf7cbae9f4b8,stat_cc242912fc3d1a25,三峽歷史文物館,新北市,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_cced6bb421712b61,stat_69b17c5682872635,stat_cced6bb421712b61,鼻頭龍洞遊憩區,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_cd1901e299dd2c90,stat_d0a21e7f1bf21959,stat_cd1901e299dd2c90,棲蘭森林遊樂區,宜蘭縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_cd2f93d1131f6e2c,stat_9bb24811107360c7,stat_cd2f93d1131f6e2c,高雄市立美術館,高雄市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_cd5710eebf80dc35,stat_ffb1ade56f52687c,stat_cd5710eebf80dc35,角板山遊憩區,桃園市,直轄市及縣(市)級風景特定區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2014,2024,
+stat_cd8825d1d7a04ed8,stat_fcae47f99b447931,stat_cd8825d1d7a04ed8,東勢林場遊樂區,臺中市,觀光地區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ce4052ece7bd3a18,stat_efa0da45d685d0aa,stat_ce4052ece7bd3a18,清水祖師廟,新北市,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_cf12d1449d98933b,stat_79272dfb31a752ab,stat_cf12d1449d98933b,三芝遊憩區,新北市,國家級風景特定區,北海岸及觀音山國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ecd33dc2ae178301,stat_79272dfb31a752ab,stat_ecd33dc2ae178301,三芝遊憩區,新北市,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_cf31dfd38bff42d7,stat_0a85adb36e804c06,stat_cf31dfd38bff42d7,澄清湖,高雄市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_cf35cd9fedc7c292,stat_77f1ecae4ab2887f,stat_cf35cd9fedc7c292,圓潭生態園區,嘉義縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_cff0e0b95a7410f3,stat_ee961227ebfb91e0,stat_cff0e0b95a7410f3,祀典武廟,臺南市,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d04bae03108728b0,stat_61d088c92c4d63b8,stat_d04bae03108728b0,北港朝天宮,雲林縣,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d04f9630c68eac84,stat_dfca36b08d37a9c6,stat_d04f9630c68eac84,豐濱鄉親不知子海上古道及周邊地區,花蓮縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d11cfe0ada9af591,stat_128e4b422503cebf,stat_d11cfe0ada9af591,鹿港龍山寺,彰化縣,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d1ea236129167cf6,stat_3405810b15456d1a,stat_d1ea236129167cf6,逢甲夜市,臺中市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2021,2024,
+stat_d21a584ab1756735,stat_7c3da050e2ef9f2f,stat_d21a584ab1756735,蘭潭,嘉義市,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d3449f1987da1667,stat_e2c7914b7fbcc8b9,stat_d3449f1987da1667,三峽老街,新北市,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d348fb62949a4897,stat_2dddc3b33f0c3115,stat_d348fb62949a4897,飛牛牧場,苗栗縣,休閒農業區及休閒農場,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d36784d30b5fd36f,stat_e052cd8f1f1a894d,stat_d36784d30b5fd36f,陽明公園,臺北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d3690b9858ad7d97,stat_531b106c5ecb46ee,stat_d3690b9858ad7d97,一中商圈,臺中市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2021,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d39ca903c2c5eb86,stat_7d89dc0245d1236f,stat_d39ca903c2c5eb86,新北市客家文化園區,新北市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d50625c739b2247a,stat_babf4b0502ceb53c,stat_d50625c739b2247a,阿里山國家森林遊樂區,嘉義縣,觀光地區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d532bbaeacc82c97,stat_50b8d55fbcd73a3a,stat_d532bbaeacc82c97,三地門遊憩區,屏東縣,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d58da7b535634de4,stat_2de8e88891dc90b0,stat_d58da7b535634de4,虎頭山風景特定區,桃園市,休閒農業區及休閒農場,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d5b6e177a7cdd61a,stat_e7a8ddfc953f6eb6,stat_d5b6e177a7cdd61a,圓潭自然生態園區,嘉義縣,國家級風景特定區,阿里山國家風景區,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,
+stat_eda1faa6514a8086,stat_e7a8ddfc953f6eb6,stat_eda1faa6514a8086,圓潭自然生態園區,嘉義縣,國家級風景特定區,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,
+stat_d5c2fe3b86de8046,stat_2ef7495e4cf4b219,stat_d5c2fe3b86de8046,龜山園區,高雄市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_d5cb2ae3c6b50d93,stat_7c814f36bc3a5993,stat_d5cb2ae3c6b50d93,冬山河親水公園,宜蘭縣,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d615443eb030fc94,stat_a4aa2b4ccbf45c2e,stat_d615443eb030fc94,烏樹林休閒園區,臺南市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d76e6ed67c49b86d,stat_d9cac9b1ff711958,stat_d76e6ed67c49b86d,獅頭山風景區(新竹地區),新竹縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d7a5ae1c01e25a85,stat_a162074583c3165a,stat_d7a5ae1c01e25a85,八卦山風景區(彰化地區),彰化縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d8a4a9595127b447,stat_5cb8a8c950b550e5,stat_d8a4a9595127b447,高雄市文化中心,高雄市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d980d32845de3c2f,stat_8c59afa688c9e9ad,stat_d980d32845de3c2f,大甲鎮瀾宮,臺中市,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d99544dcd28e74ba,stat_b5424525da2d284d,stat_d99544dcd28e74ba,金針山休閒農業區,臺東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_d9c1f9ec053e4195,stat_aafb800046b1e5f2,stat_d9c1f9ec053e4195,帝國糖廠及LaLaport觀光廊帶,臺中市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_d9cbd4acd63558d1,stat_f8f8fcf609346af2,stat_d9cbd4acd63558d1,福隆遊客服務中心,新北市,國家級風景特定區,東北角暨宜蘭海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_da658d17dd089040,stat_6f70ad2262a7e256,stat_da658d17dd089040,南竿遊客中心,連江縣,觀光地區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_dab676e1629a3f09,stat_ffcb57e5e4b34c7c,stat_dab676e1629a3f09,龍鳳漁港,苗栗縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_dac2da9c561e82dc,stat_fd31d5fe3826776b,stat_dac2da9c561e82dc,陽明海洋文化藝術館,基隆市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_db12379012299eca,stat_5ed849d902b08df8,stat_db12379012299eca,六十石山,花蓮縣,國家級風景特定區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2022,2024,
+stat_dba44a4b86ced22c,stat_e4b49c156e6d6806,stat_dba44a4b86ced22c,烏山頭水庫風景區,臺南市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_dbb12d10e24d63ef,stat_4ef52791dbc0c390,stat_dbb12d10e24d63ef,外澳濱海遊憩區,宜蘭縣,國家級風景特定區,東北角暨宜蘭海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_dc1673eb0c41e5eb,stat_8ff7860c61ec4683,stat_dc1673eb0c41e5eb,獅頭山風景區(苗栗地區),苗栗縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_dc22dc2f0612a2ce,stat_cb2a0241d49a99ff,stat_dc22dc2f0612a2ce,虎頭山風景特定區,桃園市,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2016,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_dc8da34e1ce2ef1e,stat_b931c765e612546c,stat_dc8da34e1ce2ef1e,池南國家森林遊樂區,花蓮縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_dcd914a36b989a85,stat_74e6813113365bd9,stat_dcd914a36b989a85,龍鳳谷遊憩區,臺北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_dda7104fc11dd053,stat_6f714a1f7bd3830f,stat_dda7104fc11dd053,水里蛇窯,南投縣,國家級風景特定區,日月潭國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_de3190ba9bf25562,stat_836c0dd4e06ff580,stat_de3190ba9bf25562,大路觀主題樂園,屏東縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_de4f43b6523738b4,stat_81c8eceea8167896,stat_de4f43b6523738b4,三仙台遊憩區及周邊地區,臺東縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_de68b3d5f8c8a048,stat_464de9f27f538907,stat_de68b3d5f8c8a048,秀姑巒溪遊客中心園區,花蓮縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_deb5b65af5c4a612,stat_a7581c270562237d,stat_deb5b65af5c4a612,屏東酒廠(內埔),屏東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_deccd6b0fbb2ff8c,stat_acd23dfb693741c4,stat_deccd6b0fbb2ff8c,鹽水老街,臺南市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2023,2024,
+stat_df407372ec3ee2a9,stat_3da9230781213b67,stat_df407372ec3ee2a9,陽明山遊客中心,臺北市,國家公園,陽明山國家公園,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2012,2021,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_fdd56e1cc6a80817,stat_3da9230781213b67,stat_fdd56e1cc6a80817,陽明山遊客中心,臺北市,國家公園,-,provisional_rule_match,同縣市、正規化名稱相同、類型相同，而且年份接續。沒有用模糊名稱合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_df4602955bbcbb30,stat_05a48e69ac287cc4,stat_df4602955bbcbb30,新北市立鶯歌陶瓷博物館,新北市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_df49d7f8f5712cd6,stat_47a70f6366b2a060,stat_df49d7f8f5712cd6,七股鹽業遊憩區,臺南市,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_df5ec1177bdaf2b6,stat_0ff4687de21c1544,stat_df5ec1177bdaf2b6,國立自然科學博物館,臺中市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_df6205015818dc15,stat_a2b85d7b582a4207,stat_df6205015818dc15,國立自然科學博物館鳳凰谷鳥園生態園區,南投縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_e0e9773720b1e6de,stat_c25317e86843f82e,stat_e0e9773720b1e6de,新北市坪林茶業博物館,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_e1078547ae5f077f,stat_9a19c257f8c3bb4a,stat_e1078547ae5f077f,布洛灣遊憩區,花蓮縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_e11ba782a95be7a1,stat_8e6d606b17edefba,stat_e11ba782a95be7a1,立川漁場,花蓮縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_e171948f668272a6,stat_8cb6626d45b356a7,stat_e171948f668272a6,前清淡水關稅務司官邸,新北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_e1bcaa59275d0e1a,stat_cbffe2bd3a07d022,stat_e1bcaa59275d0e1a,"臺北市立動物園
+Taipei Zoo",臺北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_e2156cf8b0b1dcc8,stat_37a1583d66a931d3,stat_e2156cf8b0b1dcc8,國民革命忠烈祠,臺北市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_e24259b747df2a55,stat_cf0fc7febc6fe55c,stat_e24259b747df2a55,臺中都會公園,臺中市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_e2a73e72e217aa1d,stat_ee6e87d733d96d53,stat_e2a73e72e217aa1d,新屋綠色走廊,桃園市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2021,2024,
+stat_e32005e9fd1212d5,stat_faa86da2c2928b0e,stat_e32005e9fd1212d5,秀姑巒溪遊客中心,花蓮縣,國家級風景特定區,東部海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_e3a69b7bbcedaff5,stat_251837850a207601,stat_e3a69b7bbcedaff5,綠川水岸廊道(含宮原眼科),臺中市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2023,2024,
+stat_e3c7e39957f2eac9,stat_056c3e78dc14797a,stat_e3c7e39957f2eac9,七美遊客中心,澎湖縣,國家級風景特定區,澎湖國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2016,2021,
+stat_e56829e80bb3d14d,stat_09e27f7a544cec86,stat_e56829e80bb3d14d,內灣老街,新竹縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_e5ccf06445eb5338,stat_2524f3adf9580882,stat_e5ccf06445eb5338,塔塔加遊憩區,南投縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_e61845851cf85fe5,stat_03eb5eadf382c87e,stat_e61845851cf85fe5,扇形車庫及周邊地區,彰化縣,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_e7379f2d8ff57a63,stat_f381880a6dd0a545,stat_e7379f2d8ff57a63,獅山砲陣地,金門縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_e7524476427f12e7,stat_41ccd67351a047d6,stat_e7524476427f12e7,祀典武廟,臺南市,觀光地區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_e7de3f430fc07725,stat_8117a4d712e53f0f,stat_e7de3f430fc07725,觀音蓮花園休閒農業區,桃園市,休閒農業區及休閒農場,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2021,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_e84fafa321b9ea0b,stat_382bd19941955ca9,stat_e84fafa321b9ea0b,市立天文科學教育館,臺北市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_e8a65174c8c880f2,stat_23e92626144f2ca5,stat_e8a65174c8c880f2,關子嶺溫泉區,臺南市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_e9df164739957492,stat_8988a9240720bc1b,stat_e9df164739957492,北海遊客中心及周邊地區,澎湖縣,國家級風景特定區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_e9e87a5ab9d724b3,stat_0785618970f0a01a,stat_e9e87a5ab9d724b3,佛光山,高雄市,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ea1928669df6eb56,stat_d9076cf741d7fa44,stat_ea1928669df6eb56,富源國家森林遊樂區,花蓮縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ea1edd9cef1c8634,stat_d5fbc77a1f77fd88,stat_ea1edd9cef1c8634,車城福安宮,屏東縣,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_eb1cfe4ba4a4e456,stat_41d6efc93c424442,stat_eb1cfe4ba4a4e456,水產試驗所東部海洋生物研究中心(水族生態研究館,臺東縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_eb7e5586c886defe,stat_771c7a7c84012a9e,stat_eb7e5586c886defe,凱達格蘭文化館,臺北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_eb97139ae334dc7d,stat_ea520a666aa69d04,stat_eb97139ae334dc7d,南鯤鯓代天府,臺南市,觀光地區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ebe067bf99648a90,stat_e334750583a48afd,stat_ebe067bf99648a90,古寧頭戰史館,金門縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ec06a5cff1f83fce,stat_a55a02a4edb8fb7f,stat_ec06a5cff1f83fce,安平小鎮,臺南市,觀光地區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,
+stat_ec08401c743b0691,stat_971b9cbf486e0ef6,stat_ec08401c743b0691,總兵署,金門縣,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_ec1d141a7488e4a9,stat_7c41a3c7976c2267,stat_ec1d141a7488e4a9,鹿野高臺及周邊地區,臺東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ecdf313230f37077,stat_763c8eb5aeaa410e,stat_ecdf313230f37077,基隆嶼,基隆市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ed99d10667bb092c,stat_20fd1897159cad2c,stat_ed99d10667bb092c,大里遊客服務中心,宜蘭縣,國家級風景特定區,東北角暨宜蘭海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_edba30c5049ce5d2,stat_a6a26adb4a57f1b8,stat_edba30c5049ce5d2,南園人文客棧,新竹縣,觀光地區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_edfec67ebff5ca30,stat_f5c1a9f46e589615,stat_edfec67ebff5ca30,秀姑巒溪遊客中心園區,花蓮縣,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ee1ffbe450ea5666,stat_fe26566489e6c8f0,stat_ee1ffbe450ea5666,梅山太平雲梯,嘉義縣,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ef1fa67136b0df6c,stat_87ee6d5edbcc4c8d,stat_ef1fa67136b0df6c,麻豆代天府,臺南市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ef6fee6b526b6837,stat_3257fa74917f6e4f,stat_ef6fee6b526b6837,臺北市立美術館,臺北市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2020,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ef7c2f2857cfd779,stat_fefb177d38ad534a,stat_ef7c2f2857cfd779,親不知子天空步道,花蓮縣,觀光地區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2020,2021,
+stat_efc446d2fca36971,stat_0d1ad5aff8ae98fb,stat_efc446d2fca36971,鼻頭港服務區,新北市,國家級風景特定區,東北角暨宜蘭海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2019,
+stat_f01e72f1ca2d7843,stat_f82a3c41ce3c3995,stat_f01e72f1ca2d7843,鯉魚潭風景特定區,花蓮縣,國家級風景特定區,花東縱谷國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_f0b475502ec49c72,stat_70ddd3c73d446d46,stat_f0b475502ec49c72,野柳海洋世界,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_f0fc82db5d876f7a,stat_4e85b5b427de6ed6,stat_f0fc82db5d876f7a,北港武德宮(北港武德宮管理委員會),雲林縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_f28eac54b31ef6d8,stat_f6a166339c8dc361,stat_f28eac54b31ef6d8,六堆客家文化園區,屏東縣,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2018,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_f297be60e1c38c9a,stat_59df998af5911466,stat_f297be60e1c38c9a,墾丁國家公園管理處遊客中心,屏東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_f2b0fd8aa67d50cc,stat_dff561e789d32f12,stat_f2b0fd8aa67d50cc,清水地熱公園,宜蘭縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_f3050e2b18b721aa,stat_ab534c053423733c,stat_f3050e2b18b721aa,冬山河生態綠舟,宜蘭縣,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2021,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_f346f64d985fa8dc,stat_b5d21551730d9366,stat_f346f64d985fa8dc,雲仙樂園,新北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_f4228dc40e7758c9,stat_80955303ac4e7e23,stat_f4228dc40e7758c9,宜蘭濱海遊憩區,宜蘭縣,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_f4807e44c27fd543,stat_0c4e472c1b3ee993,stat_f4807e44c27fd543,排雲山莊,嘉義縣,宗教場所,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_f4f57f09102acdd1,stat_a3a85d2052c3e506,stat_f4f57f09102acdd1,溪頭自然教育園區,南投縣,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_f51cfdbb5e607921,stat_c335381f081dd5eb,stat_f51cfdbb5e607921,花蓮糖廠及周邊地區,花蓮縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2022,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_f5c2610de1be8e0c,stat_41449524fe942010,stat_f5c2610de1be8e0c,國立傳統藝術中心,宜蘭縣,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_f6a35297f8582ed2,stat_bb6e2e580cfab675,stat_f6a35297f8582ed2,霧峰林家園區,臺中市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2018,2024,
+stat_f6f8ce9986031e5d,stat_f2239b2569cd10a6,stat_f6f8ce9986031e5d,草漯沙丘地質公園,桃園市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_f75f5eb256e14855,stat_5d1c7dac9e495859,stat_f75f5eb256e14855,高雄市立歷史博物館,高雄市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_f7b9ba8fbfd12953,stat_66d86689434d0cdb,stat_f7b9ba8fbfd12953,高美濕地,臺中市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2018,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_f83d836d01ee2e3b,stat_8642caf7da182e25,stat_f83d836d01ee2e3b,北港朝天宮,雲林縣,國家級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_f9028354592ba5ad,stat_559d441f85a11393,stat_f9028354592ba5ad,十分遊客中心,新北市,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_f9e482ffdea6001f,stat_c9cd863fc9d55432,stat_f9e482ffdea6001f,湖井頭戰史館,金門縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_fa1702c0e66ff9e5,stat_f2ec3ae7879a7420,stat_fa1702c0e66ff9e5,新竹漁港,新竹市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2024,
+stat_fa4fa0443f4deedd,stat_1d4f2f1cb56d354e,stat_fa4fa0443f4deedd,龍潭觀光大池,桃園市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2022,2024,
+stat_faa700ee00b8e127,stat_b2b6f16fe36b08cd,stat_faa700ee00b8e127,朱銘美術館,新北市,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_faa8c2218913fa5a,stat_25fca6b4bffe178a,stat_faa8c2218913fa5a,曾文水庫,臺南市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_fc75b05e8b63f082,stat_f269908aff423ea4,stat_fc75b05e8b63f082,國立臺灣博物館,臺北市,博物館,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2016,2024,
+stat_fd343ccf831dd8ff,stat_5423ba2d4ca68177,stat_fd343ccf831dd8ff,花蓮管理站遊客中心,花蓮縣,國家級風景特定區,東部海岸國家風景區,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_fd69f3efbe893d26,stat_fc4d535717c66250,stat_fd69f3efbe893d26,滿月圓國家森林遊樂區,新北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_fe64efc765a9d2b5,stat_bd07dee3ba6de677,stat_fe64efc765a9d2b5,雙流國家森林遊樂區,屏東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_fe717bed67753093,stat_d0fde2bba0264228,stat_fe717bed67753093,三芝遊憩區,新北市,國家公園,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_fe9c3eb28a010328,stat_593703f52a0d0d0f,stat_fe9c3eb28a010328,安平,臺南市,國家級風景特定區,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,
+stat_fe9d5e44170e9c8e,stat_55cba25adfe2ffbd,stat_fe9d5e44170e9c8e,泰雅渡假村,南投縣,博物館,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_feca8acdcbce6fb1,stat_7d3f8db7ae6855d6,stat_feca8acdcbce6fb1,雙鯉溼地自然中心,金門縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_fedae37e390c0e18,stat_a6c0ecf89d41d86d,stat_fedae37e390c0e18,滬尾砲臺,新北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2012,2021,
+stat_ff030348d6583359,stat_3e2b5588a03511e1,stat_ff030348d6583359,惠蓀林場,南投縣,森林遊樂區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ff1b7e822b59156d,stat_9f402a5c59bc0c6a,stat_ff1b7e822b59156d,滬尾礮臺,新北市,其他,-,singleton,這個原始 ID 沒有和另一個 ID 合併。,2022,2024,
+stat_ff1d6e6b32bc2b51,stat_1010c4d1b78ed707,stat_ff1d6e6b32bc2b51,綠島遊憩區,臺東縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ff442c7b89ac9304,stat_c3d23c63f70d49b6,stat_ff442c7b89ac9304,白石湖吊橋,臺北市,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2018,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ffa95212d753a305,stat_97f77c9151303363,stat_ffa95212d753a305,佳樂水,屏東縣,直轄市及縣(市)級風景特定區,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2024,2024,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_ffbae86f3bfd332a,stat_9b1dd176a0dcc320,stat_ffbae86f3bfd332a,行政院農業委員會特有生物研究保育中心,南投縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。
+stat_fff4388d07c020ac,stat_096feb76ab7835f8,stat_fff4388d07c020ac,六福村主題遊樂園,新竹縣,其他,-,needs_manual_review,這個原始 ID 沒有和另一個 ID 合併。,2012,2023,同縣市同名另有不同類型。那些類型沒有合成這個 site_uid，也沒有用模糊名稱確定身分。

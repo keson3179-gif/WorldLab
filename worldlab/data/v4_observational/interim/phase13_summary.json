@@ -1,0 +1,77 @@
+{
+  "analysis_role": "exploratory_retrospective",
+  "model_fitted": false,
+  "weights_tuned_on_evaluation": false,
+  "holdout_visits_used": false,
+  "prediction_rows": 16730,
+  "priority_identity_rows": 13,
+  "confirmed_manual_rows": 0,
+  "groups": [
+    {
+      "parent_area": "玉山國家公園",
+      "evaluable_months": 96,
+      "defined_months": 120,
+      "origins": 85,
+      "nonoverlap_blocks": 8,
+      "adapter_role": "candidate_for_adapter_research",
+      "persistence_tv_a": 0.05632247491257256,
+      "persistence_mae_a": 0.0375483166083817,
+      "seasonal_tv_a": 0.06469598850154074,
+      "persistence_tv_b": 0.07640289930935554,
+      "persistence_tv_increase": 0.02008042439678298
+    },
+    {
+      "parent_area": "太魯閣國家公園",
+      "evaluable_months": 120,
+      "defined_months": 144,
+      "origins": 109,
+      "nonoverlap_blocks": 10,
+      "adapter_role": "candidate_for_adapter_research",
+      "persistence_tv_a": 0.046330289665962705,
+      "persistence_mae_a": 0.030886859777308467,
+      "seasonal_tv_a": 0.14513644104346463,
+      "persistence_tv_b": 0.06554193638259438,
+      "persistence_tv_increase": 0.019211646716631677
+    },
+    {
+      "parent_area": "雪霸國家公園",
+      "evaluable_months": 120,
+      "defined_months": 144,
+      "origins": 109,
+      "nonoverlap_blocks": 10,
+      "adapter_role": "candidate_for_adapter_research",
+      "persistence_tv_a": 0.07679639923823887,
+      "persistence_mae_a": 0.051197599492159254,
+      "seasonal_tv_a": 0.0876885286535454,
+      "persistence_tv_b": 0.10434889765914031,
+      "persistence_tv_increase": 0.027552498420901433
+    },
+    {
+      "parent_area": "金門國家公園",
+      "evaluable_months": 17,
+      "defined_months": 71,
+      "origins": 6,
+      "nonoverlap_blocks": 1,
+      "adapter_role": "short_series_contrast_only",
+      "persistence_tv_a": 0.05791446582378746,
+      "persistence_mae_a": 0.010529902877052265,
+      "seasonal_tv_a": 0.15743259368420878,
+      "persistence_tv_b": 0.0999211779448592,
+      "persistence_tv_increase": 0.042006712121071745
+    }
+  ],
+  "input_sha256": {
+    "data/curated/v4_forecast_panel_candidate.parquet": "18b35ccc7bc0c2fe60c01e0a6bc0b5258069db0c2f7acdf8bbd89199934866d3",
+    "data/curated/v4_2024_identity_audit.csv": "7fb9d4af71be7ea8330a316e05aa535b0bbeb3f5db348ccfc43e057d6a0daec3",
+    "data/curated/v4_2021_alignment_audit.csv": "d1265909843261ab28819c5e371d702ab654cf3d8abfd034a18db0cd1c4f5eab",
+    "data/curated/v4_exploratory_visit_shares_conditional.csv": "0f28543f8690561a8e97229e05516eb948bbe30436c0118dcb08fecfe4ef5aa8",
+    "data/curated/v4_month_validity.csv": "d8312862a7446451c4830249c58d48b696a8bedca231bffa93545a7f766ba24f",
+    "reports/V4_PHASE12_BASELINE_PROTOCOL.md": "9ef0f4f1c18760cdafbd3ac0d05fd161b128a3e3206741a14b17544377e4045f",
+    "reports/V4_PHASE12_IDENTITY_READINESS.md": "ac5412e955e2ca2aee0f547af7bf5a1dfd47052c10c577a1116845a628a44df8",
+    "reports/V4_PHASE12_CATEGORY_ROOT_CAUSE.md": "496216a4940f3daf39cccf6a0a6f15cf4e69e5a4ef30b5dd5fefd2d5e94cae21",
+    "reports/V4_PHASE12_2021_ALIGNMENT.md": "be6b7625d3a2bb01ef8467ea633a158b038dc9659574478f14b618ab6fde9d49",
+    "reports/V4_PHASE11_FORECAST_FEASIBILITY.md": "96b5afb7463d2a3b8ef1a8ef7c518a11819462ddb6d23718f585ab26c39816fd",
+    "reports/V4_PHASE11_CONCENTRATION_EXPLORATION.md": "7945923297c476ee85546a778a8d00bede844bda4a0e4a1d9c94dc6234cf2afb"
+  },
+  "protected_files_unchanged": true
+}

@@ -1,0 +1,2032 @@
+{
+  "analysis_role": "exploratory_development",
+  "model_family": "aggregate_intensity_bridge",
+  "prediction_quantity": "aggregate_intensity_share",
+  "p4_executed": false,
+  "llm_calls": 0,
+  "m2_status": "not_run",
+  "historically_valid_descriptions": 0,
+  "holdout_visits_used": false,
+  "same_period_as_phase13": true,
+  "independent_validation": false,
+  "tdx_status": "offline_credentials_absent",
+  "tdx_will_call_network": false,
+  "groups": [
+    {
+      "parent_area": "玉山國家公園",
+      "county": "南投縣",
+      "defined_months": 120,
+      "evaluable_months": 96,
+      "scenarios": {
+        "ex_post_max_information": {
+          "evaluable_months": 96,
+          "common_months": 96,
+          "models": {
+            "persistence": {
+              "n": 96,
+              "availability": 1.0,
+              "share_vector_TV": 0.05632247491257256,
+              "share_MAE": 0.0375483166083817,
+              "normalized_HHI_absolute_error": 0.08731622059025496,
+              "leading_site_accuracy": 1.0
+            },
+            "same_month_last_year": {
+              "n": 96,
+              "availability": 1.0,
+              "share_vector_TV": 0.06556450501901727,
+              "share_MAE": 0.04370967001267819,
+              "normalized_HHI_absolute_error": 0.11725989758084165,
+              "leading_site_accuracy": 1.0
+            },
+            "seasonal_month_mean": {
+              "n": 96,
+              "availability": 1.0,
+              "share_vector_TV": 0.06469598850154074,
+              "share_MAE": 0.04313065900102716,
+              "normalized_HHI_absolute_error": 0.10243366069418942,
+              "leading_site_accuracy": 1.0
+            },
+            "trailing_3_mean": {
+              "n": 96,
+              "availability": 1.0,
+              "share_vector_TV": 0.05966145398122563,
+              "share_MAE": 0.03977430265415042,
+              "normalized_HHI_absolute_error": 0.09185863471949934,
+              "leading_site_accuracy": 1.0
+            },
+            "trailing_12_mean": {
+              "n": 96,
+              "availability": 1.0,
+              "share_vector_TV": 0.05906297463265545,
+              "share_MAE": 0.03937531642177031,
+              "normalized_HHI_absolute_error": 0.0960533952255499,
+              "leading_site_accuracy": 1.0
+            },
+            "fixed_equal_weight": {
+              "n": 96,
+              "availability": 1.0,
+              "share_vector_TV": 0.05102461953821085,
+              "share_MAE": 0.034016413025473896,
+              "normalized_HHI_absolute_error": 0.08230425125076916,
+              "leading_site_accuracy": 1.0
+            },
+            "uniform_reference": {
+              "n": 96,
+              "availability": 1.0,
+              "share_vector_TV": 0.45837461969666227,
+              "share_MAE": 0.3055830797977748,
+              "normalized_HHI_absolute_error": 0.49095489498134287,
+              "leading_site_accuracy": null
+            },
+            "M0": {
+              "n": 96,
+              "availability": 1.0,
+              "share_vector_TV": 0.06477408707304443,
+              "share_MAE": 0.04318272471536295,
+              "normalized_HHI_absolute_error": 0.09529886434028535,
+              "leading_site_accuracy": 1.0
+            }
+          },
+          "m0_minus_baseline_tv": {
+            "persistence": 0.00845161216047187,
+            "same_month_last_year": -0.0007904179459728433,
+            "seasonal_month_mean": 7.809857150369026e-05,
+            "trailing_3_mean": 0.005112633091818794,
+            "trailing_12_mean": 0.005711112440388973,
+            "fixed_equal_weight": 0.013749467534833575,
+            "uniform_reference": -0.3936005326236178
+          },
+          "grid": {
+            "OBS_CUM": {
+              "-1.0": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.32149765731393914,
+                "share_MAE": 0.21433177154262614,
+                "normalized_HHI_absolute_error": 0.3961438597154174,
+                "leading_site_accuracy": 1.0
+              },
+              "-0.5": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.15512912212514846,
+                "share_MAE": 0.10341941475009897,
+                "normalized_HHI_absolute_error": 0.2482719560854106,
+                "leading_site_accuracy": 1.0
+              },
+              "0.0": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.06477408707304443,
+                "share_MAE": 0.04318272471536295,
+                "normalized_HHI_absolute_error": 0.09529886434028535,
+                "leading_site_accuracy": 1.0
+              },
+              "0.5": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.09889769330742608,
+                "share_MAE": 0.06593179553828406,
+                "normalized_HHI_absolute_error": 0.2041720593373132,
+                "leading_site_accuracy": 1.0
+              },
+              "1.0": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.14943027560301278,
+                "share_MAE": 0.09962018373534183,
+                "normalized_HHI_absolute_error": 0.338665846967725,
+                "leading_site_accuracy": 1.0
+              }
+            },
+            "OBS_ROLLING": {
+              "-1.0": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.3265577894748141,
+                "share_MAE": 0.21770519298320942,
+                "normalized_HHI_absolute_error": 0.3916840550448333,
+                "leading_site_accuracy": 1.0
+              },
+              "-0.5": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.1578577980668017,
+                "share_MAE": 0.10523853204453444,
+                "normalized_HHI_absolute_error": 0.2498898061397439,
+                "leading_site_accuracy": 1.0
+              },
+              "0.0": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.06477408707304443,
+                "share_MAE": 0.04318272471536295,
+                "normalized_HHI_absolute_error": 0.09529886434028535,
+                "leading_site_accuracy": 1.0
+              },
+              "0.5": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.0998036374380888,
+                "share_MAE": 0.0665357582920592,
+                "normalized_HHI_absolute_error": 0.206630423904452,
+                "leading_site_accuracy": 1.0
+              },
+              "1.0": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.15074195859485656,
+                "share_MAE": 0.1004946390632377,
+                "normalized_HHI_absolute_error": 0.34216225181146304,
+                "leading_site_accuracy": 1.0
+              }
+            },
+            "OBS_EXP": {
+              "-1.0": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.32569111499517917,
+                "share_MAE": 0.21712740999678612,
+                "normalized_HHI_absolute_error": 0.39250933242285496,
+                "leading_site_accuracy": 1.0
+              },
+              "-0.5": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.1574926302216897,
+                "share_MAE": 0.10499508681445979,
+                "normalized_HHI_absolute_error": 0.24958782213439945,
+                "leading_site_accuracy": 1.0
+              },
+              "0.0": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.06477408707304443,
+                "share_MAE": 0.04318272471536295,
+                "normalized_HHI_absolute_error": 0.09529886434028535,
+                "leading_site_accuracy": 1.0
+              },
+              "0.5": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.09980948873378594,
+                "share_MAE": 0.0665396591558573,
+                "normalized_HHI_absolute_error": 0.2064416993538596,
+                "leading_site_accuracy": 1.0
+              },
+              "1.0": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.15064125256791408,
+                "share_MAE": 0.10042750171194272,
+                "normalized_HHI_absolute_error": 0.3418622379822786,
+                "leading_site_accuracy": 1.0
+              }
+            }
+          },
+          "nested": {
+            "OBS_CUM": {
+              "n": 96,
+              "insufficient_months": 0,
+              "modal_beta": "0.0",
+              "modal_share": 0.9583333333333334,
+              "tv": 0.06810844278974403,
+              "mae": 0.04540562852649602,
+              "hhi": 0.10294499963783417,
+              "leader": 1.0,
+              "m0_tv_same_months": 0.06477408707304443,
+              "persistence_tv_same_months": 0.05632247491257256,
+              "best_baseline": "fixed_equal_weight",
+              "best_baseline_tv_same_months": 0.05102461953821085,
+              "beta_counts": {
+                "0.0": 92,
+                "-0.5": 3,
+                "0.5": 1
+              }
+            },
+            "OBS_ROLLING": {
+              "n": 96,
+              "insufficient_months": 0,
+              "modal_beta": "0.0",
+              "modal_share": 0.9583333333333334,
+              "tv": 0.06815199055298303,
+              "mae": 0.04543466036865535,
+              "hhi": 0.10301569887104456,
+              "leader": 1.0,
+              "m0_tv_same_months": 0.06477408707304443,
+              "persistence_tv_same_months": 0.05632247491257256,
+              "best_baseline": "fixed_equal_weight",
+              "best_baseline_tv_same_months": 0.05102461953821085,
+              "beta_counts": {
+                "0.0": 92,
+                "-0.5": 3,
+                "0.5": 1
+              }
+            },
+            "OBS_EXP": {
+              "n": 96,
+              "insufficient_months": 0,
+              "modal_beta": "0.0",
+              "modal_share": 0.96875,
+              "tv": 0.06698303282273206,
+              "mae": 0.04465535521515471,
+              "hhi": 0.10054099000715426,
+              "leader": 1.0,
+              "m0_tv_same_months": 0.06477408707304443,
+              "persistence_tv_same_months": 0.05632247491257256,
+              "best_baseline": "fixed_equal_weight",
+              "best_baseline_tv_same_months": 0.05102461953821085,
+              "beta_counts": {
+                "0.0": 93,
+                "-0.5": 2,
+                "0.5": 1
+              }
+            }
+          },
+          "block_count": 8,
+          "block_m0_tv": [
+            0.054388364429859413,
+            0.049369197652709966,
+            0.05812607281935392,
+            0.056734595782227504,
+            0.06082767886590058,
+            0.09323845614868036,
+            0.05108040452808656,
+            0.09442792635753712
+          ],
+          "block_persistence_tv": [
+            0.06504461307409,
+            0.05138989306278591,
+            0.04785910098654144,
+            0.048812336673452306,
+            0.047838802460800516,
+            0.08458268633189288,
+            0.03915695159423753,
+            0.06589541511677985
+          ],
+          "years": {
+            "2014": {
+              "M0": 0.054388364429859413,
+              "persistence": 0.06504461307409
+            },
+            "2015": {
+              "M0": 0.049369197652709966,
+              "persistence": 0.05138989306278591
+            },
+            "2016": {
+              "M0": 0.05812607281935392,
+              "persistence": 0.04785910098654144
+            },
+            "2017": {
+              "M0": 0.056734595782227504,
+              "persistence": 0.048812336673452306
+            },
+            "2018": {
+              "M0": 0.06082767886590058,
+              "persistence": 0.047838802460800516
+            },
+            "2019": {
+              "M0": 0.09323845614868036,
+              "persistence": 0.08458268633189288
+            },
+            "2020": {
+              "M0": 0.05108040452808656,
+              "persistence": 0.03915695159423753
+            },
+            "2021": {
+              "M0": 0.09442792635753712,
+              "persistence": 0.06589541511677985
+            }
+          },
+          "span": "2014-01–2021-12"
+        },
+        "assumed_publication_delay": {
+          "evaluable_months": 96,
+          "common_months": 96,
+          "models": {
+            "persistence": {
+              "n": 96,
+              "availability": 1.0,
+              "share_vector_TV": 0.07640289930935554,
+              "share_MAE": 0.05093526620623703,
+              "normalized_HHI_absolute_error": 0.12156131849747748,
+              "leading_site_accuracy": 1.0
+            },
+            "same_month_last_year": {
+              "n": 96,
+              "availability": 1.0,
+              "share_vector_TV": 0.06556450501901727,
+              "share_MAE": 0.04370967001267819,
+              "normalized_HHI_absolute_error": 0.11725989758084165,
+              "leading_site_accuracy": 1.0
+            },
+            "seasonal_month_mean": {
+              "n": 96,
+              "availability": 1.0,
+              "share_vector_TV": 0.06469598850154074,
+              "share_MAE": 0.04313065900102716,
+              "normalized_HHI_absolute_error": 0.10243366069418942,
+              "leading_site_accuracy": 1.0
+            },
+            "trailing_3_mean": {
+              "n": 96,
+              "availability": 1.0,
+              "share_vector_TV": 0.06729640307237504,
+              "share_MAE": 0.0448642687149167,
+              "normalized_HHI_absolute_error": 0.10731277078435703,
+              "leading_site_accuracy": 1.0
+            },
+            "trailing_12_mean": {
+              "n": 96,
+              "availability": 1.0,
+              "share_vector_TV": 0.06234596481014661,
+              "share_MAE": 0.04156397654009774,
+              "normalized_HHI_absolute_error": 0.10308926191720681,
+              "leading_site_accuracy": 1.0
+            },
+            "fixed_equal_weight": {
+              "n": 96,
+              "availability": 1.0,
+              "share_vector_TV": 0.05755753564358956,
+              "share_MAE": 0.0383716904290597,
+              "normalized_HHI_absolute_error": 0.08971452917420912,
+              "leading_site_accuracy": 1.0
+            },
+            "uniform_reference": {
+              "n": 96,
+              "availability": 1.0,
+              "share_vector_TV": 0.45837461969666227,
+              "share_MAE": 0.3055830797977748,
+              "normalized_HHI_absolute_error": 0.49095489498134287,
+              "leading_site_accuracy": null
+            },
+            "M0": {
+              "n": 96,
+              "availability": 1.0,
+              "share_vector_TV": 0.06538568867657023,
+              "share_MAE": 0.04359045911771348,
+              "normalized_HHI_absolute_error": 0.09600512648563136,
+              "leading_site_accuracy": 1.0
+            }
+          },
+          "m0_minus_baseline_tv": {
+            "persistence": -0.01101721063278531,
+            "same_month_last_year": -0.00017881634244704125,
+            "seasonal_month_mean": 0.0006897001750294923,
+            "trailing_3_mean": -0.0019107143958048134,
+            "trailing_12_mean": 0.0030397238664236145,
+            "fixed_equal_weight": 0.007828153032980671,
+            "uniform_reference": -0.392988931020092
+          },
+          "grid": {
+            "OBS_CUM": {
+              "-1.0": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.32117884598611296,
+                "share_MAE": 0.2141192306574086,
+                "normalized_HHI_absolute_error": 0.3948758883537941,
+                "leading_site_accuracy": 1.0
+              },
+              "-0.5": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.1554792836312785,
+                "share_MAE": 0.10365285575418566,
+                "normalized_HHI_absolute_error": 0.24778534517186523,
+                "leading_site_accuracy": 1.0
+              },
+              "0.0": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.06538568867657023,
+                "share_MAE": 0.04359045911771348,
+                "normalized_HHI_absolute_error": 0.09600512648563136,
+                "leading_site_accuracy": 1.0
+              },
+              "0.5": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.09894300021756981,
+                "share_MAE": 0.06596200014504654,
+                "normalized_HHI_absolute_error": 0.20428141976060707,
+                "leading_site_accuracy": 1.0
+              },
+              "1.0": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.14935117038120355,
+                "share_MAE": 0.09956744692080237,
+                "normalized_HHI_absolute_error": 0.3384338139857788,
+                "leading_site_accuracy": 1.0
+              }
+            },
+            "OBS_ROLLING": {
+              "-1.0": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.32613473756113703,
+                "share_MAE": 0.21742315837409135,
+                "normalized_HHI_absolute_error": 0.39056991142995195,
+                "leading_site_accuracy": 1.0
+              },
+              "-0.5": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.15797286036092759,
+                "share_MAE": 0.10531524024061839,
+                "normalized_HHI_absolute_error": 0.24937850553790006,
+                "leading_site_accuracy": 1.0
+              },
+              "0.0": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.06538568867657023,
+                "share_MAE": 0.04359045911771348,
+                "normalized_HHI_absolute_error": 0.09600512648563136,
+                "leading_site_accuracy": 1.0
+              },
+              "0.5": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.10004333073156624,
+                "share_MAE": 0.06669555382104415,
+                "normalized_HHI_absolute_error": 0.20684187739870752,
+                "leading_site_accuracy": 1.0
+              },
+              "1.0": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.15071985011691472,
+                "share_MAE": 0.10047990007794315,
+                "normalized_HHI_absolute_error": 0.3419267320743347,
+                "leading_site_accuracy": 1.0
+              }
+            },
+            "OBS_EXP": {
+              "-1.0": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.32530279621916597,
+                "share_MAE": 0.21686853081277727,
+                "normalized_HHI_absolute_error": 0.39133255814225887,
+                "leading_site_accuracy": 1.0
+              },
+              "-0.5": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.1578038085492156,
+                "share_MAE": 0.1052025390328104,
+                "normalized_HHI_absolute_error": 0.2490788445947568,
+                "leading_site_accuracy": 1.0
+              },
+              "0.0": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.06538568867657023,
+                "share_MAE": 0.04359045911771348,
+                "normalized_HHI_absolute_error": 0.09600512648563136,
+                "leading_site_accuracy": 1.0
+              },
+              "0.5": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.09988884253735571,
+                "share_MAE": 0.06659256169157048,
+                "normalized_HHI_absolute_error": 0.20651757477729016,
+                "leading_site_accuracy": 1.0
+              },
+              "1.0": {
+                "n": 96,
+                "availability": 1.0,
+                "share_vector_TV": 0.1505544992607065,
+                "share_MAE": 0.10036966617380431,
+                "normalized_HHI_absolute_error": 0.3415675482885989,
+                "leading_site_accuracy": 1.0
+              }
+            }
+          },
+          "nested": {
+            "OBS_CUM": {
+              "n": 94,
+              "insufficient_months": 2,
+              "modal_beta": "0.0",
+              "modal_share": 0.9574468085106383,
+              "tv": 0.06768043041668916,
+              "mae": 0.04512028694445944,
+              "hhi": 0.10258361253337728,
+              "leader": 1.0,
+              "m0_tv_same_months": 0.06434065578813256,
+              "persistence_tv_same_months": 0.07530393939591389,
+              "best_baseline": "fixed_equal_weight",
+              "best_baseline_tv_same_months": 0.05604680533759627,
+              "beta_counts": {
+                "0.0": 90,
+                "-0.5": 3,
+                "0.5": 1
+              }
+            },
+            "OBS_ROLLING": {
+              "n": 94,
+              "insufficient_months": 2,
+              "modal_beta": "0.0",
+              "modal_share": 0.9574468085106383,
+              "tv": 0.06764010304705632,
+              "mae": 0.04509340203137088,
+              "hhi": 0.10261891773191202,
+              "leader": 1.0,
+              "m0_tv_same_months": 0.06434065578813256,
+              "persistence_tv_same_months": 0.07530393939591389,
+              "best_baseline": "fixed_equal_weight",
+              "best_baseline_tv_same_months": 0.05604680533759627,
+              "beta_counts": {
+                "0.0": 90,
+                "-0.5": 3,
+                "0.5": 1
+              }
+            },
+            "OBS_EXP": {
+              "n": 94,
+              "insufficient_months": 2,
+              "modal_beta": "0.0",
+              "modal_share": 0.9574468085106383,
+              "tv": 0.06772793815107554,
+              "mae": 0.04515195876738369,
+              "hhi": 0.1026313704782662,
+              "leader": 1.0,
+              "m0_tv_same_months": 0.06434065578813256,
+              "persistence_tv_same_months": 0.07530393939591389,
+              "best_baseline": "fixed_equal_weight",
+              "best_baseline_tv_same_months": 0.05604680533759627,
+              "beta_counts": {
+                "0.0": 90,
+                "-0.5": 3,
+                "0.5": 1
+              }
+            }
+          },
+          "block_count": 8,
+          "block_m0_tv": [
+            0.05406167354195813,
+            0.04967682142353192,
+            0.058980850788316753,
+            0.05738967173284971,
+            0.06173455077689775,
+            0.09437041871258356,
+            0.05158187484967431,
+            0.09528964758674964
+          ],
+          "block_persistence_tv": [
+            0.08866728709587757,
+            0.07445953969849191,
+            0.06206420694383947,
+            0.04980621408006819,
+            0.056713450808546895,
+            0.10519949504865898,
+            0.05820141956446268,
+            0.11611158123489858
+          ],
+          "years": {
+            "2014": {
+              "M0": 0.05406167354195813,
+              "persistence": 0.08866728709587757
+            },
+            "2015": {
+              "M0": 0.04967682142353192,
+              "persistence": 0.07445953969849191
+            },
+            "2016": {
+              "M0": 0.058980850788316753,
+              "persistence": 0.06206420694383947
+            },
+            "2017": {
+              "M0": 0.05738967173284971,
+              "persistence": 0.04980621408006819
+            },
+            "2018": {
+              "M0": 0.06173455077689775,
+              "persistence": 0.056713450808546895
+            },
+            "2019": {
+              "M0": 0.09437041871258356,
+              "persistence": 0.10519949504865898
+            },
+            "2020": {
+              "M0": 0.05158187484967431,
+              "persistence": 0.05820141956446268
+            },
+            "2021": {
+              "M0": 0.09528964758674964,
+              "persistence": 0.11611158123489858
+            }
+          },
+          "span": "2014-01–2021-12"
+        }
+      }
+    },
+    {
+      "parent_area": "太魯閣國家公園",
+      "county": "花蓮縣",
+      "defined_months": 144,
+      "evaluable_months": 120,
+      "scenarios": {
+        "ex_post_max_information": {
+          "evaluable_months": 120,
+          "common_months": 120,
+          "models": {
+            "persistence": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.046330289665962705,
+              "share_MAE": 0.030886859777308467,
+              "normalized_HHI_absolute_error": 0.055237932271847937,
+              "leading_site_accuracy": 0.9666666666666667
+            },
+            "same_month_last_year": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.0912200378058868,
+              "share_MAE": 0.060813358537257875,
+              "normalized_HHI_absolute_error": 0.11086189256643562,
+              "leading_site_accuracy": 0.95
+            },
+            "seasonal_month_mean": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.14513644104346463,
+              "share_MAE": 0.09675762736230972,
+              "normalized_HHI_absolute_error": 0.15181791776046982,
+              "leading_site_accuracy": 0.9833333333333333
+            },
+            "trailing_3_mean": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.04775695143012017,
+              "share_MAE": 0.03183796762008011,
+              "normalized_HHI_absolute_error": 0.06009568565592084,
+              "leading_site_accuracy": 0.9833333333333333
+            },
+            "trailing_12_mean": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.05833720649117174,
+              "share_MAE": 0.038891470994114496,
+              "normalized_HHI_absolute_error": 0.0734794414053814,
+              "leading_site_accuracy": 0.9833333333333333
+            },
+            "fixed_equal_weight": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.07974079289541743,
+              "share_MAE": 0.05316052859694495,
+              "normalized_HHI_absolute_error": 0.08864797693575126,
+              "leading_site_accuracy": 0.9833333333333333
+            },
+            "uniform_reference": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.3525208252486682,
+              "share_MAE": 0.23501388349911212,
+              "normalized_HHI_absolute_error": 0.3180008087662174,
+              "leading_site_accuracy": null
+            },
+            "M0": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.13228148260600292,
+              "share_MAE": 0.08818765507066861,
+              "normalized_HHI_absolute_error": 0.1392994873693879,
+              "leading_site_accuracy": 0.9833333333333333
+            }
+          },
+          "m0_minus_baseline_tv": {
+            "persistence": 0.08595119294004022,
+            "same_month_last_year": 0.041061444800116115,
+            "seasonal_month_mean": -0.012854958437461705,
+            "trailing_3_mean": 0.08452453117588275,
+            "trailing_12_mean": 0.07394427611483118,
+            "fixed_equal_weight": 0.052540689710585495,
+            "uniform_reference": -0.22023934264266526
+          },
+          "grid": {
+            "OBS_CUM": {
+              "-1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.3790952161629316,
+                "share_MAE": 0.2527301441086211,
+                "normalized_HHI_absolute_error": 0.2934756215067239,
+                "leading_site_accuracy": 0.016666666666666666
+              },
+              "-0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.2347450989020092,
+                "share_MAE": 0.15649673260133948,
+                "normalized_HHI_absolute_error": 0.24700965455956442,
+                "leading_site_accuracy": 0.9833333333333333
+              },
+              "0.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.13228148260600292,
+                "share_MAE": 0.08818765507066861,
+                "normalized_HHI_absolute_error": 0.1392994873693879,
+                "leading_site_accuracy": 0.9833333333333333
+              },
+              "0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.12492122638609185,
+                "share_MAE": 0.08328081759072789,
+                "normalized_HHI_absolute_error": 0.15271540581107068,
+                "leading_site_accuracy": 0.9833333333333333
+              },
+              "1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.18078666975755578,
+                "share_MAE": 0.12052444650503719,
+                "normalized_HHI_absolute_error": 0.29633350520591556,
+                "leading_site_accuracy": 0.9833333333333333
+              }
+            },
+            "OBS_ROLLING": {
+              "-1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.40624107507353807,
+                "share_MAE": 0.2708273833823587,
+                "normalized_HHI_absolute_error": 0.24666503002460485,
+                "leading_site_accuracy": 0.09166666666666666
+              },
+              "-0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.24955292177926383,
+                "share_MAE": 0.16636861451950924,
+                "normalized_HHI_absolute_error": 0.23469850168675102,
+                "leading_site_accuracy": 0.8333333333333334
+              },
+              "0.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.13228148260600292,
+                "share_MAE": 0.08818765507066861,
+                "normalized_HHI_absolute_error": 0.1392994873693879,
+                "leading_site_accuracy": 0.9833333333333333
+              },
+              "0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.10861367970472019,
+                "share_MAE": 0.07240911980314681,
+                "normalized_HHI_absolute_error": 0.1419784602884105,
+                "leading_site_accuracy": 0.9833333333333333
+              },
+              "1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.17220308212820087,
+                "share_MAE": 0.11480205475213394,
+                "normalized_HHI_absolute_error": 0.2904613413854371,
+                "leading_site_accuracy": 0.9833333333333333
+              }
+            },
+            "OBS_EXP": {
+              "-1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.39847656097093864,
+                "share_MAE": 0.26565104064729245,
+                "normalized_HHI_absolute_error": 0.2615145804283482,
+                "leading_site_accuracy": 0.075
+              },
+              "-0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.24494782770977078,
+                "share_MAE": 0.16329855180651387,
+                "normalized_HHI_absolute_error": 0.23863772934144348,
+                "leading_site_accuracy": 0.9833333333333333
+              },
+              "0.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.13228148260600292,
+                "share_MAE": 0.08818765507066861,
+                "normalized_HHI_absolute_error": 0.1392994873693879,
+                "leading_site_accuracy": 0.9833333333333333
+              },
+              "0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.11102012011590243,
+                "share_MAE": 0.07401341341060162,
+                "normalized_HHI_absolute_error": 0.1426424075720117,
+                "leading_site_accuracy": 0.9833333333333333
+              },
+              "1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.17167752387994786,
+                "share_MAE": 0.11445168258663191,
+                "normalized_HHI_absolute_error": 0.28680277074393784,
+                "leading_site_accuracy": 0.9833333333333333
+              }
+            }
+          },
+          "nested": {
+            "OBS_CUM": {
+              "n": 120,
+              "insufficient_months": 0,
+              "modal_beta": "0.5",
+              "modal_share": 0.48333333333333334,
+              "tv": 0.09383115040955872,
+              "mae": 0.06255410027303915,
+              "hhi": 0.10462581409980529,
+              "leader": 0.9833333333333333,
+              "m0_tv_same_months": 0.13228148260600292,
+              "persistence_tv_same_months": 0.046330289665962705,
+              "best_baseline": "persistence",
+              "best_baseline_tv_same_months": 0.046330289665962705,
+              "beta_counts": {
+                "0.0": 45,
+                "-0.5": 6,
+                "0.5": 58,
+                "1.0": 11
+              }
+            },
+            "OBS_ROLLING": {
+              "n": 120,
+              "insufficient_months": 0,
+              "modal_beta": "0.5",
+              "modal_share": 0.5916666666666667,
+              "tv": 0.08567929074208097,
+              "mae": 0.05711952716138732,
+              "hhi": 0.09369913274393937,
+              "leader": 0.9833333333333333,
+              "m0_tv_same_months": 0.13228148260600292,
+              "persistence_tv_same_months": 0.046330289665962705,
+              "best_baseline": "persistence",
+              "best_baseline_tv_same_months": 0.046330289665962705,
+              "beta_counts": {
+                "0.0": 49,
+                "0.5": 71
+              }
+            },
+            "OBS_EXP": {
+              "n": 120,
+              "insufficient_months": 0,
+              "modal_beta": "0.5",
+              "modal_share": 0.5916666666666667,
+              "tv": 0.08644654213731998,
+              "mae": 0.057631028091546646,
+              "hhi": 0.09350659907923779,
+              "leader": 0.9833333333333333,
+              "m0_tv_same_months": 0.13228148260600292,
+              "persistence_tv_same_months": 0.046330289665962705,
+              "best_baseline": "persistence",
+              "best_baseline_tv_same_months": 0.046330289665962705,
+              "beta_counts": {
+                "0.0": 46,
+                "-0.5": 3,
+                "0.5": 71
+              }
+            }
+          },
+          "block_count": 10,
+          "block_m0_tv": [
+            0.08341514029216078,
+            0.07634302107400043,
+            0.04951326295619341,
+            0.12418872333402653,
+            0.13793929128115998,
+            0.1558609235871378,
+            0.17776607430821578,
+            0.18393221742636004,
+            0.15963811972234754,
+            0.17421805207842703
+          ],
+          "block_persistence_tv": [
+            0.055498351913014506,
+            0.05140157875699488,
+            0.04272217931225338,
+            0.05490549056624206,
+            0.02078754273293045,
+            0.036490521532977,
+            0.024589382530331546,
+            0.06380164508065359,
+            0.06678757205560615,
+            0.04631863217862343
+          ],
+          "years": {
+            "2014": {
+              "M0": 0.08341514029216078,
+              "persistence": 0.055498351913014506
+            },
+            "2015": {
+              "M0": 0.07634302107400043,
+              "persistence": 0.05140157875699488
+            },
+            "2016": {
+              "M0": 0.04951326295619341,
+              "persistence": 0.04272217931225338
+            },
+            "2017": {
+              "M0": 0.12418872333402653,
+              "persistence": 0.05490549056624206
+            },
+            "2018": {
+              "M0": 0.13793929128115998,
+              "persistence": 0.02078754273293045
+            },
+            "2019": {
+              "M0": 0.1558609235871378,
+              "persistence": 0.036490521532977
+            },
+            "2020": {
+              "M0": 0.17776607430821578,
+              "persistence": 0.024589382530331546
+            },
+            "2021": {
+              "M0": 0.18393221742636004,
+              "persistence": 0.06380164508065359
+            },
+            "2022": {
+              "M0": 0.15963811972234754,
+              "persistence": 0.06678757205560615
+            },
+            "2023": {
+              "M0": 0.17421805207842703,
+              "persistence": 0.04631863217862343
+            }
+          },
+          "span": "2014-01–2023-12"
+        },
+        "assumed_publication_delay": {
+          "evaluable_months": 120,
+          "common_months": 120,
+          "models": {
+            "persistence": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.06554193638259438,
+              "share_MAE": 0.043694624255062924,
+              "normalized_HHI_absolute_error": 0.08091792653041097,
+              "leading_site_accuracy": 0.9583333333333334
+            },
+            "same_month_last_year": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.0912200378058868,
+              "share_MAE": 0.060813358537257875,
+              "normalized_HHI_absolute_error": 0.11086189256643562,
+              "leading_site_accuracy": 0.95
+            },
+            "seasonal_month_mean": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.14513644104346463,
+              "share_MAE": 0.09675762736230972,
+              "normalized_HHI_absolute_error": 0.15181791776046982,
+              "leading_site_accuracy": 0.9833333333333333
+            },
+            "trailing_3_mean": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.06371995985454847,
+              "share_MAE": 0.04247997323636565,
+              "normalized_HHI_absolute_error": 0.0822386958678635,
+              "leading_site_accuracy": 0.9833333333333333
+            },
+            "trailing_12_mean": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.06431607886169317,
+              "share_MAE": 0.04287738590779545,
+              "normalized_HHI_absolute_error": 0.08433537421913594,
+              "leading_site_accuracy": 0.9833333333333333
+            },
+            "fixed_equal_weight": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.08540351055369202,
+              "share_MAE": 0.056935673702461345,
+              "normalized_HHI_absolute_error": 0.09415709890902277,
+              "leading_site_accuracy": 0.9833333333333333
+            },
+            "uniform_reference": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.3525208252486682,
+              "share_MAE": 0.23501388349911212,
+              "normalized_HHI_absolute_error": 0.3180008087662174,
+              "leading_site_accuracy": null
+            },
+            "M0": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.13544759480221086,
+              "share_MAE": 0.09029839653480723,
+              "normalized_HHI_absolute_error": 0.14200979199593852,
+              "leading_site_accuracy": 0.9833333333333333
+            }
+          },
+          "m0_minus_baseline_tv": {
+            "persistence": 0.06990565841961648,
+            "same_month_last_year": 0.04422755699632405,
+            "seasonal_month_mean": -0.009688846241253768,
+            "trailing_3_mean": 0.07172763494766239,
+            "trailing_12_mean": 0.07113151594051768,
+            "fixed_equal_weight": 0.05004408424851883,
+            "uniform_reference": -0.21707323044645732
+          },
+          "grid": {
+            "OBS_CUM": {
+              "-1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.37993608012559116,
+                "share_MAE": 0.25329072008372744,
+                "normalized_HHI_absolute_error": 0.29339493430330527,
+                "leading_site_accuracy": 0.016666666666666666
+              },
+              "-0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.23611241761879528,
+                "share_MAE": 0.15740827841253016,
+                "normalized_HHI_absolute_error": 0.2472502064708424,
+                "leading_site_accuracy": 0.9833333333333333
+              },
+              "0.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.13544759480221086,
+                "share_MAE": 0.09029839653480723,
+                "normalized_HHI_absolute_error": 0.14200979199593852,
+                "leading_site_accuracy": 0.9833333333333333
+              },
+              "0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.1270915833086614,
+                "share_MAE": 0.08472772220577428,
+                "normalized_HHI_absolute_error": 0.1553294381715971,
+                "leading_site_accuracy": 0.9833333333333333
+              },
+              "1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.18063298968520208,
+                "share_MAE": 0.12042199312346807,
+                "normalized_HHI_absolute_error": 0.2954157233530595,
+                "leading_site_accuracy": 0.9833333333333333
+              }
+            },
+            "OBS_ROLLING": {
+              "-1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.4053097840071638,
+                "share_MAE": 0.27020652267144246,
+                "normalized_HHI_absolute_error": 0.24974959804245245,
+                "leading_site_accuracy": 0.125
+              },
+              "-0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.25015273119404924,
+                "share_MAE": 0.16676848746269948,
+                "normalized_HHI_absolute_error": 0.23457800538892715,
+                "leading_site_accuracy": 0.8333333333333334
+              },
+              "0.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.13544759480221086,
+                "share_MAE": 0.09029839653480723,
+                "normalized_HHI_absolute_error": 0.14200979199593852,
+                "leading_site_accuracy": 0.9833333333333333
+              },
+              "0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.11073107029146059,
+                "share_MAE": 0.0738207135276404,
+                "normalized_HHI_absolute_error": 0.14362111355285082,
+                "leading_site_accuracy": 0.9833333333333333
+              },
+              "1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.1700416711006446,
+                "share_MAE": 0.11336111406709641,
+                "normalized_HHI_absolute_error": 0.28513418770629706,
+                "leading_site_accuracy": 0.9833333333333333
+              }
+            },
+            "OBS_EXP": {
+              "-1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.3978782530208168,
+                "share_MAE": 0.2652521686805445,
+                "normalized_HHI_absolute_error": 0.26345675745925645,
+                "leading_site_accuracy": 0.075
+              },
+              "-0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.24555902793186135,
+                "share_MAE": 0.1637060186212409,
+                "normalized_HHI_absolute_error": 0.23910731697005635,
+                "leading_site_accuracy": 0.9833333333333333
+              },
+              "0.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.13544759480221086,
+                "share_MAE": 0.09029839653480723,
+                "normalized_HHI_absolute_error": 0.14200979199593852,
+                "leading_site_accuracy": 0.9833333333333333
+              },
+              "0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.11377342630441006,
+                "share_MAE": 0.0758489508696067,
+                "normalized_HHI_absolute_error": 0.14529825251478296,
+                "leading_site_accuracy": 0.9833333333333333
+              },
+              "1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.17125894706539344,
+                "share_MAE": 0.11417263137692894,
+                "normalized_HHI_absolute_error": 0.2842896029721992,
+                "leading_site_accuracy": 0.9833333333333333
+              }
+            }
+          },
+          "nested": {
+            "OBS_CUM": {
+              "n": 118,
+              "insufficient_months": 2,
+              "modal_beta": "0.5",
+              "modal_share": 0.4661016949152542,
+              "tv": 0.09588847430671942,
+              "mae": 0.06392564953781295,
+              "hhi": 0.11102496064577762,
+              "leader": 0.9830508474576272,
+              "m0_tv_same_months": 0.1369733664025594,
+              "persistence_tv_same_months": 0.06451547171508867,
+              "best_baseline": "trailing_3_mean",
+              "best_baseline_tv_same_months": 0.06265082807588984,
+              "beta_counts": {
+                "-0.5": 7,
+                "0.0": 42,
+                "0.5": 55,
+                "1.0": 14
+              }
+            },
+            "OBS_ROLLING": {
+              "n": 118,
+              "insufficient_months": 2,
+              "modal_beta": "0.5",
+              "modal_share": 0.6016949152542372,
+              "tv": 0.0888872811914414,
+              "mae": 0.05925818746096094,
+              "hhi": 0.09650564302409917,
+              "leader": 0.9830508474576272,
+              "m0_tv_same_months": 0.1369733664025594,
+              "persistence_tv_same_months": 0.06451547171508867,
+              "best_baseline": "trailing_3_mean",
+              "best_baseline_tv_same_months": 0.06265082807588984,
+              "beta_counts": {
+                "0.0": 46,
+                "-0.5": 1,
+                "0.5": 71
+              }
+            },
+            "OBS_EXP": {
+              "n": 118,
+              "insufficient_months": 2,
+              "modal_beta": "0.5",
+              "modal_share": 0.5932203389830508,
+              "tv": 0.09003486463429657,
+              "mae": 0.06002324308953104,
+              "hhi": 0.09933020606918588,
+              "leader": 0.9830508474576272,
+              "m0_tv_same_months": 0.1369733664025594,
+              "persistence_tv_same_months": 0.06451547171508867,
+              "best_baseline": "trailing_3_mean",
+              "best_baseline_tv_same_months": 0.06265082807588984,
+              "beta_counts": {
+                "-0.5": 8,
+                "0.0": 39,
+                "0.5": 70,
+                "1.0": 1
+              }
+            }
+          },
+          "block_count": 10,
+          "block_m0_tv": [
+            0.08812308086867998,
+            0.08000070863177836,
+            0.05087036893943749,
+            0.12777780156732757,
+            0.14130872206024164,
+            0.15931774650232436,
+            0.1812873954099625,
+            0.18710812522194206,
+            0.16188443117891343,
+            0.17679756764150115
+          ],
+          "block_persistence_tv": [
+            0.09454118940985358,
+            0.054004987958151146,
+            0.047899598472622096,
+            0.09295765047087155,
+            0.03798841836379962,
+            0.037507391120379756,
+            0.04560725746424241,
+            0.09636945023532989,
+            0.0955126238979422,
+            0.05303079643275163
+          ],
+          "years": {
+            "2014": {
+              "M0": 0.08812308086867998,
+              "persistence": 0.09454118940985358
+            },
+            "2015": {
+              "M0": 0.08000070863177836,
+              "persistence": 0.054004987958151146
+            },
+            "2016": {
+              "M0": 0.05087036893943749,
+              "persistence": 0.047899598472622096
+            },
+            "2017": {
+              "M0": 0.12777780156732757,
+              "persistence": 0.09295765047087155
+            },
+            "2018": {
+              "M0": 0.14130872206024164,
+              "persistence": 0.03798841836379962
+            },
+            "2019": {
+              "M0": 0.15931774650232436,
+              "persistence": 0.037507391120379756
+            },
+            "2020": {
+              "M0": 0.1812873954099625,
+              "persistence": 0.04560725746424241
+            },
+            "2021": {
+              "M0": 0.18710812522194206,
+              "persistence": 0.09636945023532989
+            },
+            "2022": {
+              "M0": 0.16188443117891343,
+              "persistence": 0.0955126238979422
+            },
+            "2023": {
+              "M0": 0.17679756764150115,
+              "persistence": 0.05303079643275163
+            }
+          },
+          "span": "2014-01–2023-12"
+        }
+      }
+    },
+    {
+      "parent_area": "雪霸國家公園",
+      "county": "苗栗縣",
+      "defined_months": 144,
+      "evaluable_months": 120,
+      "scenarios": {
+        "ex_post_max_information": {
+          "evaluable_months": 120,
+          "common_months": 120,
+          "models": {
+            "persistence": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.07679639923823887,
+              "share_MAE": 0.051197599492159254,
+              "normalized_HHI_absolute_error": 0.11049031555511839,
+              "leading_site_accuracy": 0.9833333333333333
+            },
+            "same_month_last_year": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.09400286683638152,
+              "share_MAE": 0.06266857789092102,
+              "normalized_HHI_absolute_error": 0.1391200522097572,
+              "leading_site_accuracy": 0.9833333333333333
+            },
+            "seasonal_month_mean": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.0876885286535454,
+              "share_MAE": 0.0584590191023636,
+              "normalized_HHI_absolute_error": 0.1279401206285049,
+              "leading_site_accuracy": 0.9916666666666667
+            },
+            "trailing_3_mean": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.08059416856898022,
+              "share_MAE": 0.05372944571265348,
+              "normalized_HHI_absolute_error": 0.11689768214897929,
+              "leading_site_accuracy": 0.9916666666666667
+            },
+            "trailing_12_mean": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.07572722873393821,
+              "share_MAE": 0.05048481915595881,
+              "normalized_HHI_absolute_error": 0.1098119408115505,
+              "leading_site_accuracy": 0.9916666666666667
+            },
+            "fixed_equal_weight": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.06446911036390861,
+              "share_MAE": 0.0429794069092724,
+              "normalized_HHI_absolute_error": 0.09068558645242734,
+              "leading_site_accuracy": 0.9916666666666667
+            },
+            "uniform_reference": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.35863860808070486,
+              "share_MAE": 0.23909240538713655,
+              "normalized_HHI_absolute_error": 0.30973993377519654,
+              "leading_site_accuracy": null
+            },
+            "M0": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.07875050372609492,
+              "share_MAE": 0.05250033581739662,
+              "normalized_HHI_absolute_error": 0.11326753840729349,
+              "leading_site_accuracy": 0.9916666666666667
+            }
+          },
+          "m0_minus_baseline_tv": {
+            "persistence": 0.0019541044878560454,
+            "same_month_last_year": -0.015252363110286604,
+            "seasonal_month_mean": -0.00893802492745048,
+            "trailing_3_mean": -0.001843664842885298,
+            "trailing_12_mean": 0.0030232749921567104,
+            "fixed_equal_weight": 0.014281393362186312,
+            "uniform_reference": -0.2798881043546099
+          },
+          "grid": {
+            "OBS_CUM": {
+              "-1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.30100528932266,
+                "share_MAE": 0.20067019288177335,
+                "normalized_HHI_absolute_error": 0.29854373167508647,
+                "leading_site_accuracy": 0.9916666666666667
+              },
+              "-0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.13144404386526098,
+                "share_MAE": 0.08762936257684066,
+                "normalized_HHI_absolute_error": 0.18289540538600105,
+                "leading_site_accuracy": 0.9916666666666667
+              },
+              "0.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.07875050372609492,
+                "share_MAE": 0.05250033581739662,
+                "normalized_HHI_absolute_error": 0.11326753840729349,
+                "leading_site_accuracy": 0.9916666666666667
+              },
+              "0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.17024093490424883,
+                "share_MAE": 0.11349395660283254,
+                "normalized_HHI_absolute_error": 0.3180864594332514,
+                "leading_site_accuracy": 0.9916666666666667
+              },
+              "1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.23773585058471858,
+                "share_MAE": 0.15849056705647904,
+                "normalized_HHI_absolute_error": 0.4882636595721145,
+                "leading_site_accuracy": 0.9916666666666667
+              }
+            },
+            "OBS_ROLLING": {
+              "-1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.3020635240569887,
+                "share_MAE": 0.20137568270465916,
+                "normalized_HHI_absolute_error": 0.2964680300691708,
+                "leading_site_accuracy": 0.8583333333333333
+              },
+              "-0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.13279045704091444,
+                "share_MAE": 0.08852697136060962,
+                "normalized_HHI_absolute_error": 0.18284745553028972,
+                "leading_site_accuracy": 0.9916666666666667
+              },
+              "0.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.07875050372609492,
+                "share_MAE": 0.05250033581739662,
+                "normalized_HHI_absolute_error": 0.11326753840729349,
+                "leading_site_accuracy": 0.9916666666666667
+              },
+              "0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.1702377002656125,
+                "share_MAE": 0.11349180017707501,
+                "normalized_HHI_absolute_error": 0.31814092292854124,
+                "leading_site_accuracy": 0.9916666666666667
+              },
+              "1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.23768857818861075,
+                "share_MAE": 0.1584590521257405,
+                "normalized_HHI_absolute_error": 0.4881448983161175,
+                "leading_site_accuracy": 0.9916666666666667
+              }
+            },
+            "OBS_EXP": {
+              "-1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.30143951940617036,
+                "share_MAE": 0.20095967960411354,
+                "normalized_HHI_absolute_error": 0.29769991618790304,
+                "leading_site_accuracy": 0.8583333333333333
+              },
+              "-0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.1319555398277035,
+                "share_MAE": 0.08797035988513567,
+                "normalized_HHI_absolute_error": 0.1828821435817042,
+                "leading_site_accuracy": 0.9916666666666667
+              },
+              "0.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.07875050372609492,
+                "share_MAE": 0.05250033581739662,
+                "normalized_HHI_absolute_error": 0.11326753840729349,
+                "leading_site_accuracy": 0.9916666666666667
+              },
+              "0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.17030243383110671,
+                "share_MAE": 0.11353495588740449,
+                "normalized_HHI_absolute_error": 0.3182587148864929,
+                "leading_site_accuracy": 0.9916666666666667
+              },
+              "1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.23782735427554172,
+                "share_MAE": 0.15855156951702784,
+                "normalized_HHI_absolute_error": 0.48849744201498363,
+                "leading_site_accuracy": 0.9916666666666667
+              }
+            }
+          },
+          "nested": {
+            "OBS_CUM": {
+              "n": 120,
+              "insufficient_months": 0,
+              "modal_beta": "0.0",
+              "modal_share": 0.8166666666666667,
+              "tv": 0.08385599788754343,
+              "mae": 0.05590399859169562,
+              "hhi": 0.12304049313021331,
+              "leader": 0.9916666666666667,
+              "m0_tv_same_months": 0.07875050372609492,
+              "persistence_tv_same_months": 0.07679639923823887,
+              "best_baseline": "fixed_equal_weight",
+              "best_baseline_tv_same_months": 0.06446911036390861,
+              "beta_counts": {
+                "0.5": 8,
+                "0.0": 98,
+                "-0.5": 14
+              }
+            },
+            "OBS_ROLLING": {
+              "n": 120,
+              "insufficient_months": 0,
+              "modal_beta": "0.0",
+              "modal_share": 0.825,
+              "tv": 0.08323556696352896,
+              "mae": 0.05549037797568598,
+              "hhi": 0.1211557046601862,
+              "leader": 0.9916666666666667,
+              "m0_tv_same_months": 0.07875050372609492,
+              "persistence_tv_same_months": 0.07679639923823887,
+              "best_baseline": "fixed_equal_weight",
+              "best_baseline_tv_same_months": 0.06446911036390861,
+              "beta_counts": {
+                "0.5": 8,
+                "0.0": 99,
+                "-0.5": 13
+              }
+            },
+            "OBS_EXP": {
+              "n": 120,
+              "insufficient_months": 0,
+              "modal_beta": "0.0",
+              "modal_share": 0.825,
+              "tv": 0.08274305674044108,
+              "mae": 0.055162037826960726,
+              "hhi": 0.12117341889740371,
+              "leader": 0.9916666666666667,
+              "m0_tv_same_months": 0.07875050372609492,
+              "persistence_tv_same_months": 0.07679639923823887,
+              "best_baseline": "fixed_equal_weight",
+              "best_baseline_tv_same_months": 0.06446911036390861,
+              "beta_counts": {
+                "0.5": 8,
+                "0.0": 99,
+                "-0.5": 13
+              }
+            }
+          },
+          "block_count": 10,
+          "block_m0_tv": [
+            0.07981520551827527,
+            0.06771199870699708,
+            0.0832601618852495,
+            0.06771646196106575,
+            0.051337685802352234,
+            0.046109526976851965,
+            0.0661419590903863,
+            0.14514610799831726,
+            0.12554561181853635,
+            0.05472031750291751
+          ],
+          "block_persistence_tv": [
+            0.10203166757046817,
+            0.0912401399836314,
+            0.07694341040180987,
+            0.05553806573927605,
+            0.06596309795431649,
+            0.052149863089984226,
+            0.04862571133296484,
+            0.14640865133608377,
+            0.07199691085636277,
+            0.05706647411749122
+          ],
+          "years": {
+            "2014": {
+              "M0": 0.07981520551827527,
+              "persistence": 0.10203166757046817
+            },
+            "2015": {
+              "M0": 0.06771199870699708,
+              "persistence": 0.0912401399836314
+            },
+            "2016": {
+              "M0": 0.0832601618852495,
+              "persistence": 0.07694341040180987
+            },
+            "2017": {
+              "M0": 0.06771646196106575,
+              "persistence": 0.05553806573927605
+            },
+            "2018": {
+              "M0": 0.051337685802352234,
+              "persistence": 0.06596309795431649
+            },
+            "2019": {
+              "M0": 0.046109526976851965,
+              "persistence": 0.052149863089984226
+            },
+            "2020": {
+              "M0": 0.0661419590903863,
+              "persistence": 0.04862571133296484
+            },
+            "2021": {
+              "M0": 0.14514610799831726,
+              "persistence": 0.14640865133608377
+            },
+            "2022": {
+              "M0": 0.12554561181853635,
+              "persistence": 0.07199691085636277
+            },
+            "2023": {
+              "M0": 0.05472031750291751,
+              "persistence": 0.05706647411749122
+            }
+          },
+          "span": "2014-01–2023-12"
+        },
+        "assumed_publication_delay": {
+          "evaluable_months": 120,
+          "common_months": 120,
+          "models": {
+            "persistence": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.10434889765914031,
+              "share_MAE": 0.0695659317727602,
+              "normalized_HHI_absolute_error": 0.15072964257473156,
+              "leading_site_accuracy": 0.9833333333333333
+            },
+            "same_month_last_year": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.09400286683638152,
+              "share_MAE": 0.06266857789092102,
+              "normalized_HHI_absolute_error": 0.1391200522097572,
+              "leading_site_accuracy": 0.9833333333333333
+            },
+            "seasonal_month_mean": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.0876885286535454,
+              "share_MAE": 0.0584590191023636,
+              "normalized_HHI_absolute_error": 0.1279401206285049,
+              "leading_site_accuracy": 0.9916666666666667
+            },
+            "trailing_3_mean": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.09093375325277474,
+              "share_MAE": 0.060622502168516494,
+              "normalized_HHI_absolute_error": 0.13079746744581464,
+              "leading_site_accuracy": 0.9916666666666667
+            },
+            "trailing_12_mean": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.08060394535331124,
+              "share_MAE": 0.053735963568874154,
+              "normalized_HHI_absolute_error": 0.11857230321052165,
+              "leading_site_accuracy": 0.9916666666666667
+            },
+            "fixed_equal_weight": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.07853413412539623,
+              "share_MAE": 0.052356089416930825,
+              "normalized_HHI_absolute_error": 0.11273061017334653,
+              "leading_site_accuracy": 0.9916666666666667
+            },
+            "uniform_reference": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.35863860808070486,
+              "share_MAE": 0.23909240538713655,
+              "normalized_HHI_absolute_error": 0.30973993377519654,
+              "leading_site_accuracy": null
+            },
+            "M0": {
+              "n": 120,
+              "availability": 1.0,
+              "share_vector_TV": 0.0797612582893776,
+              "share_MAE": 0.0531741721929184,
+              "normalized_HHI_absolute_error": 0.11528799454190444,
+              "leading_site_accuracy": 0.9916666666666667
+            }
+          },
+          "m0_minus_baseline_tv": {
+            "persistence": -0.0245876393697627,
+            "same_month_last_year": -0.014241608547003917,
+            "seasonal_month_mean": -0.007927270364167793,
+            "trailing_3_mean": -0.011172494963397131,
+            "trailing_12_mean": -0.0008426870639336309,
+            "fixed_equal_weight": 0.0012271241639813801,
+            "uniform_reference": -0.2788773497913273
+          },
+          "grid": {
+            "OBS_CUM": {
+              "-1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.2995411366692126,
+                "share_MAE": 0.19969409111280842,
+                "normalized_HHI_absolute_error": 0.298025490109398,
+                "leading_site_accuracy": 0.9916666666666667
+              },
+              "-0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.13059821798677768,
+                "share_MAE": 0.08706547865785179,
+                "normalized_HHI_absolute_error": 0.18187965834041128,
+                "leading_site_accuracy": 0.9916666666666667
+              },
+              "0.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.0797612582893776,
+                "share_MAE": 0.0531741721929184,
+                "normalized_HHI_absolute_error": 0.11528799454190444,
+                "leading_site_accuracy": 0.9916666666666667
+              },
+              "0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.17103091448191882,
+                "share_MAE": 0.11402060965461254,
+                "normalized_HHI_absolute_error": 0.3199800535253089,
+                "leading_site_accuracy": 0.9916666666666667
+              },
+              "1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.23815581379489698,
+                "share_MAE": 0.1587705425299313,
+                "normalized_HHI_absolute_error": 0.4893894927855454,
+                "leading_site_accuracy": 0.9916666666666667
+              }
+            },
+            "OBS_ROLLING": {
+              "-1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.30074626513431707,
+                "share_MAE": 0.2004975100895447,
+                "normalized_HHI_absolute_error": 0.29592126360338,
+                "leading_site_accuracy": 0.8666666666666667
+              },
+              "-0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.1317196866355816,
+                "share_MAE": 0.08781312442372105,
+                "normalized_HHI_absolute_error": 0.18186592765811135,
+                "leading_site_accuracy": 0.9916666666666667
+              },
+              "0.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.0797612582893776,
+                "share_MAE": 0.0531741721929184,
+                "normalized_HHI_absolute_error": 0.11528799454190444,
+                "leading_site_accuracy": 0.9916666666666667
+              },
+              "0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.17106082686741547,
+                "share_MAE": 0.11404055124494364,
+                "normalized_HHI_absolute_error": 0.3200449203758946,
+                "leading_site_accuracy": 0.9916666666666667
+              },
+              "1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.23811564941230667,
+                "share_MAE": 0.1587437662748711,
+                "normalized_HHI_absolute_error": 0.48928987997007045,
+                "leading_site_accuracy": 0.9916666666666667
+              }
+            },
+            "OBS_EXP": {
+              "-1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.30003611658432056,
+                "share_MAE": 0.2000240777228804,
+                "normalized_HHI_absolute_error": 0.29718409306441795,
+                "leading_site_accuracy": 0.875
+              },
+              "-0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.131022673168325,
+                "share_MAE": 0.08734844877888333,
+                "normalized_HHI_absolute_error": 0.1818689573828717,
+                "leading_site_accuracy": 0.9916666666666667
+              },
+              "0.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.0797612582893776,
+                "share_MAE": 0.0531741721929184,
+                "normalized_HHI_absolute_error": 0.11528799454190444,
+                "leading_site_accuracy": 0.9916666666666667
+              },
+              "0.5": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.17110031557333105,
+                "share_MAE": 0.11406687704888735,
+                "normalized_HHI_absolute_error": 0.32016027387656243,
+                "leading_site_accuracy": 0.9916666666666667
+              },
+              "1.0": {
+                "n": 120,
+                "availability": 1.0,
+                "share_vector_TV": 0.2382515409582163,
+                "share_MAE": 0.15883436063881087,
+                "normalized_HHI_absolute_error": 0.4896348081698534,
+                "leading_site_accuracy": 0.9916666666666667
+              }
+            }
+          },
+          "nested": {
+            "OBS_CUM": {
+              "n": 118,
+              "insufficient_months": 2,
+              "modal_beta": "0.0",
+              "modal_share": 0.8135593220338984,
+              "tv": 0.08258999225689459,
+              "mae": 0.055059994837929734,
+              "hhi": 0.11945091305615943,
+              "leader": 0.9915254237288136,
+              "m0_tv_same_months": 0.08027610645415068,
+              "persistence_tv_same_months": 0.10249348044068857,
+              "best_baseline": "fixed_equal_weight",
+              "best_baseline_tv_same_months": 0.07878301870961081,
+              "beta_counts": {
+                "0.5": 6,
+                "0.0": 96,
+                "-0.5": 16
+              }
+            },
+            "OBS_ROLLING": {
+              "n": 118,
+              "insufficient_months": 2,
+              "modal_beta": "0.0",
+              "modal_share": 0.8305084745762712,
+              "tv": 0.08248486958480326,
+              "mae": 0.05498991305653551,
+              "hhi": 0.11885791051950277,
+              "leader": 0.9915254237288136,
+              "m0_tv_same_months": 0.08027610645415068,
+              "persistence_tv_same_months": 0.10249348044068857,
+              "best_baseline": "fixed_equal_weight",
+              "best_baseline_tv_same_months": 0.07878301870961081,
+              "beta_counts": {
+                "0.5": 6,
+                "0.0": 98,
+                "-0.5": 14
+              }
+            },
+            "OBS_EXP": {
+              "n": 118,
+              "insufficient_months": 2,
+              "modal_beta": "0.0",
+              "modal_share": 0.8135593220338984,
+              "tv": 0.0828785750088476,
+              "mae": 0.055252383339231735,
+              "hhi": 0.1194560485833734,
+              "leader": 0.9915254237288136,
+              "m0_tv_same_months": 0.08027610645415068,
+              "persistence_tv_same_months": 0.10249348044068857,
+              "best_baseline": "fixed_equal_weight",
+              "best_baseline_tv_same_months": 0.07878301870961081,
+              "beta_counts": {
+                "0.5": 6,
+                "0.0": 96,
+                "-0.5": 16
+              }
+            }
+          },
+          "block_count": 10,
+          "block_m0_tv": [
+            0.08260784673425099,
+            0.06759191762766331,
+            0.08489009440559014,
+            0.06924774644066871,
+            0.051331268659684286,
+            0.04628707034578639,
+            0.06708306678533475,
+            0.1463683468729069,
+            0.12729869376942912,
+            0.05490653125246145
+          ],
+          "block_persistence_tv": [
+            0.12515205491280673,
+            0.10499873852760239,
+            0.1044086096908902,
+            0.09637511642645717,
+            0.0687338308850801,
+            0.0694835615380346,
+            0.07071021609294387,
+            0.22507065998870215,
+            0.09952902048531563,
+            0.0790271680435702
+          ],
+          "years": {
+            "2014": {
+              "M0": 0.08260784673425099,
+              "persistence": 0.12515205491280673
+            },
+            "2015": {
+              "M0": 0.06759191762766331,
+              "persistence": 0.10499873852760239
+            },
+            "2016": {
+              "M0": 0.08489009440559014,
+              "persistence": 0.1044086096908902
+            },
+            "2017": {
+              "M0": 0.06924774644066871,
+              "persistence": 0.09637511642645717
+            },
+            "2018": {
+              "M0": 0.051331268659684286,
+              "persistence": 0.0687338308850801
+            },
+            "2019": {
+              "M0": 0.04628707034578639,
+              "persistence": 0.0694835615380346
+            },
+            "2020": {
+              "M0": 0.06708306678533475,
+              "persistence": 0.07071021609294387
+            },
+            "2021": {
+              "M0": 0.1463683468729069,
+              "persistence": 0.22507065998870215
+            },
+            "2022": {
+              "M0": 0.12729869376942912,
+              "persistence": 0.09952902048531563
+            },
+            "2023": {
+              "M0": 0.05490653125246145,
+              "persistence": 0.0790271680435702
+            }
+          },
+          "span": "2014-01–2023-12"
+        }
+      }
+    }
+  ],
+  "read_paths": [
+    "data/curated/v4_forecast_panel_candidate.parquet",
+    "data/curated/v4_group_comparability.csv",
+    "data/curated/v4_canonical_site_crosswalk.csv",
+    "data/curated/v4_2024_identity_audit.csv",
+    "data/curated/v4_2024_priority_identity_review.csv",
+    "data/curated/v4_place_attribute_provenance.csv",
+    "觀光資料標準V2.1/AttractionFeeList.xml",
+    "觀光資料標準V2.1/AttractionServiceTimeList.xml"
+  ]
+}

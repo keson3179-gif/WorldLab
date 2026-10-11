@@ -1,0 +1,902 @@
+{
+  "record_type": "experiment_020_reporting_audit",
+  "writes_into_data": false,
+  "resimulated_worlds": false,
+  "recomputed_bootstrap": false,
+  "maintenance": {
+    "seed_files": 1000,
+    "conditions": {
+      "CUM_LOGMAX__q05": {
+        "EE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "EO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        }
+      },
+      "CUM_ZRAW__q05": {
+        "EE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "EO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        }
+      },
+      "RW50_LOGMAX__q05": {
+        "EE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "EO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        }
+      },
+      "RW50_ZRAW__q05": {
+        "EE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "EO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        }
+      },
+      "EXP99_LOGMAX__q05": {
+        "EE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "EO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        }
+      },
+      "EXP99_ZRAW__q05": {
+        "EE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "EO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        }
+      },
+      "CUM_LOGMAX__q15": {
+        "EE": {
+          "eligible_n": 979,
+          "maintained_n": 979,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {
+            "none": 979
+          },
+          "release_time": {
+            "none": 979
+          }
+        },
+        "EO": {
+          "eligible_n": 979,
+          "maintained_n": 0,
+          "released_n": 979,
+          "transfer_n": 0,
+          "original_exit": {
+            "51": 978,
+            "52": 1
+          },
+          "release_time": {
+            "51": 978,
+            "52": 1
+          }
+        },
+        "OE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        }
+      },
+      "CUM_ZRAW__q15": {
+        "EE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "EO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        }
+      },
+      "RW50_LOGMAX__q15": {
+        "EE": {
+          "eligible_n": 782,
+          "maintained_n": 780,
+          "released_n": 2,
+          "transfer_n": 0,
+          "original_exit": {
+            "none": 780,
+            "51": 2
+          },
+          "release_time": {
+            "none": 780,
+            "51": 2
+          }
+        },
+        "EO": {
+          "eligible_n": 782,
+          "maintained_n": 0,
+          "released_n": 782,
+          "transfer_n": 0,
+          "original_exit": {
+            "51": 781,
+            "52": 1
+          },
+          "release_time": {
+            "51": 781,
+            "52": 1
+          }
+        },
+        "OE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        }
+      },
+      "RW50_ZRAW__q15": {
+        "EE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "EO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        }
+      },
+      "EXP99_LOGMAX__q15": {
+        "EE": {
+          "eligible_n": 942,
+          "maintained_n": 941,
+          "released_n": 1,
+          "transfer_n": 0,
+          "original_exit": {
+            "none": 941,
+            "55": 1
+          },
+          "release_time": {
+            "none": 941,
+            "55": 1
+          }
+        },
+        "EO": {
+          "eligible_n": 942,
+          "maintained_n": 0,
+          "released_n": 942,
+          "transfer_n": 0,
+          "original_exit": {
+            "51": 941,
+            "52": 1
+          },
+          "release_time": {
+            "51": 941,
+            "52": 1
+          }
+        },
+        "OE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        }
+      },
+      "EXP99_ZRAW__q15": {
+        "EE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "EO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        }
+      },
+      "CUM_LOGMAX__q25": {
+        "EE": {
+          "eligible_n": 1000,
+          "maintained_n": 1000,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {
+            "none": 1000
+          },
+          "release_time": {
+            "none": 1000
+          }
+        },
+        "EO": {
+          "eligible_n": 1000,
+          "maintained_n": 0,
+          "released_n": 1000,
+          "transfer_n": 0,
+          "original_exit": {
+            "51": 999,
+            "52": 1
+          },
+          "release_time": {
+            "51": 999,
+            "52": 1
+          }
+        },
+        "OE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        }
+      },
+      "CUM_ZRAW__q25": {
+        "EE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "EO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        }
+      },
+      "RW50_LOGMAX__q25": {
+        "EE": {
+          "eligible_n": 998,
+          "maintained_n": 998,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {
+            "none": 998
+          },
+          "release_time": {
+            "none": 998
+          }
+        },
+        "EO": {
+          "eligible_n": 998,
+          "maintained_n": 0,
+          "released_n": 998,
+          "transfer_n": 0,
+          "original_exit": {
+            "51": 997,
+            "52": 1
+          },
+          "release_time": {
+            "51": 997,
+            "52": 1
+          }
+        },
+        "OE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        }
+      },
+      "RW50_ZRAW__q25": {
+        "EE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "EO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        }
+      },
+      "EXP99_LOGMAX__q25": {
+        "EE": {
+          "eligible_n": 1000,
+          "maintained_n": 1000,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {
+            "none": 1000
+          },
+          "release_time": {
+            "none": 1000
+          }
+        },
+        "EO": {
+          "eligible_n": 1000,
+          "maintained_n": 0,
+          "released_n": 1000,
+          "transfer_n": 0,
+          "original_exit": {
+            "51": 999,
+            "52": 1
+          },
+          "release_time": {
+            "51": 999,
+            "52": 1
+          }
+        },
+        "OE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        }
+      },
+      "EXP99_ZRAW__q25": {
+        "EE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "EO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OE": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        },
+        "OO": {
+          "eligible_n": 0,
+          "maintained_n": 0,
+          "released_n": 0,
+          "transfer_n": 0,
+          "original_exit": {},
+          "release_time": {}
+        }
+      }
+    }
+  },
+  "early_given_o": [
+    {
+      "contrast": "early_given_O_CUM_LOGMAX__q05",
+      "mean": 1.3087187500000209e-06,
+      "ci_low": -1.0016875000001813e-06,
+      "ci_high": 3.7177187500000432e-06,
+      "contains_zero": true,
+      "equivalence_criterion_defined": false
+    },
+    {
+      "contrast": "early_given_O_CUM_LOGMAX__q15",
+      "mean": 7.92500000001417e-08,
+      "ci_low": -6.929406249999742e-06,
+      "ci_high": 7.489843750000253e-06,
+      "contains_zero": true,
+      "equivalence_criterion_defined": false
+    },
+    {
+      "contrast": "early_given_O_CUM_LOGMAX__q25",
+      "mean": -4.638250000000566e-06,
+      "ci_low": -1.3367343750000814e-05,
+      "ci_high": 4.035218749999653e-06,
+      "contains_zero": true,
+      "equivalence_criterion_defined": false
+    },
+    {
+      "contrast": "early_given_O_CUM_ZRAW__q05",
+      "mean": 8.473125000000581e-07,
+      "ci_low": -1.8261562499999885e-06,
+      "ci_high": 3.5104062500002362e-06,
+      "contains_zero": true,
+      "equivalence_criterion_defined": false
+    },
+    {
+      "contrast": "early_given_O_CUM_ZRAW__q15",
+      "mean": 2.1957187499997146e-06,
+      "ci_low": -4.709437500000163e-06,
+      "ci_high": 9.148624999999687e-06,
+      "contains_zero": true,
+      "equivalence_criterion_defined": false
+    },
+    {
+      "contrast": "early_given_O_CUM_ZRAW__q25",
+      "mean": 5.262687499999613e-06,
+      "ci_low": -4.612968750000141e-06,
+      "ci_high": 1.5307374999999458e-05,
+      "contains_zero": true,
+      "equivalence_criterion_defined": false
+    },
+    {
+      "contrast": "early_given_O_EXP99_LOGMAX__q05",
+      "mean": 8.375937499998099e-07,
+      "ci_low": -1.7530000000003655e-06,
+      "ci_high": 3.5698749999993896e-06,
+      "contains_zero": true,
+      "equivalence_criterion_defined": false
+    },
+    {
+      "contrast": "early_given_O_EXP99_LOGMAX__q15",
+      "mean": -4.1868749999990353e-07,
+      "ci_low": -8.122406250000297e-06,
+      "ci_high": 7.478687500000608e-06,
+      "contains_zero": true,
+      "equivalence_criterion_defined": false
+    },
+    {
+      "contrast": "early_given_O_EXP99_LOGMAX__q25",
+      "mean": -1.4424062500007218e-06,
+      "ci_low": -1.1898812500000938e-05,
+      "ci_high": 9.182468749999395e-06,
+      "contains_zero": true,
+      "equivalence_criterion_defined": false
+    },
+    {
+      "contrast": "early_given_O_EXP99_ZRAW__q05",
+      "mean": -1.3937499999985835e-07,
+      "ci_low": -3.2693437499996534e-06,
+      "ci_high": 2.732031249999739e-06,
+      "contains_zero": true,
+      "equivalence_criterion_defined": false
+    },
+    {
+      "contrast": "early_given_O_EXP99_ZRAW__q15",
+      "mean": 2.3344062499994766e-06,
+      "ci_low": -4.661562500000937e-06,
+      "ci_high": 9.214593749999583e-06,
+      "contains_zero": true,
+      "equivalence_criterion_defined": false
+    },
+    {
+      "contrast": "early_given_O_EXP99_ZRAW__q25",
+      "mean": 1.3206593749999967e-05,
+      "ci_low": 2.0166250000004103e-06,
+      "ci_high": 2.4608343750000926e-05,
+      "contains_zero": false,
+      "equivalence_criterion_defined": false
+    },
+    {
+      "contrast": "early_given_O_RW50_LOGMAX__q05",
+      "mean": -1.2095312499998677e-06,
+      "ci_low": -4.026906249999934e-06,
+      "ci_high": 1.6527812500002626e-06,
+      "contains_zero": true,
+      "equivalence_criterion_defined": false
+    },
+    {
+      "contrast": "early_given_O_RW50_LOGMAX__q15",
+      "mean": -1.334374999999999e-07,
+      "ci_low": -6.133874999999956e-06,
+      "ci_high": 6.017687499999869e-06,
+      "contains_zero": true,
+      "equivalence_criterion_defined": false
+    },
+    {
+      "contrast": "early_given_O_RW50_LOGMAX__q25",
+      "mean": 7.158437500005832e-07,
+      "ci_low": -8.748437499999456e-06,
+      "ci_high": 9.81537500000057e-06,
+      "contains_zero": true,
+      "equivalence_criterion_defined": false
+    },
+    {
+      "contrast": "early_given_O_RW50_ZRAW__q05",
+      "mean": -7.189999999998031e-07,
+      "ci_low": -2.741499999999758e-06,
+      "ci_high": 1.2471562500000477e-06,
+      "contains_zero": true,
+      "equivalence_criterion_defined": false
+    },
+    {
+      "contrast": "early_given_O_RW50_ZRAW__q15",
+      "mean": -1.684906250000201e-06,
+      "ci_low": -7.421937500000364e-06,
+      "ci_high": 4.017499999999952e-06,
+      "contains_zero": true,
+      "equivalence_criterion_defined": false
+    },
+    {
+      "contrast": "early_given_O_RW50_ZRAW__q25",
+      "mean": 2.363125000000854e-07,
+      "ci_low": -8.840374999999901e-06,
+      "ci_high": 9.046687500000483e-06,
+      "contains_zero": true,
+      "equivalence_criterion_defined": false
+    }
+  ],
+  "field_gap": {
+    "display_name": "used–own field gap",
+    "operation": "mean(abs(used_field - recipient_own_field))",
+    "stored_field_names": [
+      "field_gap_t1_50",
+      "field_gap_t51_100",
+      "field_gap_t101_500",
+      "field_gap_t1_500"
+    ],
+    "endogenous_assigns_used_to_own": true,
+    "exogenous_reads_donor_cube": true,
+    "gap_expression_present": true,
+    "definition_confirmed": true,
+    "endogenous_gap_is_zero_because_used_equals_own": true,
+    "measures_donor_versus_own_only_when_source_is_exogenous": true
+  },
+  "manifest": {
+    "checked_count": 2020,
+    "match_count": 2019,
+    "manifest_all_matched": false,
+    "mismatch_count": 1,
+    "mismatches": [
+      {
+        "path": "data/worlds/world_v0_20/progress.jsonl",
+        "expected_hash": "4274375e426f810ee39a3265cd6212a43cfe3f5f9dffcb6f8c44921a648ab643",
+        "actual_hash": "50a467909d67083db05599947c04d88bf2697aa4a6f21e1aa7d6186612983599",
+        "progress": {
+          "expected_hash": "4274375e426f810ee39a3265cd6212a43cfe3f5f9dffcb6f8c44921a648ab643",
+          "actual_full_hash": "50a467909d67083db05599947c04d88bf2697aa4a6f21e1aa7d6186612983599",
+          "prefix_hash": "4274375e426f810ee39a3265cd6212a43cfe3f5f9dffcb6f8c44921a648ab643",
+          "prefix_byte_length": 9682,
+          "remainder_byte_length": 92,
+          "prefix_matches_manifest": true,
+          "remainder_is_one_newline_terminated_record": true,
+          "remainder_stage": "finished",
+          "remainder_status": "COMPLETE",
+          "remainder_elapsed_seconds": 6102.0948699999135,
+          "explained_as_final_finished_append": true
+        }
+      }
+    ],
+    "other_listed_files_match": true,
+    "progress_explained_as_final_finished_append": true,
+    "archive_fully_verified": false
+  },
+  "elapsed": {
+    "completion_status_seconds": 6096.137776999967,
+    "completion_status_meaning": "written before figures, the report, and the manifest",
+    "report_generation_quotes": {
+      "docs": [
+        "正式執行器耗時 6098.0 秒。LLM calls = 0。"
+      ],
+      "data_archive": [
+        "正式執行器耗時 6098.0 秒。LLM calls = 0。",
+        "正式執行器耗時 6102.1 秒，exit 0。歷史 lineage 57，新正式世界 73000，整合子集 219 已包含在其中，額外 replay 219，合計世界執行 73276。單元測試的短軌跡另計。`pytest -m \"not slow\"` 為 234 passed、7 deselected，141.93 秒。完整 pytest 為 241 passed，1335.63 秒。LLM calls = 0。Experiment 001–019 的研究輸出、weights、manifest 與 Research Synthesis v0.16 沒有被改寫。本輪到此停止，不開始 Experiment 021。"
+      ]
+    },
+    "finished_progress_seconds": 6102.0948699999135,
+    "finished_progress_meaning": "appended to progress.jsonl after the manifest was written"
+  },
+  "frozen_hashes": {
+    "run_manifest": "07ec5153e231921ba32deeaaba172eea48b8a152f82a3a3245eed894e03a40e9",
+    "progress_jsonl": "50a467909d67083db05599947c04d88bf2697aa4a6f21e1aa7d6186612983599",
+    "data_report": "0569ad81309c1327c9730aea0405833268e1b6c9867a4d2152c22b3a20cb2589",
+    "completion_status": "4140dddb127f9775d6634abadb8ca70a23bfccb0e2c338b0ccc656519dcbc1cc",
+    "uncertainty_analysis": "cdd733542999fa813a07260c01956abef45cf91b818da43e994642f847a9106f",
+    "experiment_020_py": "023d4492f463165fa618f31a53812f76fca9bd95b6eb3e12775202e74cf92a3f"
+  },
+  "llm_calls": 0
+}

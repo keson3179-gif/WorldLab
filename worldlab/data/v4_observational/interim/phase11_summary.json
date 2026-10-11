@@ -1,0 +1,57 @@
+{
+  "analysis_role": "exploratory",
+  "rows": 528,
+  "share_defined_rows": 524,
+  "excluded_rows": 4,
+  "groups": [
+    {
+      "parent_area": "玉山國家公園",
+      "defined_months": 120,
+      "normalized_hhi_sd": 0.13067404852792228,
+      "hhi_lag1_correlation": 0.5416760016780124,
+      "total_hhi_change_correlation": 0.1784007051257233,
+      "retrospective_origins": 85,
+      "freeze_at_2024": false
+    },
+    {
+      "parent_area": "阿里山國家風景區",
+      "defined_months": 45,
+      "normalized_hhi_sd": 0.1096709971498997,
+      "hhi_lag1_correlation": 0.24735280006794289,
+      "total_hhi_change_correlation": -0.06427855715908336,
+      "retrospective_origins": 0,
+      "freeze_at_2024": false
+    },
+    {
+      "parent_area": "太魯閣國家公園",
+      "defined_months": 144,
+      "normalized_hhi_sd": 0.15553674160276626,
+      "hhi_lag1_correlation": 0.8739577752989794,
+      "total_hhi_change_correlation": -0.16297701978624254,
+      "retrospective_origins": 109,
+      "freeze_at_2024": false
+    },
+    {
+      "parent_area": "雪霸國家公園",
+      "defined_months": 144,
+      "normalized_hhi_sd": 0.18301814705895325,
+      "hhi_lag1_correlation": 0.5801136722685628,
+      "total_hhi_change_correlation": -0.49807521704983515,
+      "retrospective_origins": 109,
+      "freeze_at_2024": false
+    },
+    {
+      "parent_area": "金門國家公園",
+      "defined_months": 71,
+      "normalized_hhi_sd": 0.014423095649862971,
+      "hhi_lag1_correlation": 0.7524790081762202,
+      "total_hhi_change_correlation": -0.28501372809205805,
+      "retrospective_origins": 6,
+      "freeze_at_2024": false
+    }
+  ],
+  "holdout_visits_used": false,
+  "holdout_used_for_selection": false,
+  "protected_files_unchanged": true,
+  "model_fitted": false
+}

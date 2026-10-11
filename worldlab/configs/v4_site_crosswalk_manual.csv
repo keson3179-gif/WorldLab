@@ -1,0 +1,6 @@
+﻿site_id,official_name,county,parent_area,candidate_name,candidate_poi_id,latitude,longitude,candidate_district,candidate_category,match_method,match_score,match_status,conflict_reason,review_suggestion,unique_sites_in_four_areas,candidate_rows_in_four_areas
+stat_453a3cdede28307b,野柳海洋世界,新北市,北海岸及觀音山國家風景區,野柳海洋世界,Attraction_382000000A_403424,25.20520,121.69122,萬里區,遊憩類,exact_unique_same_county,100.0,confirmed_manual,無第二個候選,同縣市只有一筆景點，正規化名稱相同，且有座標。,28,36
+stat_0adaac20aacef973,三仙臺,臺東縣,東部海岸國家風景區,三仙台,Attraction_A15010100H_000041,23.12316,121.41104,成功鎮,國家風景區類,exact_unique_same_county,100.0,confirmed_manual,無第二個候選,同縣市只有一筆景點，正規化名稱相同，且有座標。表面字形不同，但是正規化後相同，例如臺與台。,28,36
+stat_681ea5fa4c40e359,擎天崗,臺北市,陽明山國家公園,擎天崗,Attraction_379000000A_000246,25.16727,121.57419,士林區,"生態類,國家公園類,自然風景類,遊憩類,體育健身類,國家自然公園類",exact_unique_same_county,100.0,confirmed_manual,無第二個候選,同縣市只有一筆景點，正規化名稱相同，且有座標。,28,36
+stat_7b805f4368e72380,陽明公園,臺北市,陽明山國家公園,陽明公園,Attraction_379000000A_000414,25.15921,121.54013,北投區,"生態類,國家公園類,自然風景類,遊憩類,國家自然公園類",exact_unique_same_county,100.0,confirmed_manual,無第二個候選,同縣市只有一筆景點，正規化名稱相同，且有座標。,28,36
+stat_339919f023f3db7c,陽明書屋,臺北市,陽明山國家公園,陽明書屋,Attraction_379000000A_000027,25.16164,121.53894,北投區,"生態類,文化資產類,國家公園類,自然風景類,遊憩類,水域環境類",exact_unique_same_county,100.0,confirmed_manual,無第二個候選,同縣市只有一筆景點，正規化名稱相同，且有座標。,28,36

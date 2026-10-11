@@ -1,0 +1,13 @@
+{
+  "verified_rows": 5716,
+  "unknown_parent": 3484,
+  "maolin_rows": 120,
+  "site_uids": 711,
+  "levels": {
+    "C": 35,
+    "B": 9
+  },
+  "exploratory_rows": 2185,
+  "protected_files_unchanged": true,
+  "holdout_used_for_selection": false
+}

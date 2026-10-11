@@ -1,0 +1,15 @@
+﻿feature_name,parent_area,sites_with_values,historical_months,coverage,within_group_variation,temporal_variation,publication_date_share,strict_cutoff,ex_post_only,independent_of_visit_share,share_increment,historical_availability_status,analysis_role,imputed_values
+weekend_days,玉山國家公園,3,120,1.000,false,true,0.000,true,false,true,false,historical_asof_supported,not_a_share_model,0
+weekend_days,太魯閣國家公園,3,144,1.000,false,true,0.000,true,false,true,false,historical_asof_supported,not_a_share_model,0
+weekend_days,雪霸國家公園,3,144,1.000,false,true,0.000,true,false,true,false,historical_asof_supported,not_a_share_model,0
+named_holiday_days,玉山國家公園,3,60,0.500,false,true,0.000,false,false,true,false,retrospective_proxy_only,not_a_share_model,0
+named_holiday_days,太魯閣國家公園,3,84,0.583,false,true,0.000,false,false,true,false,retrospective_proxy_only,not_a_share_model,0
+named_holiday_days,雪霸國家公園,3,84,0.583,false,true,0.000,false,false,true,false,retrospective_proxy_only,not_a_share_model,0
+same_month_mean_daily_max_c,玉山國家公園,0,0,0.000,false,false,0.000,false,true,true,false,retrospective_proxy_only,ex_post_conditional_analysis,0
+same_month_mean_daily_max_c,太魯閣國家公園,1,103,0.238,false,true,0.000,false,true,true,false,retrospective_proxy_only,ex_post_conditional_analysis,0
+same_month_mean_daily_max_c,雪霸國家公園,1,108,0.250,false,true,0.000,false,true,true,false,retrospective_proxy_only,ex_post_conditional_analysis,0
+lagged_mean_daily_max_c,玉山國家公園,0,0,0.000,false,false,0.000,false,false,true,false,retrospective_proxy_only,not_a_share_model,0
+lagged_mean_daily_max_c,太魯閣國家公園,1,102,0.236,false,true,0.000,false,false,true,false,retrospective_proxy_only,not_a_share_model,0
+lagged_mean_daily_max_c,雪霸國家公園,1,107,0.248,false,true,0.000,false,false,true,false,retrospective_proxy_only,not_a_share_model,0
+public_attention,all,0,0,0.000,false,false,0.000,false,false,true,false,unavailable_or_unreliable,external_social_information_unobserved,0
+event_count,all,0,0,0.000,false,false,0.000,false,false,true,false,current_snapshot_only,current_event_feed_not_historical,0

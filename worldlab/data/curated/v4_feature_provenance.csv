@@ -1,0 +1,17 @@
+﻿feature_name,source_file,source_date,historical_availability_status,note
+weekend_days,gregorian_calendar,,historical_asof_supported,週末天數由曆法決定，三個據點同月相同，softmax 會抵消。
+named_holiday_days,政府行事曆,,retrospective_proxy_only,"辦公日曆檔沒有公布日。2012–2016 沒有本地檔，沒有填補。 缺年：[2012, 2013, 2014, 2015, 2016]。"
+lagged_mean_daily_max_c,station_month_heat_metrics_v0.2.csv,,retrospective_proxy_only,沿用 v0.2 主站，沒有重配，也沒有景點高程。氣候距平欄未使用。發布日不可重建。
+same_month_mean_daily_max_c,station_month_heat_metrics_v0.2.csv,,retrospective_proxy_only,目標月的實際最高溫平均是事後觀測，分析角色是 ex_post_conditional_analysis。
+event_count,EventList.xml,2026-10-10,current_snapshot_only,活動 1137 筆，開始月 2025-01 至 2026-12。開發窗內同名活動 0 筆。
+public_attention,,,unavailable_or_unreliable,external_social_information_unobserved
+tdx_access,,,unavailable_or_unreliable,offline
+prior_station_link,attraction_station_primary_high_v0.2.csv,,unavailable_or_unreliable,塔塔加遊憩區 station none km  elevation_checked false
+prior_station_link,attraction_station_primary_high_v0.2.csv,,unavailable_or_unreliable,玉山管理處遊客服務中心 station none km  elevation_checked false
+prior_station_link,attraction_station_primary_high_v0.2.csv,,unavailable_or_unreliable,排雲山莊 station none km  elevation_checked false
+prior_station_link,attraction_station_primary_high_v0.2.csv,,retrospective_proxy_only,太魯閣國家公園遊客中心 station C0T820 km 4.819 elevation_checked false
+prior_station_link,attraction_station_primary_high_v0.2.csv,,unavailable_or_unreliable,臺八線沿線景觀區 station none km  elevation_checked false
+prior_station_link,attraction_station_primary_high_v0.2.csv,,unavailable_or_unreliable,布洛灣遊憩區 station none km  elevation_checked false
+prior_station_link,attraction_station_primary_high_v0.2.csv,,unavailable_or_unreliable,觀霧遊客中心 station none km  elevation_checked false
+prior_station_link,attraction_station_primary_high_v0.2.csv,,unavailable_or_unreliable,汶水遊客中心 station none km  elevation_checked false
+prior_station_link,attraction_station_primary_high_v0.2.csv,,retrospective_proxy_only,雪見遊憩區 station C0E610 km 8.925 elevation_checked false
